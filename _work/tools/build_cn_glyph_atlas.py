@@ -23,8 +23,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parents[2]
 TSVS = [
-    ROOT / "_work" / "translation" / "chapter01_priority.tsv",
-    ROOT / "_work" / "translation" / "remaining_after_chapter01.tsv",
+    ROOT / "_work" / "translation" / "nolf2_cn_strings.tsv",
 ]
 OUT_DIR = ROOT / "_work" / "build_cn_renderer"
 ATLAS_DTX = OUT_DIR / "stage" / "Interface" / "Fonts" / "NOLF2CN_ATLAS.DTX"

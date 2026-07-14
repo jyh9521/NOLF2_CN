@@ -4,7 +4,11 @@ Assemble the integrated release: Modernizer 2 core + Simplified-Chinese renderer
 Run this AFTER `python _work\\tools\\build_phase1_renderer.py` (which recompiles the proxy
 with the NOLF2_CN\\ paths and produces the REZ + NOLF2_CN\\ runtime files).
 
-Output: <game root>\\NOLF2_简体中文汉化_v1.0.zip
+For a translation-only update (proxy + glyph atlas unchanged, e.g. only edited zh with no
+new glyphs), you can skip the phase1 rebuild entirely: this script falls back to the REZ
+already installed in NOLF2_CN\\ and just repackages it with the freshly-built STRINGS.bin.
+
+Output: <game root>\\NOLF2_简体中文汉化_v1.1.zip
 The zip contents overlay directly onto a CLEAN NOLF2 1.3 install (Modernizer is bundled).
 """
 import re
@@ -13,13 +17,17 @@ import zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-VERSION = "v1.0"
+VERSION = "v1.1"
 REL_NAME = f"NOLF2_简体中文汉化_{VERSION}"
 STAGE = ROOT / "_work" / "release_stage" / REL_NAME
 OUT_ZIP = ROOT / f"{REL_NAME}.zip"
 
-CN_REZ_SRC = ROOT / "_work" / "build_phase1_renderer" / "NOLF2_CN_PHASE1.rez"
 CN_DIR_SRC = ROOT / "NOLF2_CN"          # produced by build_phase1_renderer stage()
+# Prefer a fresh phase1 build; if absent (e.g. a translation-only update where the proxy
+# and glyph atlas are unchanged), reuse the already-installed REZ in NOLF2_CN\.
+CN_REZ_SRC = ROOT / "_work" / "build_phase1_renderer" / "NOLF2_CN_PHASE1.rez"
+if not CN_REZ_SRC.exists():
+    CN_REZ_SRC = CN_DIR_SRC / "NOLF2_CN.rez"
 
 # Modernizer 2 Beta 2c core files (added/replaced on top of vanilla 1.3). Missing ones are
 # skipped with a warning (e.g. optional readmes).
@@ -55,9 +63,13 @@ LAUNCHER_BAT = (
 
 README = """\
 ====================================================================
- 无人永生 2（No One Lives Forever 2）简体中文汉化  v1.0
+ 无人永生 2（No One Lives Forever 2）简体中文汉化  v1.1
  （已内置 Modernizer 2 Beta 2c 核心）
 ====================================================================
+
+本版更新（v1.1）
+--------------------------------------------------------------------
+- 统一了句尾标点风格，并修订了部分措辞，使译文更自然。
 
 一、前置要求
 --------------------------------------------------------------------
@@ -121,7 +133,7 @@ def main():
     # ---- verify prerequisites ----
     missing = []
     if not CN_REZ_SRC.exists():
-        missing.append(f"{CN_REZ_SRC}  (run build_phase1_renderer.py first)")
+        missing.append(f"{CN_REZ_SRC}  (run build_phase1_renderer.py first, or keep NOLF2_CN\\NOLF2_CN.rez)")
     for f in CN_RUNTIME:
         if not (CN_DIR_SRC / f).exists():
             missing.append(f"{CN_DIR_SRC / f}  (run build_phase1_renderer.py first)")
