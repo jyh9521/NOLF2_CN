@@ -1,0 +1,53 @@
+# ── Build artifacts / generated (all regenerable) ──
+_work/proxy_cshell_renderer/bin/
+_work/proxy_cshell_renderer/obj/
+_work/build_cn_renderer/
+_work/build_phase1_renderer/
+_work/release_stage/
+_work/extract_modernizer/
+_work/tools/__pycache__/
+_work/tools/pydeps/
+__pycache__/
+*.pyc
+
+# ── Generated汉化 runtime files ──
+/NOLF2_CN/
+/run_phase1_renderer.bat
+runtime.log
+launchcmds_cn.txt
+
+# ── Third-party / game assets & binaries (copyright — never commit) ──
+*.rez
+*.REZ
+*.dll
+*.DLL
+*.exe
+*.dtx
+*.DTX
+*.bin
+*.ttf
+*.ttc
+*.cab
+*.hdr
+*.inx
+*.ilg
+
+# ── Game configs / logs / saves ──
+*.cfg
+*.log
+/launchcmds.txt
+Profiles/
+Save/
+
+# ── Packages / backups ──
+*.zip
+_work/archive/
+_work/analysis/
+_work/source/
+_work/backup_*/
+_work/translation_archive/
+NOLF2_CN_WORK_BACKUP_*/
+NOLF2_简体中文汉化_*/
+
+# ── keep the translation source (override the *.bin rule doesn't hit .tsv) ──
+!_work/translation/*.tsv

@@ -1,0 +1,1229 @@
+id	symbols	category	source	source_lines	english	zh	status	note
+2500	IDS_MISSION_00_NAME	mission	CRES.DLL	to2:180	CHAPTER 1. Cate Archer Must Die!	第1章：凯特·阿彻必须死！	done	
+2501	IDS_MISSION_01_NAME	mission	CRES.DLL	to2:181	CHAPTER 2. Goodbye, Spy	第2章：再见了，间谍		
+2502	IDS_MISSION_02_NAME	mission	CRES.DLL	to2:182	CHAPTER 3. Project: Omega	第3章：欧米伽计划		
+2503	IDS_MISSION_03_NAME	mission	CRES.DLL	to2:183	CHAPTER 4. A Spy in H.A.R.M.'s Way	第4章：挡在H.A.R.M.路上的间谍		
+2504	IDS_MISSION_04_NAME	mission	CRES.DLL	to2:184	CHAPTER 5. Night Flight	第5章：夜间飞行		
+2505	IDS_MISSION_05_NAME	mission	CRES.DLL	to2:185	CHAPTER 6. Diary of a Double Agent	第6章：双面间谍日记		
+2506	IDS_MISSION_06_NAME	mission	CRES.DLL	to2:186	CHAPTER 7. Double Cross	第7章：反间计		
+2507	IDS_MISSION_07_NAME	mission	CRES.DLL	to2:187	CHAPTER 8. The Art of Murder	第8章：谋杀的艺术		
+2508	IDS_MISSION_08_NAME	mission	CRES.DLL	to2:188	CHAPTER 9. Ice Station Evil	第9章：邪恶冰站		
+2509	IDS_MISSION_09_NAME	mission	CRES.DLL	to2:189	CHAPTER 10. The Curse of Kali	第10章：迦梨的诅咒		
+2510	IDS_MISSION_10_NAME;IDS_MISSION_09_NAME2	mission	CRES.DLL	to2:190	CHAPTER 11. The Interlopers	第11章：不速之客		
+2511	IDS_MISSION_11_NAME;IDS_MISSION_09_NAME3	mission	CRES.DLL	to2:191	CHAPTER 12. Undersea	第12章：深海之下		
+2512	IDS_MISSION_12_NAME;IDS_MISSION_09_NAME4	mission	CRES.DLL	to2:4289	CHAPTER 13. Terror in the Deep	第13章：深海惊魂		
+2513	IDS_MISSION_13_NAME;IDS_MISSION_09_NAME5	mission	CRES.DLL	to2:4290	CHAPTER 14. Endgame	第14章：终局		
+2514	IDS_MISSION_14_NAME;IDS_MISSION_09_NAME6	mission	CRES.DLL	to2:4291	CHAPTER 15. Preemptive strike	第15章：先发制人		
+2515	IDS_MISSION_15_NAME;IDS_MISSION_09_NAME7	mission	CRES.DLL	to2:4292	<Mission Name>			
+2516	IDS_MISSION_16_NAME;IDS_MISSION_09_NAME8	mission	CRES.DLL	to2:4293	CHAPTER I. The Rescue	第I章：营救行动		
+2517	IDS_MISSION_17_NAME;IDS_MISSION_09_NAME9	mission	CRES.DLL	to2:4294	CHAPTER II. The Super Computer	第II章：超级计算机		
+2518	IDS_MISSION_18_NAME;IDS_MISSION_09_NAME10	mission	CRES.DLL	to2:4295	CHAPTER III. The Set Up	第III章：圈套		
+2519	IDS_MISSION_19_NAME;IDS_MISSION_09_NAME11	mission	CRES.DLL	to2:4296	CHAPTER IV. Sweep and Clear	第IV章：肃清行动		
+2520	IDS_MISSION_20_NAME;IDS_MISSION_09_NAME12	mission	CRES.DLL	to2:4297	CHAPTER V. Mime to Kill	第V章：杀人哑剧		
+2521	IDS_MISSION_21_NAME;IDS_MISSION_09_NAME13	mission	CRES.DLL	to2:4298	Demo.	演示。		
+2522	IDS_MISSION_22_NAME;IDS_MISSION_09_NAME14	mission	CRES.DLL	to2:4299	Demo.	演示。		
+2523	IDS_MISSION_23_NAME;IDS_MISSION_09_NAME15	mission	CRES.DLL	to2:4300	Demo.	演示。		
+2524	IDS_MISSION_24_NAME;IDS_MISSION_09_NAME16	mission	CRES.DLL	to2:4301	TEST TEST TEST TEST	测试 测试 测试 测试		
+2525	IDS_MISSION_25_NAME;IDS_MISSION_09_NAME17	mission	CRES.DLL	to2:4302	Technology Showcase	技术展示		
+2526	IDS_MISSION_26_NAME;IDS_MISSION_00_DEMONAME	mission	CRES.DLL	to2:4303	Cate Archer Must Die!	凯特·阿彻必须死！		
+2550	IDS_MISSION_00_LEVEL_00_NAME	mission	CRES.DLL	to2:197	The Director.	局长。		
+2551	IDS_MISSION_00_LEVEL_00_NAME2	mission	CRES.DLL	to2:198	Call it a hunch.	就当是直觉吧。	done	
+2552	IDS_MISSION_00_LEVEL_00_NAME3	mission	CRES.DLL	to2:199	I have bad news.	我有个坏消息。		
+2553	IDS_MISSION_00_LEVEL_00_NAME4	mission	CRES.DLL	to2:200	The spy is here!	那个间谍来了！		
+2554	IDS_MISSION_00_LEVEL_00_NAME5	mission	CRES.DLL	to2:201	Hunted.	遭到追杀。		
+2555	IDS_MISSION_00_LEVEL_00_NAME6	mission	CRES.DLL	to2:202	The death of Cate Archer.	凯特·阿彻之死。		
+2556	IDS_MISSION_00_LEVEL_00_NAME7	mission	CRES.DLL	to2:203	The specter of war.	战争阴影。		
+2557	IDS_MISSION_00_LEVEL_00_NAME8	mission	CRES.DLL	to2:204	Welcome to Siberia.	欢迎来到西伯利亚。		
+2558	IDS_MISSION_00_LEVEL_00_NAME9	mission	CRES.DLL	to2:205	The power station.	发电站。		
+2559	IDS_MISSION_00_LEVEL_00_NAME10	mission	CRES.DLL	to2:206	The communications tower.	通信塔。		
+2560	IDS_MISSION_00_LEVEL_00_NAME11	mission	CRES.DLL	to2:4371	Causing trouble.	制造麻烦。		
+2561	IDS_MISSION_00_LEVEL_00_NAME12	mission	CRES.DLL	to2:4372	Outer yard.	外院。		
+2562	IDS_MISSION_00_LEVEL_00_NAME13	mission	CRES.DLL	to2:4373	The old records building.	旧档案大楼。		
+2563	IDS_MISSION_00_LEVEL_00_NAME14	mission	CRES.DLL	to2:4374	Inner yard.	内院。		
+2564	IDS_MISSION_00_LEVEL_00_NAME15	mission	CRES.DLL	to2:4375	The basement.	地下室。		
+2565	IDS_MISSION_00_LEVEL_00_NAME16	mission	CRES.DLL	to2:4376	Main records building.	主档案大楼。		
+2566	IDS_MISSION_00_LEVEL_00_NAME17	mission	CRES.DLL	to2:4377	The basement.	地下室。		
+2567	IDS_MISSION_00_LEVEL_00_NAME18	mission	CRES.DLL	to2:4378	Inner yard.	内院。		
+2568	IDS_MISSION_00_LEVEL_00_NAME19	mission	CRES.DLL	to2:4379	Outer yard.	外院。		
+2569	IDS_MISSION_00_LEVEL_00_NAME20	mission	CRES.DLL	to2:4380	Exfiltration.	撤离。		
+2570	IDS_MISSION_00_LEVEL_00_NAME21	mission	CRES.DLL	to2:4381	Surprise, surprise.	真是意外啊。		
+2571	IDS_MISSION_00_LEVEL_00_NAME22	mission	CRES.DLL	to2:4382	Grasping at straws.	垂死挣扎。		
+2572	IDS_MISSION_00_LEVEL_00_NAME23	mission	CRES.DLL	to2:4383	The house where Melvin used to live.	梅尔文以前住过的房子。		
+2573	IDS_MISSION_00_LEVEL_00_NAME24	mission	CRES.DLL	to2:4384	Storm rolling in.	暴风雨即将来临。		
+2574	IDS_MISSION_00_LEVEL_00_NAME25	mission	CRES.DLL	to2:4385	Tornado trouble.	龙卷风之灾。		
+2575	IDS_MISSION_00_LEVEL_00_NAME26	mission	CRES.DLL	to2:4386	Carried away.	被卷走。		
+2576	IDS_MISSION_00_LEVEL_00_NAME27	mission	CRES.DLL	to2:4417	After the storm.	暴风雨过后。		
+2577	IDS_MISSION_00_LEVEL_00_NAME28	mission	CRES.DLL	to2:4418	Knife in the back.	背后一刀。		
+2578	IDS_MISSION_00_LEVEL_00_NAME29	mission	CRES.DLL	to2:4419	The password.	密码。		
+2579	IDS_MISSION_00_LEVEL_00_NAME30	mission	CRES.DLL	to2:4420	Planting a bug.	安装窃听器。		
+2580	IDS_MISSION_00_LEVEL_00_NAME31	mission	CRES.DLL	to2:4421	Wanted.	通缉。		
+2581	IDS_MISSION_00_LEVEL_00_NAME32	mission	CRES.DLL	to2:4422	Evil Alliance.	邪恶联盟。		
+2582	IDS_MISSION_00_LEVEL_00_NAME33	mission	CRES.DLL	to2:4423	The vault.	金库。		
+2583	IDS_MISSION_00_LEVEL_00_NAME34	mission	CRES.DLL	to2:4424	Crossfire.	交叉火力。		
+2584	IDS_MISSION_00_LEVEL_00_NAME35	mission	CRES.DLL	to2:4425	Invisible walls.	无形之墙。		
+2585	IDS_MISSION_00_LEVEL_00_NAME36	mission	CRES.DLL	to2:4426	The getaway.	逃脱。		
+2586	IDS_MISSION_00_LEVEL_00_NAME37	mission	CRES.DLL	to2:4427	Characters.	角色。		
+2587	IDS_MISSION_00_LEVEL_00_NAME38	mission	CRES.DLL	to2:4428	Antarctica.	南极洲。		
+2588	IDS_MISSION_00_LEVEL_00_NAME39	mission	CRES.DLL	to2:4429	Change of plans.	计划有变。		
+2589	IDS_MISSION_00_LEVEL_00_NAME40	mission	CRES.DLL	to2:4430	Proving ground.	试验场。		
+2590	IDS_MISSION_00_LEVEL_00_NAME41	mission	CRES.DLL	to2:4431	Kamal.	卡马尔。		
+2591	IDS_MISSION_00_LEVEL_00_NAME42	mission	CRES.DLL	to2:4432	UNITY Headquarters.	UNITY总部。		
+2592	IDS_MISSION_00_LEVEL_00_NAME43	mission	CRES.DLL	to2:211	UNITY Headquarters.	UNITY总部。		
+2593	IDS_MISSION_00_LEVEL_00_NAME44	mission	CRES.DLL	to2:212	Submarine bay.	潜艇船坞。		
+2594	IDS_MISSION_00_LEVEL_00_NAME45	mission	CRES.DLL	to2:213	Command deck.	指挥甲板。		
+2595	IDS_MISSION_00_LEVEL_00_NAME46	mission	CRES.DLL	to2:214	Crew deck.	船员甲板。		
+2596	IDS_MISSION_00_LEVEL_00_NAME47	mission	CRES.DLL	to2:215	Laboratories.	实验室。		
+2597	IDS_MISSION_00_LEVEL_00_NAME48	mission	CRES.DLL	to2:216	Armstrong in peril.	阿姆斯特朗命悬一线。		
+2598	IDS_MISSION_00_LEVEL_00_NAME49	mission	CRES.DLL	to2:217	The Devil and the deep blue sea.	进退两难。		
+2599	IDS_MISSION_00_LEVEL_00_NAME50	mission	CRES.DLL	to2:218	Expect flooding.	小心进水。		
+2700	IDS_MISSION_00_BRIEF	mission	CRES.DLL	to2:231	UNITY has sent Cate Archer to Japan to investigate a rumored international crime convention expected to take place in the pastoral village of Inotakimura. Her objective is to photograph the meeting's participants without arousing their suspicion.\n\nHer first task will be to locate agent Isamu Hatori, who will provide further information on her assignment. He's waiting somewhere in the village.	UNITY派凯特·阿彻前往日本，调查一场据传将在田园村庄稻泷村举行的国际犯罪大会。她的目标是在不引起与会者怀疑的情况下，拍下他们的照片。\n\n她的首要任务是找到特工羽鸟勇，他将提供这次任务的进一步情报。他正在村里的某处等候。	done	
+2701	IDS_MISSION_01_BRIEF	mission	CRES.DLL	to2:232	The meeting is scheduled to take place at the estate of an enigmatic figure known only as The Director. Cate will have to infiltrate the estate grounds, locate the main house, and find the window Hatori-san indicated on the map. This vantage should allow her to take the photographs she needs without exposing herself to unnecessary risk.\n\nOnce she's obtained the photos, she must return to the bridge where Yamata-san is waiting. A UNITY intercept team is standing by to evacuate her to Tokyo when the mission is complete.	会议预定在一位仅以“局长”为人所知的神秘人物宅邸中举行。凯特必须潜入宅邸范围，找到主宅，并寻找羽鸟先生在地图上标出的那扇窗户。从那里观察，应该能让她在无风险的情况下拍到所需照片。\n\n取得照片后，她必须返回山田先生等候的桥边。任务完成后，一支UNITY拦截小队会在那里接应，并将她撤往东京。		
+2702	IDS_MISSION_02_BRIEF	mission	CRES.DLL	to2:233	Spy plane photographs show a run-down, understaffed military base, but Mr. Barnes warns that this decrepitude is likely a ruse. Although the Americans often greatly overestimate Soviet military capacity, UNITY isn't taking any chances.\n\nThe first phase of Cate's mission is to facilitate her own escape. A little sabotage should go a long way toward preventing reinforcements from being called in.\n\nSanta has enlisted a pilot who is familiar with the region to get Cate in and out. She must protect him at all costs.	间谍飞机拍摄的照片显示，这是一座年久失修、人员不足的军事基地，但巴恩斯先生警告说，这种破败景象很可能只是伪装。尽管美国人经常严重高估苏联的军事实力，但UNITY仍不打算冒任何风险。\n\n凯特任务的第一阶段，是为自己的撤离创造条件。进行一些破坏，应该能有效阻止敌方呼叫增援。\n\n圣诞老人找来了一名熟悉当地情况的飞行员，负责接送凯特。她必须不惜一切代价保护他。		
+2703	IDS_MISSION_03_BRIEF	mission	CRES.DLL	to2:234	After analyzing the Americans' intelligence data, UNITY is convinced that Project: Omega is headquartered in the Main Records Building at the center of the compound. Security will be tight, so it won't be easy for Cate to reach the target site, let alone get inside and recover the data she requires.\n\nFortunately, she's going in under the cover of night, which should afford some small advantage.	分析完美国方面的情报数据后，UNITY确信欧米伽计划的核心位于基地中央的主档案大楼。那里戒备森严，凯特想接近目标地点已非易事，更别说进入内部并取得所需数据了。\n\n幸运的是，她将在夜色掩护下潜入，这多少能给她带来一点优势。		
+2704	IDS_MISSION_04_BRIEF	mission	CRES.DLL	to2:239	Now that Cate has recovered information on Project: Omega, she faces the even greater challenge of getting it out of the Soviet Union. To complicate matters further, both the Russians and H.A.R.M. are hunting for her.\n\nShe'll have to cross her fingers and hope that her meticulous preparations pay off. The night is about to light up.	凯特虽然已经取得了欧米伽计划的情报，却还面临着更艰巨的挑战：如何将情报带出苏联。更麻烦的是，苏联人和H.A.R.M.都在追捕她。\n\n她只能祈祷自己周密的准备能够奏效。今夜即将火光冲天。		
+2705	IDS_MISSION_05_BRIEF	mission	CRES.DLL	to2:240	Without any other compelling leads to follow, Cate heads to Akron, Ohio to search for clues at the former residence of the notorious Melvin Blitzny. Blitzny, a vacuum cleaner salesman by trade, had been groomed to assume the identity of UNITY operative Tom Goodman as part of H.A.R.M.'s last despicable plot. He met his end at the hands of his own mentor.\n\nWhatever trepidation Cate may feel at entering the domain of this treacherous man must be set aside if she is to achieve her goal.	由于没有其他更有价值的线索可供追查，凯特前往俄亥俄州阿克伦，在臭名昭著的梅尔文·布利茨尼故居搜寻线索。布利茨尼原本是一名吸尘器推销员。为了实施上一场卑劣的阴谋，H.A.R.M.将他培养成UNITY特工汤姆·古德曼的替身，准备让他冒用古德曼的身份，最终他却死在了自己导师手中。\n\n无论进入这个奸诈之人的住所让凯特感到多么不安，为了达成目标，她都必须抛开顾虑。		
+2706	IDS_MISSION_06_BRIEF	mission	CRES.DLL	to2:241	Magnus Armstrong has contacted his old friend Kamal, a disillusioned H.A.R.M. operative in India who promises his assistance. While Kamal isn't familiar with Project: Omega, he's certain any pertinent information can be found in the central vault at the Indian headquarters.\n\nBruno has concluded that a direct infiltration of the compound is too risky given the intense security Cate would likely face. Therefore, Kamal will help her accomplish perhaps her strangest objective thus far: to get a job with H.A.R.M. Once hired, she'll have the security clearance necessary to move about the compound freely.	马格努斯·阿姆斯特朗联系了自己的老朋友卡马尔。卡马尔是一名对H.A.R.M.心灰意冷的印度特工，并承诺提供协助。虽然他不了解欧米伽计划，但他确信，所有相关情报都能在印度总部的中央金库中找到。\n\n布鲁诺认为，考虑到凯特可能面对的严密安保，直接潜入总部的风险太大。因此，卡马尔会帮助她完成迄今为止或许最离奇的目标：设法进入H.A.R.M.工作。一旦被录用，她就能获得所需的安全权限，在总部内自由活动。		
+2707	IDS_MISSION_07_BRIEF	mission	CRES.DLL	to2:242	Having proven her value to H.A.R.M., Cate has secured a job with the very organization she has vowed to destroy. A higher security clearance should help her get close to the prize: the main vault. There she hopes to find the missing piece of the puzzle.\n\nUnfortunately, the vault is off limits to all but the highest ranking H.A.R.M. employees, so the biggest challenge still lies ahead. If only she could have unearthed better intelligence about the security countermeasures she must face.	凯特向H.A.R.M.证明了自己的价值，成功进入了这个她发誓要摧毁的组织。更高级别的安全权限，应该能帮助她接近真正的目标——主金库。她希望能在那里找到拼图中缺失的最后一块。\n\n遗憾的是，只有H.A.R.M.最高级别的员工才有权进入金库，因此最严峻的挑战仍在前方。要是她能提前获得更多关于安保措施的情报就好了。		
+2708	IDS_MISSION_08_BRIEF	mission	CRES.DLL	to2:243	The trail of clues has led Cate and Armstrong to a secret facility in Antarctica where H.A.R.M. is conducting Project: Omega. Once they discover its actual nature, they can plot a means of disrupting it.\n\nAssuming they don't strangle each other first.	线索将凯特和阿姆斯特朗引向了南极洲的一处秘密设施，H.A.R.M.正在那里实施欧米伽计划。只要查明计划的真正内容，他们就能设法将其破坏。\n\n前提是两人不会先掐死对方。		
+2709	IDS_MISSION_09_BRIEF	mission	CRES.DLL	to2:244	Because of Cate's success in India, The Director has ordered the destruction of H.A.R.M.'s Indian headquarters as punishment. The attack will provide an ideal field test for the super soldiers before they are sent to Khios on their primary mission.\n\nAlthough Cate has recovered vital information on Project: Omega, she has decided to proceed directly to India in hopes of averting the tragedy that is likely to unfold once the assault begins.	由于凯特在印度取得成功，局长下令摧毁H.A.R.M.印度总部，以示惩罚。在将超级士兵派往希俄斯执行主要任务前，这次袭击正好可以作为一次理想的实战测试。\n\n尽管凯特已经取得了关于欧米伽计划的重要情报，她仍决定立即赶往印度，希望能在进攻开始、悲剧发生之前阻止这一切。		
+3100	IDS_HINT_3100	mission	CRES.DLL	to2:6795	Tip: You can use the space bar to skip movie sequences, although it is recommended that you watch each movie the first time it plays. Note that you can turn Load Screen tips off in the Options - Game menu.	提示：你可以按“空格键”跳过过场动画，不过建议第一次播放时完整观看。你也可以在“选项—游戏”菜单中关闭载入界面提示。		
+3101	IDS_HINT_3101	mission	CRES.DLL	to2:6796	Tip: If you're not sure what to do next, check the Mission screen (default hotkey: Tab) to see your objectives. Also, the compass in the upper right of your screen often indicates important destinations.	提示：不确定下一步该做什么时，可以查看“任务”界面（默认快捷键：Tab），确认当前目标。此外，屏幕右上角的指南针也经常会标示重要地点。	done	
+3102	IDS_HINT_3102	mission	CRES.DLL	to2:6797	Tip: You can usually run and hide instead of fighting. Enemies can lose track of you at intersections if they didn't see which way you went. You can also escape by finding a Hiding Place.	提示：通常情况下，你可以选择逃跑并躲藏，而不是正面交战。如果敌人没有看清你去了哪个方向，就可能在岔路口跟丢你。你也可以通过寻找藏身处来摆脱追兵。		
+3103	IDS_HINT_3103	mission	CRES.DLL	to2:6798	Tip: Always search bodies for valuable items. You must hold down the Action button until the progress bar disappears in order to collect everything an enemy is carrying.	提示：务必搜查尸体，获取有价值的物品。你必须持续按住“操作”键，直到进度条消失，才能拿走敌人携带的全部物品。		
+3104	IDS_HINT_3104	mission	CRES.DLL	to2:6803	Tip: Be sure to spend your Skill Points to improve your abilities. Keep in mind that you can earn extra skill points by accomplishing optional objectives or finding intelligence items and Spy Training Manuals.	提示：记得使用技能点提升能力。完成可选目标，或找到情报物品和《间谍训练手册》，都可以获得额外技能点。		
+3105	IDS_HINT_3105	mission	CRES.DLL	to2:6804	Tip: If you find the game too difficult or not challenging enough, adjust the difficulty setting in the Options menu. You might also reevaluate your tactics if you're charging headlong into combat.	提示：如果你觉得游戏太难，或者缺乏挑战性，可以在“选项”菜单中调整难度设置。要是你总是迎头冲进战斗，也不妨重新考虑一下自己的战术。		
+3106	IDS_HINT_3106	mission	CRES.DLL	to2:6805	Tip: You may occasionally have to obtain special items to accomplish an objective. Consult the Inventory screen (default hotkey: N) to see items you're carrying and examine them for clues.	提示：有时你需要取得特殊物品才能完成目标。请查看“物品栏”界面（默认快捷键：N），确认当前携带的物品，并仔细检查其中是否藏有线索。		
+3107	IDS_HINT_3107	mission	CRES.DLL	to2:6806	Tip: Shooting a Tracking Device at an enemy will mark his or her position on your radar, making it easier for you to time your movements and to elude pursuers.	提示：向敌人发射追踪装置后，Ta的位置会显示在雷达上，方便你掌握行动时机并甩开追兵。		
+3108	IDS_HINT_3108	mission	CRES.DLL	to2:6807	Tip: Some weapons accommodate multiple varieties of ammunition. Use the Change Ammo key (default: F) to cycle through available ammo types or consult the Equipment screen (default: M).	提示：部分武器可以使用多种弹药。按“切换弹药”键（默认：F）可在现有弹药类型之间切换，也可以查看“装备”界面（默认快捷键：M）。		
+3109	IDS_HINT_3109	mission	CRES.DLL	to2:6808	Tip: Use the Intelligence screen (default: I) to examine any maps you've collected. By studying landmarks and using your compass, you should be able to figure out where you are and where you need to go.	提示：你可以在“情报”界面（默认快捷键：I）查看已经收集到的地图。只要观察地标并结合指南针，就应该能判断自己身在何处，以及下一步该去哪里。		
+3300	IDS_NAMES_3300	name	CRES.DLL	to2:6898	<NAMES>			
+3301	IDS_NAMES_3301	name	CRES.DLL	to2:6899	Bruno	布鲁诺		
+3302	IDS_NAMES_3302	name	CRES.DLL	to2:6900	Dr. Schenker	申克博士		
+3303	IDS_NAMES_3303	name	CRES.DLL	to2:6901	Mr. Jones	琼斯先生		
+3304	IDS_NAMES_3304	name	CRES.DLL	to2:6902	Armstrong	阿姆斯特朗		
+3305	IDS_NAMES_3305	name	CRES.DLL	to2:6903	Yamata-san	山田先生		
+3306	IDS_NAMES_3306	name	CRES.DLL	to2:6904	Hawkins	霍金斯		
+3307	IDS_NAMES_3307	name	CRES.DLL	to2:6905	Barnes	巴恩斯		
+3308	IDS_NAMES_3308	name	CRES.DLL	to2:6906	Kamal	卡马尔		
+3309	IDS_NAMES_3309	name	CRES.DLL	to2:6907	Banerjee	班纳吉		
+3310	IDS_NAMES_3310	name	CRES.DLL	to2:6908	Harij	哈里吉		
+3311	IDS_NAMES_3311	name	CRES.DLL	to2:6909	Pilot	飞行员		
+3312	IDS_NAMES_3312	name	CRES.DLL	to2:6914	Santa	圣诞老人		
+3313	IDS_NAMES_3313	name	CRES.DLL	to2:6915	Police	警察		
+3314	IDS_NAMES_3314	name	CRES.DLL	to2:6916	Hatori-san	羽鸟先生		
+3315	IDS_NAMES_3315	name	CRES.DLL	to2:6917	Malpani	马尔帕尼		
+3316	IDS_NAMES_3316	name	CRES.DLL	to2:6918	Spencer	斯宾塞		
+3317	IDS_NAMES_3317	name	CRES.DLL	to2:6919	Cate	凯特		
+4750	IDS_KEY_DESC_4750	other	CRES.DLL	to2:2537	<KEY ITEM DESCRIPTIONS>			
+4751	IDS_KEY_DESC_4751	other	CRES.DLL	to2:2538	A rusty flat head screwdriver.	一把生锈的一字螺丝刀。		
+4752	IDS_KEY_DESC_4752	other	CRES.DLL	to2:2543	A 60 watt light bulb.	一个60瓦的灯泡。		
+4753	IDS_KEY_DESC_4753	other	CRES.DLL	to2:2544	Grimy AA batteries. They seem to have run out of juice.	沾满污垢的AA电池，似乎已经没电了。		
+4754	IDS_KEY_DESC_4754	other	CRES.DLL	to2:2545	Shiny new AA batteries.	崭新的AA电池。		
+4755	IDS_KEY_DESC_4755	other	CRES.DLL	to2:2546	A briefcase to be delivered to Hatori-san.	一个要交给羽鸟先生的公文包。		
+4756	IDS_KEY_DESC_4756	other	CRES.DLL	to2:2547	You can use this fuel for the snowmobile.	这些燃料可以给雪地摩托使用。		
+4757	IDS_KEY_DESC_4757	other	CRES.DLL	to2:2548	This fuse appears to be in good condition.	这个保险丝看起来完好无损。		
+4758	IDS_KEY_DESC_4758	other	CRES.DLL	to2:2549	An ordinary key ring with several different keys.	一个普通的钥匙环，上面挂着几把不同的钥匙。		
+4759	IDS_KEY_DESC_4759	other	CRES.DLL	to2:2550	A coil of copper wire for electrical work.	一卷用于电气作业的铜线。		
+5000	IDS_MISSION_OBJ_5000	mission_objective	CRES.DLL	to2:307	<CHAPTER 1 & 2 OBJECTIVES>			
+5001	IDS_MISSION_OBJ_5001	mission_objective	CRES.DLL	to2:308	Rendezvous with Hatori-san.	与羽鸟先生会合。		
+5002	IDS_MISSION_OBJ_5002	mission_objective	CRES.DLL	to2:309	Discover the new location for the meeting.	查明会议的新地点。		
+5003	IDS_MISSION_OBJ_5003	mission_objective	CRES.DLL	to2:310	Report back to Hatori-san.	向羽鸟先生汇报。		
+5004	IDS_MISSION_OBJ_5004	mission_objective	CRES.DLL	to2:311	Infiltrate the estate grounds.	潜入宅邸范围。		
+5005	IDS_MISSION_OBJ_5005	mission_objective	CRES.DLL	to2:312	Photograph the meeting.	拍摄会议现场。		
+5006	IDS_MISSION_OBJ_5006	mission_objective	CRES.DLL	to2:313	Return to Yamata-san at the bridge.	返回桥边与山田先生会合。		
+5007	IDS_MISSION_OBJ_5007	mission_objective	CRES.DLL	to2:314	Recover remaining three pages of this letter.	找回这封信剩余的三页。		
+5008	IDS_MISSION_OBJ_5008	mission_objective	CRES.DLL	to2:2235	Deliver briefcase to Hatori-san.	将公文包交给羽鸟先生。		
+5009	IDS_MISSION_OBJ_5009	mission_objective	CRES.DLL	to2:2236	Erase three dead drop chalk marks.	清除三处秘密投递点的粉笔标记。		
+5010	IDS_MISSION_OBJ_5010	mission_objective	CRES.DLL	to2:2237	Try not to let enemies sound the alarm.	尽量别让敌人拉响警报。		
+5011	IDS_MISSION_OBJ_5011	mission_objective	CRES.DLL	to2:2238	Recover six pages of UNITY field manual.	找回UNITY外勤手册的六页内容。		
+5012	IDS_MISSION_OBJ_5012	mission_objective	CRES.DLL	to2:2239	Photograph Hatori-san.	给羽鸟先生拍照。		
+5013	IDS_MISSION_OBJ_5013	mission_objective	CRES.DLL	to2:2240	Recover all four pages of the UNITY field manual.	找回UNITY外勤手册的全部四页内容。		
+5014	IDS_MISSION_OBJ_5014	mission_objective	CRES.DLL	to2:2241	FAILED: Photograph the meeting.	失败：未能拍摄会议现场。		
+5015	IDS_MISSION_OBJ_5015	mission_objective	CRES.DLL	to2:2242	Don't let any alarms be sounded in the yard around the main house.	不要触发主宅周围庭院内的任何警报。		
+5016	IDS_MISSION_OBJ_5016	mission_objective	CRES.DLL	to2:2243	Don't make any suspicious noise near the window!	不要在窗户附近发出任何可疑声响！		
+5017	IDS_MISSION_OBJ_5017	mission_objective	CRES.DLL	to2:2244	<add objective>			
+5018	IDS_MISSION_OBJ_5018	mission_objective	CRES.DLL	to2:2245	<add objective>			
+5019	IDS_MISSION_OBJ_5019	mission_objective	CRES.DLL	to2:2246	<add objective>			
+6500	IDS_MISSIONFAILURE	mission_failure	CRES.DLL	to2:349	Unacceptable civilian casualties!	平民伤亡过多，无法接受！		
+6501	IDS_MISSIONFAILURE2	mission_failure	CRES.DLL	to2:350	You killed a civilian!	你杀害了一名平民！		
+6502	IDS_MISSIONFAILURE3	mission_failure	CRES.DLL	to2:351	You were apprehended!	你被逮捕了！		
+6503	IDS_MISSIONFAILURE4	mission_failure	CRES.DLL	to2:352	You were sucked into the tornado!	你被龙卷风卷走了！		
+6504	IDS_MISSIONFAILURE5	mission_failure	CRES.DLL	to2:353	You cut the wrong circuit!	你切错了线路！		
+6505	IDS_MISSIONFAILURE6	mission_failure	CRES.DLL	to2:354	You died!	你死了！		
+6506	IDS_MISSIONFAILURE7	mission_failure	CRES.DLL	to2:355	UNITY Headquarters has been destroyed!	UNITY总部被摧毁了！		
+6507	IDS_MISSIONFAILURE8	mission_failure	CRES.DLL	to2:356	You killed your pilot!	你杀死了飞行员！		
+6508	IDS_MISSIONFAILURE9	mission_failure	CRES.DLL	to2:357	You died!	你死了！		
+6509	IDS_MISSIONFAILURE10	mission_failure	CRES.DLL	to2:358	You died!	你死了！		
+6510	IDS_MISSIONFAILURE11	mission_failure	CRES.DLL	to2:359	You killed Hatori-san!	你杀死了羽鸟先生！		
+6511	IDS_MISSIONFAILURE12	mission_failure	CRES.DLL	to2:360	You allowed Hatori-san to be killed!	你没能阻止羽鸟先生遇害！		
+6512	IDS_MISSIONFAILURE13	mission_failure	CRES.DLL	to2:4881	You killed Armstrong!	你杀死了阿姆斯特朗！		
+6513	IDS_MISSIONFAILURE14	mission_failure	CRES.DLL	to2:4882	You allowed Armstrong to die!	你没能阻止阿姆斯特朗死亡！		
+6514	IDS_MISSIONFAILURE15	mission_failure	CRES.DLL	to2:4883	You killed your pilot! Now you can't go home!	你杀死了飞行员！现在你回不了家了！		
+6515	IDS_MISSIONFAILURE16	mission_failure	CRES.DLL	to2:4884	You allowed your pilot to be killed! 	你没能阻止飞行员遇害！		
+6516	IDS_MISSIONFAILURE17	mission_failure	CRES.DLL	to2:4885	Armstrong died!	阿姆斯特朗死了！		
+6517	IDS_MISSIONFAILURE18	mission_failure	CRES.DLL	to2:4886	You spent too long screwing around in the restroom and now you've blown your cover. You are quickly apprehended and tortured for information. In less than a week, the U.S. and U.S.S.R. are at war and most of civilization evaporates.	你在洗手间里磨蹭了太久，身份已经暴露。你很快便被逮捕，并遭到严刑逼供。不到一周，美国与苏联便爆发战争，大部分人类文明随之灰飞烟灭。		
+6518	IDS_MISSIONFAILURE19	mission_failure	CRES.DLL	to2:4887	Hatori-san's pacemaker failed. He's dead.	羽鸟先生的心脏起搏器失灵了，他死了。		
+6519	IDS_MISSIONFAILURE20	mission_failure	CRES.DLL	to2:4888	You killed Yamata-san!	你杀死了山田先生！		
+6520	IDS_MISSIONFAILURE21	mission_failure	CRES.DLL	to2:4889	You allowed Yamata-san to be killed!	你没能阻止山田先生遇害！		
+6521	IDS_MISSIONFAILURE22	mission_failure	CRES.DLL	to2:4890	Your plane was destroyed!	你的飞机被摧毁了！		
+6522	IDS_MISSIONFAILURE23	mission_failure	CRES.DLL	to2:4891	You blew your cover!	你的身份暴露了！		
+6523	IDS_MISSIONFAILURE24	mission_failure	CRES.DLL	to2:4892	You killed a police officer!	你杀死了一名警察！		
+6524	IDS_MISSIONFAILURE25	mission_failure	CRES.DLL	to2:4893	You killed Kamal!	你杀死了卡马尔！		
+6525	IDS_MISSIONFAILURE26	mission_failure	CRES.DLL	to2:4894	You killed Dr. Schenker!	你杀死了申克博士！		
+6526	IDS_MISSIONFAILURE27	mission_failure	CRES.DLL	to2:4895	You killed Mr. Barnes!	你杀死了巴恩斯先生！		
+6527	IDS_MISSIONFAILURE28	mission_failure	CRES.DLL	to2:4896	You killed General Hawkins!	你杀死了霍金斯将军！		
+6528	IDS_MISSIONFAILURE29	mission_failure	CRES.DLL	to2:6823	You've blown your cover! You no longer have a way to gain entry to their headquarters.	你的身份已经暴露！现在你再也无法进入他们的总部。		
+6529	IDS_MISSIONFAILURE30	mission_failure	CRES.DLL	to2:6824	Kamal was killed!	卡马尔被杀了！		
+7000	IDS_MULTI_OBJ_7000;IDS_TRANSMISSIONS_7000	mission	CRES.DLL	to2:382	<TRANSMISSIONS>			
+7001	IDS_TRANSMISSIONS_7001	mission	CRES.DLL	to2:383	Address the mechanical mynah bird for useful advice.	向机械八哥询问有用的建议。		
+7002	IDS_TRANSMISSIONS_7002	mission	CRES.DLL	to2:384	The fuse is dead. You'll have to replace it.	保险丝坏了，你得更换一个新的。		
+7003	IDS_TRANSMISSIONS_7003	mission	CRES.DLL	to2:385	The door is locked.	门锁着。		
+7004	IDS_TRANSMISSIONS_7004	mission	CRES.DLL	to2:386	The wires have shorted out. They can be repaired if you can find some copper wire.	线路短路了。如果能找到一些铜线，就可以修好。		
+7005	IDS_TRANSMISSIONS_7005	mission	CRES.DLL	to2:387	The valve handle is missing. You can't get a good grip with your bare hands.	阀门手柄不见了，徒手根本抓不牢。		
+7006	IDS_TRANSMISSIONS_7006	mission	CRES.DLL	to2:388	The door knob is missing.	门把手不见了。		
+7007	IDS_TRANSMISSIONS_7007	mission	CRES.DLL	to2:389	The power is out.	断电了。		
+7008	IDS_TRANSMISSIONS_7008	mission	CRES.DLL	to2:4256	You don't have the keys.	你没有钥匙。		
+7009	IDS_TRANSMISSIONS_7009	mission	CRES.DLL	to2:4257	The snowmobile is out of fuel.	雪地摩托没油了。		
+7010	IDS_TRANSMISSIONS_7010	mission	CRES.DLL	to2:4258	A vacuum tube is missing.	缺少一根真空管。		
+7011	IDS_TRANSMISSIONS_7011	mission	CRES.DLL	to2:4259	You need a password to access this computer.	你需要密码才能访问这台计算机。		
+7012	IDS_TRANSMISSIONS_7012	mission	CRES.DLL	to2:4260	Enter the index number.	请输入索引编号。		
+7013	IDS_TRANSMISSIONS_7013	mission	CRES.DLL	to2:4261	It won't work without batteries.	没有电池就无法使用。		
+7014	IDS_TRANSMISSIONS_7014	mission	CRES.DLL	to2:4262	It's too heavy for you to lift.	它太重了，你抬不起来。		
+7015	IDS_TRANSMISSIONS_7015	mission	CRES.DLL	to2:4263	I found 10 Rupees.	我找到了10卢比。		
+7016	IDS_TRANSMISSIONS_7016	mission	CRES.DLL	to2:4264	I've found 10 Rupees. Only 40 more Rupees to go.	我找到了10卢比，还差40卢比。		
+7017	IDS_TRANSMISSIONS_7017	mission	CRES.DLL	to2:4265	I've found 10 Rupees. Only 30 more Rupees to go.	我找到了10卢比，还差30卢比。		
+7018	IDS_TRANSMISSIONS_7018	mission	CRES.DLL	to2:4266	I've found 10 Rupees. Only 20 more Rupees to go.	我找到了10卢比，还差20卢比。		
+7019	IDS_TRANSMISSIONS_7019	mission	CRES.DLL	to2:4267	I've found 10 Rupees. Only 10 more Rupees to go.	我找到了10卢比，还差10卢比。		
+7020	IDS_TRANSMISSIONS_7020	mission	CRES.DLL	to2:4268	That makes 50 Rupees! Let's head to the gate.	凑够50卢比了！去大门吧。		
+7021	IDS_TRANSMISSIONS_7021	mission	CRES.DLL	to2:4269	I found a note from Balaji to his mistress. We need to find the set of keys he left for her nearby. Fan out and search the area.	我找到了巴拉吉写给情妇的便条。我们需要找到他留在附近、准备交给情妇的那串钥匙。分头搜索这一带。		
+7022	IDS_TRANSMISSIONS_7022	mission	CRES.DLL	to2:4270	I found a note from Balaji's mistress to meet at her apartment. Look for a flowerbox outside and find a spot across the street. We can photograph them through the window.	我找到了巴拉吉的情妇留下的便条，上面约他在她的公寓见面。寻找门外摆着花箱的房间，再找到街对面合适的位置，我们就能透过窗户给他们拍照。		
+7023	IDS_TRANSMISSIONS_7023	mission	CRES.DLL	to2:4271	I found the keys to Balaji's apartment. Let's search the place for clues.	我找到了巴拉吉的公寓钥匙。进去搜查，看看有没有线索。		
+7024	IDS_TRANSMISSIONS_7024	mission	CRES.DLL	to2:4320	BRUNO: A Soviet spy has unlocked the installation gates. Get inside and plant explosives. Fuel depots would make excellent targets. Good luck!	布鲁诺：一名苏联间谍已经打开了设施大门。进入基地并安放炸药，燃料库会是绝佳目标。祝你好运！		
+7025	IDS_TRANSMISSIONS_7025	mission	CRES.DLL	to2:4321	The gate to the Old Records Building is locked with a weldable lock.	旧档案大楼的大门上有一把可以用焊接器破坏的锁。		
+7026	IDS_TRANSMISSIONS_7026	mission	CRES.DLL	to2:4322	I've welded the lock off the gate to the Old Records Building.	我已经焊掉了旧档案大楼大门上的锁。		
+7027	IDS_TRANSMISSIONS_7027	mission	CRES.DLL	to2:4323	BRUNO: Good work team. Unfortunately you'll have to hold off the Soviets until the UNITY extraction team can arrive.	布鲁诺：干得好，各位。遗憾的是，在UNITY撤离小队赶到之前，你们必须先挡住苏联人。		
+7028	IDS_TRANSMISSIONS_7028	mission	CRES.DLL	to2:4324	The doors are locked. Perhaps you can find a loose set of keys.	门锁着，也许能找到一串没人看管的钥匙。		
+7029	IDS_TRANSMISSIONS_7029	mission	CRES.DLL	to2:4325	I've planted explosive number 1.	我已经安放了1号炸药。		
+7030	IDS_TRANSMISSIONS_7030	mission	CRES.DLL	to2:4326	I've planted explosive number 2.	我已经安放了2号炸药。		
+7031	IDS_TRANSMISSIONS_7031	mission	CRES.DLL	to2:4327	I've planted explosive number 3.	我已经安放了3号炸药。		
+7032	IDS_TRANSMISSIONS_7032	mission	CRES.DLL	to2:4328	I've planted explosive number 4. 	我已经安放了4号炸药。		
+7033	IDS_TRANSMISSIONS_7033	mission	CRES.DLL	to2:4329	I've saved Mr. Barnes.	我救出了巴恩斯先生。		
+7034	IDS_TRANSMISSIONS_7034	mission	CRES.DLL	to2:4330	I've saved General Hawkins.	我救出了霍金斯将军。		
+7035	IDS_TRANSMISSIONS_7035	mission	CRES.DLL	to2:4331	I've saved Dr. Schenker.	我救出了申克博士。		
+7036	IDS_TRANSMISSIONS_7036	mission	CRES.DLL	to2:4332	I've saved the UNITY Researcher.	我救出了UNITY研究员。		
+7037	IDS_TRANSMISSIONS_7037	mission	CRES.DLL	to2:4333	The doors and gates are inoperative. You need to turn the power back on first.	这些门和大门都无法使用。你必须先恢复供电。		
+7038	IDS_TRANSMISSIONS_7038	mission	CRES.DLL	to2:4334	You need to find Cate and bring her to the extraction point!	你需要找到凯特，并把她带到撤离点！		
+7039	IDS_TRANSMISSIONS_7039	mission	CRES.DLL	to2:4335	I've found Cate and am bringing her back to the extraction point. I'll need everyone's protection on the return trip.	我已经找到凯特，正带她返回撤离点。回程途中需要所有人提供掩护。		
+7040	IDS_TRANSMISSIONS_7040	mission	CRES.DLL	to2:4340	I'm at the rally point.	我已经抵达集合点。		
+7041	IDS_TRANSMISSIONS_7041	mission	CRES.DLL	to2:4341	I'm at the extraction point.	我已经抵达撤离点。		
+7042	IDS_TRANSMISSIONS_7042	mission	CRES.DLL	to2:4342	Let's meet at the next rally point.	我们在下一个集合点会合。		
+7043	IDS_TRANSMISSIONS_7043	mission	CRES.DLL	to2:4343	This door is locked. You need to find the keys.	这扇门锁着。你得找到钥匙。		
+7044	IDS_TRANSMISSIONS_7044	mission	CRES.DLL	to2:4344	If only you had some sugar...	要是有点糖就好了……		
+7045	IDS_TRANSMISSIONS_7045	mission	CRES.DLL	to2:4345	You were caught sneaking around!	你偷偷摸摸时被抓住了！		
+7046	IDS_TRANSMISSIONS_7046	mission	CRES.DLL	to2:4346	To open this safe, you'll need to find the combination numbers.	想打开这个保险柜，你得先找到各位数密码。		
+7047	IDS_TRANSMISSIONS_7047	mission	CRES.DLL	to2:4347	The gate seems to be barred from the other side.	大门似乎从另一侧闩住了。		
+7048	IDS_TRANSMISSIONS_7048	mission	CRES.DLL	to2:4348	The door is locked from the other side.	门从另一侧锁住了。		
+7049	IDS_TRANSMISSIONS_7049	mission	CRES.DLL	to2:4349	You don't have the combination.	你不知道密码。		
+7050	IDS_TRANSMISSIONS_7050	mission	CRES.DLL	to2:4350	The door is locked from the inside.	门从里面锁住了。		
+7051	IDS_TRANSMISSIONS_7051	mission	CRES.DLL	to2:4351	Consult Intelligence screen (default hotkey: I) to review information.	请查看“情报”界面（默认快捷键：I）以回顾相关信息。		
+7052	IDS_TRANSMISSIONS_7052	mission	CRES.DLL	to2:4352	You found the keys to the snowmobile.	你找到了雪地摩托的钥匙。		
+7053	IDS_TRANSMISSIONS_7053	mission	CRES.DLL	to2:4353	A screwdriver is needed to open this panel.	需要一把螺丝刀才能打开这个面板。		
+7054	IDS_TRANSMISSIONS_7054	mission	CRES.DLL	to2:4354	Primary objective failed. No Skill Points awarded.\nReturn to Yamata-san at the bridge.	主要目标失败，无法获得技能点。\n返回桥边与山田先生会合。		
+7055	IDS_TRANSMISSIONS_7055	mission	CRES.DLL	to2:4355	I've turned the power back on. Head back to the security gates.	我已经恢复供电，返回安全门吧。		
+7056	IDS_TRANSMISSIONS_7056	mission	CRES.DLL	to2:4821	I've just seen Armstrong being air lifted out by helicopter along with a strange creature. Please advise.	我刚刚看到阿姆斯特朗和一个奇怪的生物一起被直升机空运走了，请指示下一步行动。		
+7057	IDS_TRANSMISSIONS_7057	mission	CRES.DLL	to2:4822	BRUNO: We can't save Armstrong now. See if you can find out where they are taking him.	布鲁诺：现在已经救不了阿姆斯特朗了，设法查清他们要把他带到哪里。		
+7058	IDS_TRANSMISSIONS_7058	mission	CRES.DLL	to2:4823	I've located the information on Armstrong's whereabouts. Advise on the next course of action.	我已经查到阿姆斯特朗的去向，请指示下一步行动。		
+7059	IDS_TRANSMISSIONS_7059	mission	CRES.DLL	to2:4824	BRUNO: Let's bring this place to the ground. Explosives are being air dropped to you now. Check outside to find them.	布鲁诺：把这里夷为平地吧。炸药正在空投给你，去外面找找。		
+10001	IDS_DIALOGUE_10001	dialogue	CRES.DLL	to2:408	Um, excuse me, miss. The Director has requested an audience with you.	呃，打扰一下，小姐，局长要见您。		
+10002	IDS_DIALOGUE_10002	dialogue	CRES.DLL	to2:409	Right, well, I'll just tell him you'll be along shortly then.	好的，那我就告诉他，您马上过去。		
+10003	IDS_DIALOGUE_10003	dialogue	CRES.DLL	to2:410	Mother, you can't keep calling me at work. I have an operation to run.	妈，你不能总往我工作的地方打电话，我还有行动要指挥。		
+10004	IDS_DIALOGUE_10004	dialogue	CRES.DLL	to2:411	What am I supposed to do? You're never at home. How do you expect me to get in touch with you, carrier pigeon?	那我还能怎么办？你从来都不在家，难道要我派信鸽联系你吗？		
+10005	IDS_DIALOGUE_10005	dialogue	CRES.DLL	to2:412	Look, I've got to go.	听着，我得走了。		
+10006	IDS_DIALOGUE_10006	dialogue	CRES.DLL	to2:413	I haven't even told you why I called.	我还没告诉你为什么打电话呢。		
+10007	IDS_DIALOGUE_10007	dialogue	CRES.DLL	to2:414	Yes, well, maybe next time you'll get to the point instead of lambasting me for a quarter hour.	是啊，也许下次你能先说正事，而不是一开口就训我整整一刻钟。		
+10008	IDS_DIALOGUE_10008	dialogue	CRES.DLL	to2:415	Don't you hang up on me, do you hear me?	你敢挂我电话试试，听见没有？		
+10009	IDS_DIALOGUE_10009	dialogue	CRES.DLL	to2:416	I need a drink.	我需要喝一杯。		
+10010	IDS_DIALOGUE_10010	dialogue	CRES.DLL	to2:417	You wanted to see me?	您找我？		
+10011	IDS_DIALOGUE_10011	dialogue	CRES.DLL	to2:418	Mr. Volkov has requested your services. He's expecting someone to crash our little party tonight. He wants you to make our uninvited guest feel at home. Permanently.	沃尔科夫先生需要你效劳。他料到今晚会有人来搅局，希望你能让这位不速之客宾至如归——永远留下。		
+10012	IDS_DIALOGUE_10012	dialogue	CRES.DLL	to2:419	When will my debt be paid, sensei.	我的债什么时候才能还清，师父？		
+10013	IDS_DIALOGUE_10013	dialogue	CRES.DLL	to2:420	When I tell you it is.	等我说还清的时候。		
+10014	IDS_DIALOGUE_10014	dialogue	CRES.DLL	to2:421	I promise we'll talk about it further, but first... Cate Archer must die!	我答应会再和你谈这件事，不过首先……凯特·阿彻必须死！		
+10015	IDS_DIALOGUE_10015	dialogue	CRES.DLL	to2:422	Oui?	是吗？		
+10016	IDS_DIALOGUE_10016	dialogue	CRES.DLL	to2:4813	Ah, okay... sounds like...	啊，好吧……听起来像是……		
+10017	IDS_DIALOGUE_10017	dialogue	CRES.DLL	to2:4814	Fred Astaire?	弗雷德·阿斯泰尔？		
+10018	IDS_DIALOGUE_10018	dialogue	CRES.DLL	to2:4815	Bicycle?	自行车？		
+10019	IDS_DIALOGUE_10019	dialogue	CRES.DLL	to2:4816	Pony!	小马！		
+10065	IDS_DIALOGUE_10065	dialogue	CRES.DLL	to2:427	Sensei. The spy is here.	师父，那个间谍来了。		
+10066	IDS_DIALOGUE_10066	dialogue	CRES.DLL	to2:428	Kill her.	杀了她。		
+10067	IDS_DIALOGUE_10067	dialogue	CRES.DLL	to2:429	Uh oh.	糟了。		
+10068	IDS_DIALOGUE_10068	dialogue	CRES.DLL	to2:430	So, it was a trap.	这么说，这是个陷阱。		
+10069	IDS_DIALOGUE_10069	dialogue	CRES.DLL	to2:431	But why?	但为什么？		
+10070	IDS_DIALOGUE_10070	dialogue	CRES.DLL	to2:432	Don't be naive. You have many enemies.	别这么天真，你的仇家可不少。		
+10071	IDS_DIALOGUE_10071	dialogue	CRES.DLL	to2:433	Which one sent you?	是谁派你来的？		
+10072	IDS_DIALOGUE_10072	dialogue	CRES.DLL	to2:434	A secret admirer, then? How flattering.	那就是某位暗恋者喽？真让人受宠若惊。		
+10073	IDS_DIALOGUE_10073	dialogue	CRES.DLL	to2:435	I'm impressed. I didn't expect you to make it this far.	真令我刮目相看，没想到你能走到这里。		
+10074	IDS_DIALOGUE_10074	dialogue	CRES.DLL	to2:436	I'm sorry.	对不起。		
+10075	IDS_DIALOGUE_10075	dialogue	CRES.DLL	to2:437	You're sure she's dead?	你确定她死了？		
+10076	IDS_DIALOGUE_10076	dialogue	CRES.DLL	to2:438	Of course she is. Isako doesn't make mistakes. Do you, Isako?	当然死了。伊沙子从不失手，对吧，伊沙子？		
+10077	IDS_DIALOGUE_10077	dialogue	CRES.DLL	to2:439	Well, that's reassuring. Although I'd be even more reassured if you'd brought me proof.	那我就放心了。不过，要是你能带回证据，我会更放心。		
+10078	IDS_DIALOGUE_10078	dialogue	CRES.DLL	to2:440	Now, Dmitrij. What did you expect? Her head on a platter?	行了，德米特里。你还想要什么？把她的脑袋装在盘子里端来吗？		
+10079	IDS_DIALOGUE_10079	dialogue	CRES.DLL	to2:441	Director, your mother is on the phone.	局长，您母亲来电话了。		
+10080	IDS_DIALOGUE_10080	dialogue	CRES.DLL	to2:446	Oh, bother.	真麻烦。		
+10081	IDS_DIALOGUE_10081	dialogue	CRES.DLL	to2:447	Sensei. You said we could discuss my future when the girl was dead.	师父，您说过，等那个女人死后，我们就可以谈谈我的未来。		
+10082	IDS_DIALOGUE_10082	dialogue	CRES.DLL	to2:448	Your future? Your future is with us, my dear.	你的未来？亲爱的，你的未来就在我们这里。		
+10083	IDS_DIALOGUE_10083	dialogue	CRES.DLL	to2:449	Here's the number where you can reach me, old boy, although I'd encourage you not to.	这是能联系到我的号码，老伙计，不过我劝你最好别打。		
+10084	IDS_DIALOGUE_10084	dialogue	CRES.DLL	to2:450	Sir, please reconsider.	先生，请您再考虑一下。		
+10085	IDS_DIALOGUE_10085	dialogue	CRES.DLL	to2:451	I haven't had a proper vacation for 15 years. I won't be talked out of this one.	我已经十五年没正经休过假了，谁也别想劝我放弃这次假期。		
+10086	IDS_DIALOGUE_10086	dialogue	CRES.DLL	to2:452	I was referring to the idea of leaving me in charge.	我是说，把这里交给我负责这件事，请您再考虑一下。		
+10087	IDS_DIALOGUE_10087	dialogue	CRES.DLL	to2:453	Oh, do quit whining. Who else is there?	行了，别抱怨了。除了你还能有谁？		
+10088	IDS_DIALOGUE_10088	dialogue	CRES.DLL	to2:454	Well then, I'm off. See you in a few weeks.	那我走了，几周后见。		
+10089	IDS_DIALOGUE_10089	dialogue	CRES.DLL	to2:455	Yes, sir.	是，先生。		
+10090	IDS_DIALOGUE_10090	dialogue	CRES.DLL	to2:456	Temporary Director Lawrie?	劳里临时局长？		
+10091	IDS_DIALOGUE_10091	dialogue	CRES.DLL	to2:457	Yes.	是的。		
+10092	IDS_DIALOGUE_10092	dialogue	CRES.DLL	to2:458	Dr. Schenker to see you.	申克博士要见您。		
+10093	IDS_DIALOGUE_10093	dialogue	CRES.DLL	to2:459	Excellent. Send him in.	太好了，请他进来。		
+10094	IDS_DIALOGUE_10094	dialogue	CRES.DLL	to2:460	Doctor. How is she?	博士，她怎么样了？		
+10095	IDS_DIALOGUE_10095	dialogue	CRES.DLL	to2:461	Very lucky to be alive. The team found her just in time. She's been asking for you.	能活下来已经非常幸运了。救援队及时找到了她，她一直在问您。		
+10096	IDS_DIALOGUE_10096	dialogue	CRES.DLL	to2:466	Bruno! 	布鲁诺！		
+10097	IDS_DIALOGUE_10097	dialogue	CRES.DLL	to2:467	Sorry I couldn't come to Tokyo. The business in Prague turned a bit messy. How the bloody hell are you?	抱歉没能去东京。布拉格那边的事情变得有些棘手。你到底怎么样了？		
+10098	IDS_DIALOGUE_10098	dialogue	CRES.DLL	to2:468	Ready to get back to work.	已经准备好回去工作了。		
+10099	IDS_DIALOGUE_10099	dialogue	CRES.DLL	to2:469	Let's not be hasty.	先别急。		
+10100	IDS_DIALOGUE_10100	dialogue	CRES.DLL	to2:470	Hasty? It's been nearly two weeks.	还急？已经快两周了。		
+10101	IDS_DIALOGUE_10101	dialogue	CRES.DLL	to2:471	I wouldn't recommend any strenuous activity.	我不建议你进行任何剧烈活动。		
+10102	IDS_DIALOGUE_10102	dialogue	CRES.DLL	to2:472	Listen to the doctor. I need you in tip top shape.	听医生的。我需要你恢复到最佳状态。		
+10103	IDS_DIALOGUE_10103	dialogue	CRES.DLL	to2:473	Then let me do something useful. I'm wasting away!	那就让我做点有用的事，我都快闲废了！		
+10104	IDS_DIALOGUE_10104	dialogue	CRES.DLL	to2:474	Temporary Director Lawrie, please report to the War Room immediately.	劳里临时局长，请立即前往作战室。		
+10105	IDS_DIALOGUE_10105	dialogue	CRES.DLL	to2:475	Temporary Director Lawrie?	劳里临时局长？		
+10106	IDS_DIALOGUE_10106	dialogue	CRES.DLL	to2:476	Don't ask. I've got to run. You stay put.	别问了，我得赶紧过去。你留在这里。		
+10107	IDS_DIALOGUE_10107	dialogue	CRES.DLL	to2:477	Gentlemen, sorry to have kept you waiting.	各位先生，抱歉让你们久等了。		
+10108	IDS_DIALOGUE_10108	dialogue	CRES.DLL	to2:478	Normally we wouldn't just barge in on you like this, but the situation is urgent. I'm Isaac Barnes. This is General Morgan Hawkins. 	通常我们不会这样直接闯进来，但情况紧急。我是艾萨克·巴恩斯，这位是摩根·霍金斯将军。		
+10109	IDS_DIALOGUE_10109	dialogue	CRES.DLL	to2:479	Bruno Lawrie. Temporary Director of UNITY.	布鲁诺·劳里，UNITY临时局长。		
+10110	IDS_DIALOGUE_10110	dialogue	CRES.DLL	to2:480	Gotcha babysitting, eh?	被留下来看家了，是吧？		
+10111	IDS_DIALOGUE_10111	dialogue	CRES.DLL	to2:481	Quite so.	正是如此。		
+10112	IDS_DIALOGUE_10112	dialogue	CRES.DLL	to2:486	I'm fine!	我没事！		
+10113	IDS_DIALOGUE_10113	dialogue	CRES.DLL	to2:487	You need to rest!	你需要休息！		
+10114	IDS_DIALOGUE_10114	dialogue	CRES.DLL	to2:488	I thought I told you to stay put!	我不是让你留在那里吗！		
+10115	IDS_DIALOGUE_10115	dialogue	CRES.DLL	to2:489	I didn't agree to.	我可没答应。		
+10116	IDS_DIALOGUE_10116	dialogue	CRES.DLL	to2:490	Gentlemen, this is Agent Archer, one of our top undercover operatives.	各位，这位是阿彻特工，我们最优秀的卧底特工之一。		
+10117	IDS_DIALOGUE_10117	dialogue	CRES.DLL	to2:491	I'll betcha she is.	那还用说。		
+10118	IDS_DIALOGUE_10118	dialogue	CRES.DLL	to2:492	You ever swallow a lit cigar?	你吞过点燃的雪茄吗？		
+10119	IDS_DIALOGUE_10119	dialogue	CRES.DLL	to2:493	Thank you, Dr. Schenker.	谢谢您，申克博士。		
+10120	IDS_DIALOGUE_10120	dialogue	CRES.DLL	to2:494	Mr. Lawrie, Ms. Archer, allow me to get straight to the point. 	劳里先生，阿彻女士，请容我开门见山。		
+10121	IDS_DIALOGUE_10121	dialogue	CRES.DLL	to2:495	By all means.	请讲。		
+10122	IDS_DIALOGUE_10122	dialogue	CRES.DLL	to2:496	Are you familiar with the island of Khios?	你们知道希俄斯岛吗？		
+10123	IDS_DIALOGUE_10123	dialogue	CRES.DLL	to2:497	In the Sea of Marmara. Indeed. It's highly coveted by all the major powers.	位于马尔马拉海。当然知道，各大强国都对它垂涎已久。		
+10124	IDS_DIALOGUE_10124	dialogue	CRES.DLL	to2:498	Do you know why?	你知道为什么吗？		
+10125	IDS_DIALOGUE_10125	dialogue	CRES.DLL	to2:499	Something to do with its natural resources, isn't it?	是因为那里的自然资源吧？		
+10126	IDS_DIALOGUE_10126	dialogue	CRES.DLL	to2:500	Good Lord.	我的天。		
+10127	IDS_DIALOGUE_10127	dialogue	CRES.DLL	to2:501	Precisely. We've reason to believe the Soviets are planning to invade Khios within the next two weeks.	没错。我们有理由相信，苏联计划在未来两周内入侵希俄斯。		
+10128	IDS_DIALOGUE_10128	dialogue	CRES.DLL	to2:506	The second them Reds set foot on that island, Uncle Sam's got a Polaris-shaped surprise package waiting to be signed, sealed, and delivered right to Moscow.	那些红色分子只要一踏上那座岛，山姆大叔就会送上一份北极星导弹形状的惊喜包裹，签好字、封好口，直接送到莫斯科。		
+10129	IDS_DIALOGUE_10129	dialogue	CRES.DLL	to2:507	As the general suggests, the consequences of an invasion could be catastrophic. A full scale nuclear conflict is a distinct possibility.	正如将军所说，入侵的后果可能是灾难性的，爆发全面核战争的可能性非常高。		
+10130	IDS_DIALOGUE_10130	dialogue	CRES.DLL	to2:508	But Khios is virtually impregnable to a conventional assault. How are they planning to invade?	但希俄斯几乎不可能被常规进攻攻陷，他们打算怎么入侵？		
+10131	IDS_DIALOGUE_10131	dialogue	CRES.DLL	to2:509	We're hoping you can find out. All we know is that it involves a secret weapon program known as Project: Omega.	我们希望你们能查出来。目前只知道这与一项名为欧米伽计划的秘密武器项目有关。		
+10132	IDS_DIALOGUE_10132	dialogue	CRES.DLL	to2:510	We shoulda force-fed them Commies a nuke-u-ler sandwich back in '62.	早在六二年，我们就该把核弹三明治硬塞进那些共党分子的嘴里。		
+10133	IDS_DIALOGUE_10133	dialogue	CRES.DLL	to2:511	Will you help us?	你们愿意帮忙吗？		
+10134	IDS_DIALOGUE_10134	dialogue	CRES.DLL	to2:512	Of course we will.	当然。		
+10135	IDS_DIALOGUE_10135	dialogue	CRES.DLL	to2:513	According to our spies, the Soviets are coordinating this project from an out of the way base in Siberia. We need to know what we're dealing with and we think the answer is somewhere inside that facility.	据我们的间谍报告，苏联人正在西伯利亚的一处偏远基地协调这项计划。我们必须弄清楚自己面对的是什么，而答案很可能就在那座设施里。		
+10136	IDS_DIALOGUE_10136	dialogue	CRES.DLL	to2:514	Uh oh. I forgot keys.	糟了，我忘带钥匙了。		
+10137	IDS_DIALOGUE_10137	dialogue	CRES.DLL	to2:515	Maybe you can open door.	也许你能把门打开。		
+10138	IDS_DIALOGUE_10138	dialogue	CRES.DLL	to2:516	Hurry before we freeze.	快点，不然我们要冻僵了。		
+10139	IDS_DIALOGUE_10139	dialogue	CRES.DLL	to2:517	Generator is out back.	发电机在后面。		
+10140	IDS_DIALOGUE_10140	dialogue	CRES.DLL	to2:518	Start generator please.	请启动发电机。		
+10141	IDS_DIALOGUE_10141	dialogue	CRES.DLL	to2:519	I'll stay here. You start generator.	我留在这里，你去启动发电机。		
+10142	IDS_DIALOGUE_10142	dialogue	CRES.DLL	to2:520	Open up in there!	里面的人，开门！		
+10143	IDS_DIALOGUE_10143	dialogue	CRES.DLL	to2:521	Open this door!	把门打开！		
+10144	IDS_DIALOGUE_10144	dialogue	CRES.DLL	to2:526	I'm warning you!	我警告你们！		
+10145	IDS_DIALOGUE_10145	dialogue	CRES.DLL	to2:527	I said open up!	我说了，开门！		
+10146	IDS_DIALOGUE_10146	dialogue	CRES.DLL	to2:528	Bad guys.	坏人。		
+10147	IDS_DIALOGUE_10147	dialogue	CRES.DLL	to2:529	If they find us, big trouble.	要是被他们发现，我们就有大麻烦了。		
+10148	IDS_DIALOGUE_10148	dialogue	CRES.DLL	to2:530	Knock them out!	打昏他们！		
+10149	IDS_DIALOGUE_10149	dialogue	CRES.DLL	to2:531	Hurry, before they break door.	快点，不然他们要把门撞开了。		
+10150	IDS_DIALOGUE_10150	dialogue	CRES.DLL	to2:532	Your boss wants you on radio.	你老板要你接无线电。		
+10151	IDS_DIALOGUE_10151	dialogue	CRES.DLL	to2:533	Foxhunt, this is Foxhound. We've left some items for you in the shed. The combination to the lock is 36 - 7 - 42.	猎狐，这里是猎犬。我们在棚屋里给你留了一些装备，锁的密码是36 - 7 - 42。		
+10152	IDS_DIALOGUE_10152	dialogue	CRES.DLL	to2:534	Take care of yourself.	保重。		
+10154	IDS_DIALOGUE_10154	dialogue	CRES.DLL	to2:535	Snowmobile is out of gas. Look for gas can.	雪地摩托没油了，去找汽油桶。		
+10155	IDS_DIALOGUE_10155	dialogue	CRES.DLL	to2:536	Look for truck, maybe.	也许可以找辆卡车。		
+10156	IDS_DIALOGUE_10156	dialogue	CRES.DLL	to2:537	Don't waste time. Is cold.	别浪费时间，这里很冷。		
+10158	IDS_DIALOGUE_10158	dialogue	CRES.DLL	to2:538	Be careful of bridge. Many soldiers. Look for better way. 	过桥时小心，那里有很多士兵。找条更安全的路。		
+10160	IDS_DIALOGUE_10160	dialogue	CRES.DLL	to2:543	I wait here. Good luck!	我在这里等，祝你好运！		
+10161	IDS_DIALOGUE_10161	dialogue	CRES.DLL	to2:544	H.A.R.M.?	H.A.R.M.？		
+10167	IDS_DIALOGUE_10167	dialogue	CRES.DLL	to2:545	I'm ready to go home.	我准备回家了。		
+10168	IDS_DIALOGUE_10168	dialogue	CRES.DLL	to2:546	Me too. I hate this place.	我也是，我讨厌这个地方。		
+10169	IDS_DIALOGUE_10169	dialogue	CRES.DLL	to2:547	I thought my wife's cooking was bad. She's a gourmet chef compared to whoever's running the kitchen around here.	我以前还觉得我老婆做饭难吃。和这里掌勺的人相比，她简直是顶级大厨。		
+10170	IDS_DIALOGUE_10170	dialogue	CRES.DLL	to2:548	Too bad, boys. We ain't leaving any time soon.	可惜了，小伙子们，我们暂时哪儿也去不了。		
+10171	IDS_DIALOGUE_10171	dialogue	CRES.DLL	to2:549	I should've taken that assignment in Cairo. At least it would've been warm.	我真该接下开罗的任务，至少那里暖和。		
+10172	IDS_DIALOGUE_10172	dialogue	CRES.DLL	to2:550	You didn't hear? Somebody blew up the Cairo headquarters.	你没听说吗？有人把开罗总部炸了。		
+10173	IDS_DIALOGUE_10173	dialogue	CRES.DLL	to2:551	Who?	谁干的？		
+10174	IDS_DIALOGUE_10174	dialogue	CRES.DLL	to2:552	Hard to say. Everybody's claiming responsibility. Probably Fine Feathered Fiends, but it could have been Anger Mismanagement or Pretty Poison.	很难说，所有人都在抢着认领。大概是“华羽恶徒”干的，不过也可能是“愤怒失控”或者“美丽毒药”。		
+10175	IDS_DIALOGUE_10175	dialogue	CRES.DLL	to2:553	Guess I made the right choice after all. At least there's plenty of vodka.	看来我终究还是选对了，至少这里伏特加管够。		
+10177	IDS_DIALOGUE_10177	dialogue	CRES.DLL	to2:558	Vodka keeps me warm.	伏特加能让我暖和。		
+10178	IDS_DIALOGUE_10178	dialogue	CRES.DLL	to2:559	Make me coffee. I'll be fine.	给我煮咖啡，我没事。		
+10179	IDS_DIALOGUE_10179	dialogue	CRES.DLL	to2:560	I'll drink coffee. You secure plane.	我喝咖啡，你去控制飞机。		
+10180	IDS_DIALOGUE_10180	dialogue	CRES.DLL	to2:561	Go on. I'll be there soon.	去吧，我马上就来。		
+10181	IDS_DIALOGUE_10181	dialogue	CRES.DLL	to2:562	Good coffee.	好咖啡。		
+10182	IDS_DIALOGUE_10182	dialogue	CRES.DLL	to2:563	Sorry.	抱歉。		
+10183	IDS_DIALOGUE_10183	dialogue	CRES.DLL	to2:564	That makes 14, Mr. Volkov. Do you feel better yet?	这已经是第十四个了，沃尔科夫先生。您现在感觉好些了吗？		
+10184	IDS_DIALOGUE_10184	dialogue	CRES.DLL	to2:565	A little. Let's do one more.	好一点，再来一个。		
+10185	IDS_DIALOGUE_10185	dialogue	CRES.DLL	to2:566	Bring in Laramie!	把拉勒米带进来！		
+10186	IDS_DIALOGUE_10186	dialogue	CRES.DLL	to2:567	Please, don't do this! I beg you!	求你了，别这样！我求求你！		
+10187	IDS_DIALOGUE_10187	dialogue	CRES.DLL	to2:568	Feed him into the machine.	把他塞进机器里。		
+10188	IDS_DIALOGUE_10188	dialogue	CRES.DLL	to2:569	I'm still upset.	我还是很生气。		
+10189	IDS_DIALOGUE_10189	dialogue	CRES.DLL	to2:570	Bring in Mackenzie!	把麦肯齐带进来！		
+10190	IDS_DIALOGUE_10190	dialogue	CRES.DLL	to2:571	Mother, we've been over this a thousand times. I'm NOT coming home for Christmas.	妈，这事我们已经说过上千遍了，我圣诞节不会回家。		
+10191	IDS_DIALOGUE_10191	dialogue	CRES.DLL	to2:572	You want to kill me like you killed your father.	你就想像害死你父亲一样害死我。		
+10192	IDS_DIALOGUE_10192	dialogue	CRES.DLL	to2:577	Mummy, Daddy died of dysentery in Kenya.	妈妈，爸爸是在肯尼亚死于痢疾的。		
+10193	IDS_DIALOGUE_10193	dialogue	CRES.DLL	to2:578	He died of a broken heart because you never amounted to anything. When I think of the sacrifices we made.	他是因为你一事无成，伤透了心才死的。一想到我们为你作出的那些牺牲……		
+10194	IDS_DIALOGUE_10194	dialogue	CRES.DLL	to2:579	Goodbye, Mother.	再见，母亲。		
+10195	IDS_DIALOGUE_10195	dialogue	CRES.DLL	to2:580	Don't you hang up on me.	你敢挂我电话试试。		
+10196	IDS_DIALOGUE_10196	dialogue	CRES.DLL	to2:581	Marvin? Be a good chap and fetch me a little drinkie-pooh, would you?	马文？劳驾给我拿点小酒来，好吗？		
+10197	IDS_DIALOGUE_10197	dialogue	CRES.DLL	to2:582	Mr. Volkov was disappointed to learn that Cate Archer is still alive.	沃尔科夫先生听说凯特·阿彻还活着，非常失望。		
+10198	IDS_DIALOGUE_10198	dialogue	CRES.DLL	to2:583	Then let him kill her.	那就让他自己去杀她。		
+10199	IDS_DIALOGUE_10199	dialogue	CRES.DLL	to2:584	Don't be impertinent.	不得无礼。		
+10200	IDS_DIALOGUE_10200	dialogue	CRES.DLL	to2:585	She's not my enemy.	她不是我的敌人。		
+10201	IDS_DIALOGUE_10201	dialogue	CRES.DLL	to2:586	She's my enemy. And you're my retainer. Or have you forgotten who saved your life all those years ago?	她是我的敌人，而你是我的家臣。还是说，你已经忘了多年前是谁救了你的命？		
+10202	IDS_DIALOGUE_10202	dialogue	CRES.DLL	to2:587	Don't tell me you're afraid of her.	别告诉我你怕她。		
+10203	IDS_DIALOGUE_10203	dialogue	CRES.DLL	to2:588	I fear no one.	我谁也不怕。		
+10204	IDS_DIALOGUE_10204	dialogue	CRES.DLL	to2:589	Then kill her.  And bring back proof this time.	那就杀了她，这次把证据带回来。		
+10205	IDS_DIALOGUE_10205	dialogue	CRES.DLL	to2:590	Her head on a platter should suffice.	把她的脑袋装在盘子里端回来应该就够了。		
+10206	IDS_DIALOGUE_10206	dialogue	CRES.DLL	to2:591	We were hoping for something a little more conclusive.  What do you know about this H.A.R.M. organization?	我们希望得到更确凿一点的证据。你对H.A.R.M.这个组织了解多少？		
+10207	IDS_DIALOGUE_10207	dialogue	CRES.DLL	to2:592	We've had dealings with them before. They were barely competent at the time. Rumor has it they've restructured the organization since then, but nobody's quite sure what that means exactly.	我们以前和他们打过交道。那时候他们几乎是一群饭桶。传言说他们后来重组了组织，不过没人确切知道这到底意味着什么。		
+10208	IDS_DIALOGUE_10208	dialogue	CRES.DLL	to2:597	Means you didn't kick their butts hard enough.	说明你们当初揍得还不够狠。		
+10209	IDS_DIALOGUE_10209	dialogue	CRES.DLL	to2:598	If nothing else, we've established that Project: Omega is H.A.R.M.'s brainchild, even if we still don't know exactly what it is.	至少我们已经确认，欧米伽计划是H.A.R.M.一手策划的，尽管我们仍然不知道它究竟是什么。		
+10210	IDS_DIALOGUE_10210	dialogue	CRES.DLL	to2:599	That proposal we found was dated 1965.	我们找到的那份提案日期是1965年。		
+10211	IDS_DIALOGUE_10211	dialogue	CRES.DLL	to2:600	And?	所以呢？		
+10212	IDS_DIALOGUE_10212	dialogue	CRES.DLL	to2:601	That means it was well underway during the H.A.R.M. incident last year.	这意味着去年发生H.A.R.M.事件时，这项计划早已全面展开。		
+10213	IDS_DIALOGUE_10213	dialogue	CRES.DLL	to2:602	We've already scoured the North American facility where they were keeping Doctor Schenker. There's no mention of Project: Omega in the files we recovered. Sadly, the Alpine facility was completely demolished.	我们已经彻底搜查过他们关押申克博士的北美设施，回收的文件中完全没有提及欧米伽计划。遗憾的是，阿尔卑斯设施已经被彻底摧毁了。		
+10214	IDS_DIALOGUE_10214	dialogue	CRES.DLL	to2:603	There's one other place I can think to look.	我还能想到另一个可以调查的地方。		
+10215	IDS_DIALOGUE_10215	dialogue	CRES.DLL	to2:604	Where?	哪里？		
+10216	IDS_DIALOGUE_10216	dialogue	CRES.DLL	to2:605	Akron, Ohio.	俄亥俄州阿克伦。		
+10217	IDS_DIALOGUE_10217	dialogue	CRES.DLL	to2:606	We've searched Goodman's house.	我们已经搜过古德曼的房子了。		
+10218	IDS_DIALOGUE_10218	dialogue	CRES.DLL	to2:607	Blitzny.	布利茨尼。		
+10219	IDS_DIALOGUE_10219	dialogue	CRES.DLL	to2:608	Pardon?	什么？		
+10220	IDS_DIALOGUE_10220	dialogue	CRES.DLL	to2:609	His name was Melvin Blitzny. Tom Goodman died in Amsterdam, remember?	他叫梅尔文·布利茨尼。汤姆·古德曼已经死在阿姆斯特丹了，记得吗？		
+10221	IDS_DIALOGUE_10221	dialogue	CRES.DLL	to2:610	Regardless, our teams have been through the place thoroughly.	不管怎么说，我们的队伍已经把那里彻底搜过了。		
+10222	IDS_DIALOGUE_10222	dialogue	CRES.DLL	to2:611	I haven't.	我还没搜过。		
+10223	IDS_DIALOGUE_10223	dialogue	CRES.DLL	to2:612	This is a waste of time.	这是在浪费时间。		
+10224	IDS_DIALOGUE_10224	dialogue	CRES.DLL	to2:617	We'll see.	那可未必。		
+10225	IDS_DIALOGUE_10225	dialogue	CRES.DLL	to2:618	Well, be careful.	好吧，小心点。		
+10228	IDS_DIALOGUE_10228	dialogue	CRES.DLL	to2:619	I'll bring you a souvenir.	我会给你带件纪念品。		
+10229	IDS_DIALOGUE_10229	dialogue	CRES.DLL	to2:620	Please don't.	千万别。		
+10232	IDS_DIALOGUE_10232	dialogue	CRES.DLL	to2:621	Can we postpone this?	我们能改天再来吗？		
+10233	IDS_DIALOGUE_10233	dialogue	CRES.DLL	to2:622	Fine.	好吧。		
+10234	IDS_DIALOGUE_10234	dialogue	CRES.DLL	to2:623	You're very determined.	你还真执着。		
+10235	IDS_DIALOGUE_10235	dialogue	CRES.DLL	to2:624	I made a promise.	我答应过别人。		
+10236	IDS_DIALOGUE_10236	dialogue	CRES.DLL	to2:625	Bye bye!	再见啦！		
+10238	IDS_DIALOGUE_10238	dialogue	CRES.DLL	to2:626	Ah, good, you're awake.	啊，很好，你醒了。		
+10239	IDS_DIALOGUE_10239	dialogue	CRES.DLL	to2:627	I feel dizzy.	我觉得头晕。		
+10240	IDS_DIALOGUE_10240	dialogue	CRES.DLL	to2:632	Nothing a week's worth of rest won't clear up.	休息一个星期就没事了。		
+10245	IDS_DIALOGUE_10245	dialogue	CRES.DLL	to2:633	I don't have time for that. I have to find Armstrong.	我没那个时间，我得去找阿姆斯特朗。		
+10246	IDS_DIALOGUE_10246	dialogue	CRES.DLL	to2:634	I must insist!	我必须坚持！		
+10247	IDS_DIALOGUE_10247	dialogue	CRES.DLL	to2:635	Come on, ya jessies. You ain't even trying!	来啊，你们这群娘娘腔！根本没使劲嘛！		
+10248	IDS_DIALOGUE_10248	dialogue	CRES.DLL	to2:636	Oh, hello, Cate.	哦，你好，凯特。		
+10249	IDS_DIALOGUE_10249	dialogue	CRES.DLL	to2:637	Armstrong.	阿姆斯特朗。		
+10250	IDS_DIALOGUE_10250	dialogue	CRES.DLL	to2:638	How'd you find me?  Oh, that's right, you're a spy.	你是怎么找到我的？哦，对了，你是间谍。		
+10251	IDS_DIALOGUE_10251	dialogue	CRES.DLL	to2:639	Having a tough go of it?	应付得很辛苦？		
+10252	IDS_DIALOGUE_10252	dialogue	CRES.DLL	to2:640	Well, it's eleven against one. Excuse me a moment.	毕竟是十一个打一个，稍等片刻。		
+10253	IDS_DIALOGUE_10253	dialogue	CRES.DLL	to2:641	That's the spirit, lads!	就是这样，小伙子们！		
+10254	IDS_DIALOGUE_10254	dialogue	CRES.DLL	to2:642	Make that twelve. I didn't see the one in the corner. I won't be a minute.	现在是十二个。刚才没看见角落里那个，马上就好。		
+10255	IDS_DIALOGUE_10255	dialogue	CRES.DLL	to2:643	Take your time.	你慢慢来。		
+10256	IDS_DIALOGUE_10256	dialogue	CRES.DLL	to2:648	Now I'm mad.	现在我生气了。		
+10257	IDS_DIALOGUE_10257	dialogue	CRES.DLL	to2:649	Right. Now what can I do for you?	好了，有什么需要我帮忙的？		
+10258	IDS_DIALOGUE_10258	dialogue	CRES.DLL	to2:650	I need your help.	我需要你的帮助。		
+10259	IDS_DIALOGUE_10259	dialogue	CRES.DLL	to2:651	I don't know. I've pretty much washed my hands of international intrigue.	不知道。我差不多已经彻底不碰国际阴谋这档子事了。		
+10261	IDS_DIALOGUE_10261	dialogue	CRES.DLL	to2:652	You owe me.	你欠我的。		
+10262	IDS_DIALOGUE_10262	dialogue	CRES.DLL	to2:653	Ah, don't start.	得了，别又提这个。		
+10263	IDS_DIALOGUE_10263	dialogue	CRES.DLL	to2:654	All we're asking is that you help Cate infiltrate the India branch.	我们只需要你帮助凯特潜入印度分部。		
+10264	IDS_DIALOGUE_10264	dialogue	CRES.DLL	to2:655	You don't need me for that. 	这种事用不着我。		
+10265	IDS_DIALOGUE_10265	dialogue	CRES.DLL	to2:656	A lot's changed since you left H.A.R.M. Security's tighter than ever.	你离开H.A.R.M.以后，那里变了很多，安保比以前严密多了。		
+10266	IDS_DIALOGUE_10266	dialogue	CRES.DLL	to2:657	Well, I suppose I could make a few calls, but don't expect me to get involved.	好吧，我可以打几个电话，不过别指望我亲自掺和进去。		
+10267	IDS_DIALOGUE_10267	dialogue	CRES.DLL	to2:658	Kamal, Magnus.  I'm coming to India.	卡马尔，马格努斯。我要去印度。		
+10298	IDS_DIALOGUE_10298	dialogue	CRES.DLL	to2:663	I have an appointment with Monsieur Volkov.	我和沃尔科夫先生有约。		
+10299	IDS_DIALOGUE_10299	dialogue	CRES.DLL	to2:664	Excuse me?	什么？		
+10300	IDS_DIALOGUE_10300	dialogue	CRES.DLL	to2:665	I was sent for by Dmitrij Volkov.	是德米特里·沃尔科夫派人召我来的。		
+10301	IDS_DIALOGUE_10301	dialogue	CRES.DLL	to2:666	I'm sorry, can you speak up?	抱歉，您能大声点吗？		
+10302	IDS_DIALOGUE_10302	dialogue	CRES.DLL	to2:667	Take me to Volkov. Now.	带我去见沃尔科夫，现在。		
+10303	IDS_DIALOGUE_10303	dialogue	CRES.DLL	to2:668	Please follow me.	请跟我来。		
+10304	IDS_DIALOGUE_10304	dialogue	CRES.DLL	to2:673	Oh, molten lava! Very nice.	哦，熔岩！真不错。		
+10305	IDS_DIALOGUE_10305	dialogue	CRES.DLL	to2:674	Wait here, please.	请在这里等候。		
+10306	IDS_DIALOGUE_10306	dialogue	CRES.DLL	to2:675	Sir, the assassin has arrived.	先生，杀手到了。		
+10307	IDS_DIALOGUE_10307	dialogue	CRES.DLL	to2:676	Send him in.	让他进来。		
+10308	IDS_DIALOGUE_10308	dialogue	CRES.DLL	to2:677	I just want to say, Monsieur, that it is an honor to stand in the presence of the legendary Dmitrij Volkov. You are, without a doubt, the Michelangelo of murder.	我只想说，先生，能够站在传奇人物德米特里·沃尔科夫面前，是我的荣幸。毫无疑问，您就是杀人界的米开朗基罗。		
+10309	IDS_DIALOGUE_10309	dialogue	CRES.DLL	to2:678	Well, that's very kind of you.	你太客气了。		
+10312	IDS_DIALOGUE_10312	dialogue	CRES.DLL	to2:679	Monsieur Volkov, tell me who did this to you and I shall exact terrible vengeance.	沃尔科夫先生，请告诉我是谁把您害成这样，我一定让他遭到可怕的报复。		
+10313	IDS_DIALOGUE_10313	dialogue	CRES.DLL	to2:680	It was a skiing accident.	是滑雪事故。		
+10314	IDS_DIALOGUE_10314	dialogue	CRES.DLL	to2:681	Oh, I see.	哦，明白了。		
+10315	IDS_DIALOGUE_10315	dialogue	CRES.DLL	to2:682	Now then. You're probably wondering why I've summoned one of the world's most dangerous contract killers on such short notice.	那么，你大概在想，我为什么这么匆忙地召来世界上最危险的职业杀手之一。		
+10316	IDS_DIALOGUE_10316	dialogue	CRES.DLL	to2:683	Because you want me to kill someone?	因为您想让我杀个人？		
+10317	IDS_DIALOGUE_10317	dialogue	CRES.DLL	to2:684	Not just someone.  I want you to kill Cate Archer.	不是普通人，我要你杀掉凯特·阿彻。		
+10318	IDS_DIALOGUE_10318	dialogue	CRES.DLL	to2:685	How do I convince them to hire me?	我要怎么说服他们雇用我？		
+10319	IDS_DIALOGUE_10319	dialogue	CRES.DLL	to2:686	Demonstrate your value to them. Maybe they need a maid.	向他们证明你的价值。也许他们正缺一个女佣。		
+10320	IDS_DIALOGUE_10320	dialogue	CRES.DLL	to2:691	We're being watched.	有人在监视我们。		
+10321	IDS_DIALOGUE_10321	dialogue	CRES.DLL	to2:692	Right. I'll stay here. You grab him and find out what he's after.	好，我留在这里。你去抓住他，问清楚他的目的。		
+10322	IDS_DIALOGUE_10322	dialogue	CRES.DLL	to2:693	My pleasure.	乐意效劳。		
+10323	IDS_DIALOGUE_10323	dialogue	CRES.DLL	to2:694	Careful.	小心。		
+10324	IDS_DIALOGUE_10324	dialogue	CRES.DLL	to2:695	Who are you?	你是谁？		
+10325	IDS_DIALOGUE_10325	dialogue	CRES.DLL	to2:696	Kamal sent me to meet you.	卡马尔派我来接你。		
+10326	IDS_DIALOGUE_10326	dialogue	CRES.DLL	to2:697	Why didn't you introduce yourself?	你为什么不先表明身份？		
+10327	IDS_DIALOGUE_10327	dialogue	CRES.DLL	to2:698	I thought I was being followed.	我以为有人跟踪我。		
+10328	IDS_DIALOGUE_10328	dialogue	CRES.DLL	to2:699	Kamal is waiting for you at the... gasp.	卡马尔正在……呃。		
+10329	IDS_DIALOGUE_10329	dialogue	CRES.DLL	to2:700	I said grab him, not stab him.	我是让你抓住他，不是捅他。		
+10330	IDS_DIALOGUE_10330	dialogue	CRES.DLL	to2:701	He was about to tell me where to meet Kamal.	他刚才正准备告诉我去哪里见卡马尔。		
+10331	IDS_DIALOGUE_10331	dialogue	CRES.DLL	to2:702	Not a problem. Kamal said he'd wear a pink carnation so you'd recognize him.	没问题。卡马尔说他会戴一朵粉色康乃馨，好让你认出他。		
+10332	IDS_DIALOGUE_10332	dialogue	CRES.DLL	to2:703	Me?	我去？		
+10333	IDS_DIALOGUE_10333	dialogue	CRES.DLL	to2:704	I can't afford to be seen.	我不能被人看见。		
+10334	IDS_DIALOGUE_10334	dialogue	CRES.DLL	to2:705	You there!	你，站住！		
+10335	IDS_DIALOGUE_10335	dialogue	CRES.DLL	to2:706	I'll handle this. You look for Kamal.	这里交给我，你去找卡马尔。		
+10336	IDS_DIALOGUE_10336	dialogue	CRES.DLL	to2:711	How will I find you?	我怎么找到你？		
+10337	IDS_DIALOGUE_10337	dialogue	CRES.DLL	to2:712	It's not like I blend in.	我这模样又不可能混在人群里。		
+10340	IDS_DIALOGUE_10340	dialogue	CRES.DLL	to2:713	Tell us where he is!	告诉我们他在哪里！		
+10341	IDS_DIALOGUE_10341	dialogue	CRES.DLL	to2:714	I'll never talk!	我绝不会开口！		
+10342	IDS_DIALOGUE_10342	dialogue	CRES.DLL	to2:715	Then you'll die!!!	那你就去死吧！！！		
+10343	IDS_DIALOGUE_10343	dialogue	CRES.DLL	to2:716	Look out!	小心！		
+10344	IDS_DIALOGUE_10344	dialogue	CRES.DLL	to2:717	Ah, there you are! I was beginning to worry.	啊，你终于来了！我都开始担心了。		
+10345	IDS_DIALOGUE_10345	dialogue	CRES.DLL	to2:718	This map shows the location H.A.R.M.'s hideout. I left a package for you in a newspaper box near there.	这张地图标出了H.A.R.M.藏身处的位置。我在附近的报箱里给你留了一个包裹。		
+10346	IDS_DIALOGUE_10346	dialogue	CRES.DLL	to2:719	Oh, before I forget, you'll probably need some money to get by Crazy Harij. Fifty rupees should be enough.	哦，差点忘了。你大概还需要点钱才能通过疯狂哈里吉那一关，五十卢比应该够了。		
+10347	IDS_DIALOGUE_10347	dialogue	CRES.DLL	to2:720	You want through? Fifty rupees.	想过去？五十卢比。		
+10348	IDS_DIALOGUE_10348	dialogue	CRES.DLL	to2:721	No one passes without paying Harij.	不给哈里吉钱，谁也不许通过。		
+10349	IDS_DIALOGUE_10349	dialogue	CRES.DLL	to2:722	Don't make Harij angry.	别惹哈里吉生气。		
+10350	IDS_DIALOGUE_10350	dialogue	CRES.DLL	to2:723	I've told you MANY times: fifty rupees if you want through this gate.	我已经告诉你很多次了：想通过这扇门，就交五十卢比。		
+10351	IDS_DIALOGUE_10351	dialogue	CRES.DLL	to2:724	You may pass.	你可以过去了。		
+10352	IDS_DIALOGUE_10352	dialogue	CRES.DLL	to2:729	If I catch you charging tolls again, I'll arrest you. I swear it.	要是再让我发现你私自收过路费，我就逮捕你。我说到做到。		
+10353	IDS_DIALOGUE_10353	dialogue	CRES.DLL	to2:730	It's my gate.	这是我的门。		
+10354	IDS_DIALOGUE_10354	dialogue	CRES.DLL	to2:731	No! No! It's NOT your gate. I'm warning you!	不！不是！这不是你的门，我警告你！		
+10355	IDS_DIALOGUE_10355	dialogue	CRES.DLL	to2:732	Now get out of my sight.	现在从我眼前消失。		
+10356	IDS_DIALOGUE_10356	dialogue	CRES.DLL	to2:733	Hello?	喂？		
+10357	IDS_DIALOGUE_10357	dialogue	CRES.DLL	to2:734	Hello?	喂？		
+10358	IDS_DIALOGUE_10358	dialogue	CRES.DLL	to2:735	Who is this I'm speaking to?	请问我正在和谁通话？		
+10359	IDS_DIALOGUE_10359	dialogue	CRES.DLL	to2:736	Who is this I'M speaking to?	请问我又是在和谁通话？		
+10360	IDS_DIALOGUE_10360	dialogue	CRES.DLL	to2:737	It is I, Balaji Malpani.	是我，巴拉吉·马尔帕尼。		
+10361	IDS_DIALOGUE_10361	dialogue	CRES.DLL	to2:738	Balaji, you idiot, it's me, Anoop.	巴拉吉，你这个白痴，是我，阿努普。		
+10362	IDS_DIALOGUE_10362	dialogue	CRES.DLL	to2:739	Oh! I was wondering if that was you, my good friend. How are you?	哦！我刚才还在想是不是你呢，我的好朋友。你过得怎么样？		
+10363	IDS_DIALOGUE_10363	dialogue	CRES.DLL	to2:740	Fine, thank you. So, what is the password for today? Have you thought of something?	很好，谢谢。那么，今天的密码是什么？你想好了吗？		
+10364	IDS_DIALOGUE_10364	dialogue	CRES.DLL	to2:741	I have! And I think you'll like it very much!	想好了！而且我觉得你一定会非常喜欢！		
+10365	IDS_DIALOGUE_10365	dialogue	CRES.DLL	to2:742	Don't keep me in suspense.	别吊我胃口。		
+10366	IDS_DIALOGUE_10366	dialogue	CRES.DLL	to2:743	Okay. The password for the day is... Are you ready?	好，今天的密码是……准备好了吗？		
+10367	IDS_DIALOGUE_10367	dialogue	CRES.DLL	to2:744	Spit it out, monkey brains!	快说，猴脑袋！		
+10368	IDS_DIALOGUE_10368	dialogue	CRES.DLL	to2:749	Mulligatawny. What do you think?	穆利加汤。你觉得怎么样？		
+10369	IDS_DIALOGUE_10369	dialogue	CRES.DLL	to2:750	I think I should feed you to ferocious weasels.	我觉得应该把你喂给凶猛的黄鼠狼。		
+10370	IDS_DIALOGUE_10370	dialogue	CRES.DLL	to2:751	Password?	密码？		
+10371	IDS_DIALOGUE_10371	dialogue	CRES.DLL	to2:752	Get out of here.	滚开。		
+10372	IDS_DIALOGUE_10372	dialogue	CRES.DLL	to2:753	I don't know what you're talking about.	我不知道你在说什么。		
+10373	IDS_DIALOGUE_10373	dialogue	CRES.DLL	to2:754	The chief of security. Where can I find him?	保安主管，我在哪里能找到他？		
+10374	IDS_DIALOGUE_10374	dialogue	CRES.DLL	to2:755	We don't have a chief of security.	我们这里没有保安主管。		
+10375	IDS_DIALOGUE_10375	dialogue	CRES.DLL	to2:756	Isn't this H.A.R.M.'s Indian headquarters office?	这里不是H.A.R.M.的印度总部吗？		
+10376	IDS_DIALOGUE_10376	dialogue	CRES.DLL	to2:757	What is H.A.R.M.?	H.A.R.M.是什么？		
+10377	IDS_DIALOGUE_10377	dialogue	CRES.DLL	to2:758	Supposing this were H.A.R.M. and you did have a security chief named Anoop Banerjee, where would I find him?	假设这里就是H.A.R.M.，而且你们确实有一位名叫阿努普·班纳吉的保安主管，那我在哪里能找到他？		
+10378	IDS_DIALOGUE_10378	dialogue	CRES.DLL	to2:759	Down the hall. His office is on the second floor.	沿走廊直走，他的办公室在二楼。		
+10379	IDS_DIALOGUE_10379	dialogue	CRES.DLL	to2:760	Thank you.	谢谢。		
+10380	IDS_DIALOGUE_10380	dialogue	CRES.DLL	to2:761	My pleasure.	不客气。		
+10381	IDS_DIALOGUE_10381	dialogue	CRES.DLL	to2:762	Wait a second!	等一下！		
+10382	IDS_DIALOGUE_10382	dialogue	CRES.DLL	to2:763	You don't have clearance to leave this building. I'll tell Banerjee you want to see him.	你没有离开这栋楼的权限。我会告诉班纳吉你想见他。		
+10384	IDS_DIALOGUE_10384	dialogue	CRES.DLL	to2:768	Now's your chance, Cate. Get into Banerjee's office and plant a bug on his phone. Don't get caught!	机会来了，凯特。进入班纳吉的办公室，在他的电话上安装窃听器。别被发现！		
+10385	IDS_DIALOGUE_10385	dialogue	CRES.DLL	to2:769	Jolly good! Now find the junction box. According to Intelligence, it's somewhere on the first floor.	干得漂亮！现在去找接线箱。根据情报，它就在一楼的某处。		
+10386	IDS_DIALOGUE_10386	dialogue	CRES.DLL	to2:770	Ambushed?	遭到伏击了？		
+10387	IDS_DIALOGUE_10387	dialogue	CRES.DLL	to2:771	It was those Evil Alliance bastards.	是“邪恶联盟”那群混蛋。		
+10388	IDS_DIALOGUE_10388	dialogue	CRES.DLL	to2:772	We lost the whole shipment?	整批货都丢了？		
+10389	IDS_DIALOGUE_10389	dialogue	CRES.DLL	to2:773	Pacpac managed to save two cases of Sparkle Soda, but they got all the ice cream and candy.	帕克帕克设法保住了两箱闪亮汽水，可冰激凌和糖果全被他们抢走了。		
+10390	IDS_DIALOGUE_10390	dialogue	CRES.DLL	to2:774	Curse them! They've pushed us too far this time. Return to base immediately. We must prepare.	该死！他们这次欺人太甚。立即返回基地，我们必须做好准备。		
+10391	IDS_DIALOGUE_10391	dialogue	CRES.DLL	to2:775	Prem? Bring the girl to my office. I will see her now.	普雷姆？把那个姑娘带到我办公室，我现在就见她。		
+10392	IDS_DIALOGUE_10392	dialogue	CRES.DLL	to2:776	Follow me, please.	请跟我来。		
+10393	IDS_DIALOGUE_10393	dialogue	CRES.DLL	to2:777	Through this door, please.	请从这扇门进去。		
+10401	IDS_DIALOGUE_10401	dialogue	CRES.DLL	to2:782	Mr. Banerjee is waiting.	班纳吉先生正在等您。		
+10402	IDS_DIALOGUE_10402	dialogue	CRES.DLL	to2:783	Mr. Banerjee is a busy man. Please don't waste his time.	班纳吉先生很忙，请不要浪费他的时间。		
+10403	IDS_DIALOGUE_10403	dialogue	CRES.DLL	to2:784	Where do you think you're going?	你想去哪儿？		
+10404	IDS_DIALOGUE_10404	dialogue	CRES.DLL	to2:785	If you do not want to speak to Mr. Banerjee, you must leave.	不想和班纳吉先生谈，就必须离开。		
+10405	IDS_DIALOGUE_10405	dialogue	CRES.DLL	to2:786	I'm warning you. This is your last chance.	我警告你，这是最后一次机会。		
+10406	IDS_DIALOGUE_10406	dialogue	CRES.DLL	to2:787	Very well. You obviously don't want to speak to him. Get out or I'll throw you out!	很好，看来你显然不想和他谈。滚出去，否则我就把你扔出去！		
+10407	IDS_DIALOGUE_10407	dialogue	CRES.DLL	to2:788	Where is the young lady?	那位年轻女士在哪里？		
+10408	IDS_DIALOGUE_10408	dialogue	CRES.DLL	to2:789	I believe she's in the restroom.	我想她在洗手间。		
+10409	IDS_DIALOGUE_10409	dialogue	CRES.DLL	to2:790	Excuse me, miss? The boss will see you now.	打扰一下，小姐？老板现在要见您。		
+10410	IDS_DIALOGUE_10410	dialogue	CRES.DLL	to2:791	Hello?	喂？		
+10411	IDS_DIALOGUE_10411	dialogue	CRES.DLL	to2:792	Are you okay in there?	你在里面没事吧？		
+10412	IDS_DIALOGUE_10412	dialogue	CRES.DLL	to2:793	I'm beginning to grow concerned about you.	我开始有点担心你了。		
+10413	IDS_DIALOGUE_10413	dialogue	CRES.DLL	to2:794	Please come out or I shall break down the door.	请出来，否则我就要破门了。		
+10414	IDS_DIALOGUE_10414	dialogue	CRES.DLL	to2:795	One, two, three!	一、二、三！		
+10415	IDS_DIALOGUE_10415	dialogue	CRES.DLL	to2:796	Guards! Don't let her get away!	警卫！别让她跑了！		
+10416	IDS_DIALOGUE_10416	dialogue	CRES.DLL	to2:801	Even if I did work for this H.A.R.M. company, how could I be guaranteed of your qualifications?	就算我真的在这家名叫H.A.R.M.的公司工作，我又怎么能确定你具备相应的能力？		
+10417	IDS_DIALOGUE_10417	dialogue	CRES.DLL	to2:802	I'm told that Evil Alliance has an office in the area.	听说“邪恶联盟”在这一带设有办事处。		
+10418	IDS_DIALOGUE_10418	dialogue	CRES.DLL	to2:803	I wouldn't know. But, please, go on.	我不清楚，不过请继续。		
+10419	IDS_DIALOGUE_10419	dialogue	CRES.DLL	to2:804	Well, what if I were to bring you the contents of their safe and wreck their operation?	要是我把他们保险柜里的东西带给你，再顺手摧毁他们的行动呢？		
+10420	IDS_DIALOGUE_10420	dialogue	CRES.DLL	to2:805	Let's just say that if I were responsible for hiring people for an organization like the one you describe, I would be very impressed by such a bold display.	这么说吧，假如我负责替你所描述的那种组织招聘人员，我一定会对这种大胆的表现印象深刻。		
+10421	IDS_DIALOGUE_10421	dialogue	CRES.DLL	to2:806	I'll be right back.	我马上回来。		
+10444	IDS_DIALOGUE_10444	dialogue	CRES.DLL	to2:811	You're drunk!	你喝醉了！		
+10445	IDS_DIALOGUE_10445	dialogue	CRES.DLL	to2:812	I got bored.	我觉得无聊。		
+10446	IDS_DIALOGUE_10446	dialogue	CRES.DLL	to2:813	Some help you are.	真指望不上你。		
+10447	IDS_DIALOGUE_10447	dialogue	CRES.DLL	to2:814	Girlie, I don't need a lecture. I'm a big boy. Besides, to be perfectly honest, there's not that much difference between me drunk and me sober.	小姑娘，我可不需要你教训。我已经是大人了。而且说实话，我喝醉和清醒时也没多大区别。		
+10448	IDS_DIALOGUE_10448	dialogue	CRES.DLL	to2:819	Well, I think I've got the job.	好了，我想我已经得到这份工作了。		
+10449	IDS_DIALOGUE_10449	dialogue	CRES.DLL	to2:820	That's a good start, but not good enough. From what Kamal tells me, you'll need a higher security clearance if you want to get near that safe.	这是个不错的开始，但还不够。据卡马尔所说，想接近那个保险柜，你需要更高级别的安全权限。		
+10450	IDS_DIALOGUE_10450	dialogue	CRES.DLL	to2:821	I guess I'll have to get myself promoted.	看来我得想办法升职。		
+10451	IDS_DIALOGUE_10451	dialogue	CRES.DLL	to2:822	Impressed?	印象深刻吗？		
+10452	IDS_DIALOGUE_10452	dialogue	CRES.DLL	to2:823	You're hired. It's an entry level position, but I think you'll find the salary and benefits very competitive. Welcome to H.A.R.M.	你被录用了。这只是一个初级职位，不过我想你会发现这里的薪资和福利相当有竞争力。欢迎加入H.A.R.M.。		
+10462	IDS_DIALOGUE_10462	dialogue	CRES.DLL	to2:824	That is Kali.	那是迦梨女神。		
+10463	IDS_DIALOGUE_10463	dialogue	CRES.DLL	to2:825	You startled me. She's quite intimidating, isn't she?	你吓了我一跳。她看起来很有威慑力，对吧？		
+10464	IDS_DIALOGUE_10464	dialogue	CRES.DLL	to2:830	Kali is a paradox. Protector and destroyer. She nearly demolished the world in her attempt to save it.	迦梨是个矛盾的存在，既是守护者，也是毁灭者。为了拯救世界，她险些将整个世界摧毁。		
+10465	IDS_DIALOGUE_10465	dialogue	CRES.DLL	to2:831	Isn't that always the case. What happened?	这种事似乎总是如此。后来发生了什么？		
+10466	IDS_DIALOGUE_10466	dialogue	CRES.DLL	to2:832	There was a demon general called Raktabija, whose every drop of blood, when shed upon the ground, would birth a new Raktabija... until the battlefield was covered with them. In their despair, the gods called upon Parvati, consort of Lord Shiva. Taking the form of Kali, she rode into battle, spreading out her tongue to catch the demon's blood before it could touch the soil and spawn new armies. But she became drunk on his blood and her victory dance threatened to tear the world apart, until Lord Shiva threw himself beneath her feet and the sight of him calmed her.	曾经有一位名叫罗陀毗阇的恶魔将军。他每流一滴血到地上，就会诞生一个新的罗陀毗阇……直到整个战场都被他们占满。绝望之中，众神向湿婆神的配偶帕尔瓦蒂求助。她化身为迦梨，冲入战场，伸出舌头接住恶魔的鲜血，不让它落到土地上滋生新的军队。可她饮下鲜血后陷入狂醉，胜利之舞几乎将世界撕裂。最后，湿婆神躺到她脚下，她看到丈夫后才平静下来。		
+10467	IDS_DIALOGUE_10467	dialogue	CRES.DLL	to2:833	Fascinating.	真有意思。		
+10468	IDS_DIALOGUE_10468	dialogue	CRES.DLL	to2:834	And not unlike my wife. Except that she would continue dancing.	而且和我妻子很像，只不过她肯定会继续跳下去。		
+10469	IDS_DIALOGUE_10469	dialogue	CRES.DLL	to2:835	You poor dear.	你真可怜。		
+10470	IDS_DIALOGUE_10470	dialogue	CRES.DLL	to2:836	You should wash your hands with hot water.	你应该用热水洗手。		
+10471	IDS_DIALOGUE_10471	dialogue	CRES.DLL	to2:837	I suggest you wash your hands with hot water.	我建议你用热水洗手。		
+10472	IDS_DIALOGUE_10472	dialogue	CRES.DLL	to2:838	There is a lavatory through those doors and to the right.	穿过那些门后右转就是洗手间。		
+10473	IDS_DIALOGUE_10473	dialogue	CRES.DLL	to2:839	As I said, you should wash your hands. Use hot water.	我说过了，你应该去洗手，用热水。		
+10481	IDS_DIALOGUE_10481	dialogue	CRES.DLL	to2:844	Cate Archer?	凯特·阿彻？		
+10482	IDS_DIALOGUE_10482	dialogue	CRES.DLL	to2:845	Hey, everyone! It's Cate Archer! British superspy!	嘿，各位！是凯特·阿彻！英国超级间谍！		
+10483	IDS_DIALOGUE_10483	dialogue	CRES.DLL	to2:846	Can I have your autograph?	能给我签个名吗？		
+10484	IDS_DIALOGUE_10484	dialogue	CRES.DLL	to2:847	Get to the street! Armstrong is waiting for you!	快到街上去！阿姆斯特朗正在等你！		
+10485	IDS_DIALOGUE_10485	dialogue	CRES.DLL	to2:848	Go!	快走！		
+10486	IDS_DIALOGUE_10486	dialogue	CRES.DLL	to2:849	Hurry!	快点！		
+10487	IDS_DIALOGUE_10487	dialogue	CRES.DLL	to2:850	There's not much time!	没多少时间了！		
+10488	IDS_DIALOGUE_10488	dialogue	CRES.DLL	to2:851	I'm serious!	我是认真的！		
+10489	IDS_DIALOGUE_10489	dialogue	CRES.DLL	to2:852	Why are you testing my patience?	你为什么非要挑战我的耐心？		
+10492	IDS_DIALOGUE_10492	dialogue	CRES.DLL	to2:853	What the hell?	搞什么鬼？		
+10493	IDS_DIALOGUE_10493	dialogue	CRES.DLL	to2:854	We're trapped!	我们被困住了！		
+10494	IDS_DIALOGUE_10494	dialogue	CRES.DLL	to2:855	Hey, you, give us a hand, willya?	嘿，你，帮个忙行不行？		
+10495	IDS_DIALOGUE_10495	dialogue	CRES.DLL	to2:856	I expected more of a challenge.	我还以为会更有挑战性。		
+10496	IDS_DIALOGUE_10496	dialogue	CRES.DLL	to2:861	What are you jabbering about?	你在胡说八道什么？		
+10497	IDS_DIALOGUE_10497	dialogue	CRES.DLL	to2:862	So this is the mighty Cate Archer? I'm not impressed.	这就是大名鼎鼎的凯特·阿彻？真让我失望。		
+10498	IDS_DIALOGUE_10498	dialogue	CRES.DLL	to2:863	When I get out of here, I'm gonna pound that pasty face of yours through the nearest wall.	等我从这里出去，我要把你那张惨白的脸直接砸进最近的一堵墙里。		
+10499	IDS_DIALOGUE_10499	dialogue	CRES.DLL	to2:864	It's a long way down, mon ami. The only way you'll get out of that cage is to leak out like onion soup.	下面可深得很，我的朋友。你想从笼子里出来，唯一的办法就是像洋葱汤一样从缝里漏出去。		
+10500	IDS_DIALOGUE_10500	dialogue	CRES.DLL	to2:865	Oui? Okay, sounds like Fred Astaire?  Bicycle?  Pony? 	是吗？好吧，听起来像弗雷德·阿斯泰尔？自行车？小马？		
+10501	IDS_DIALOGUE_10501	dialogue	CRES.DLL	to2:866	Mon dieu! Just tell me!	我的天啊！直接告诉我不行吗！		
+10502	IDS_DIALOGUE_10502	dialogue	CRES.DLL	to2:867	Sir, come quickly! We have a problem outside!	先生，快来！外面出问题了！		
+10503	IDS_DIALOGUE_10503	dialogue	CRES.DLL	to2:868	I don't wanna die.	我不想死。		
+10504	IDS_DIALOGUE_10504	dialogue	CRES.DLL	to2:869	What are you doing?	你在干什么？		
+10505	IDS_DIALOGUE_10505	dialogue	CRES.DLL	to2:870	Good girl!	好姑娘！		
+10506	IDS_DIALOGUE_10506	dialogue	CRES.DLL	to2:871	Ha!	哈！		
+10507	IDS_DIALOGUE_10507	dialogue	CRES.DLL	to2:872	No good. The door's barred from the other side.	没用，门从另一边闩住了。		
+10508	IDS_DIALOGUE_10508	dialogue	CRES.DLL	to2:873	Stand back. I'm gonna ram it.	退后，我要把它撞开。		
+10509	IDS_DIALOGUE_10509	dialogue	CRES.DLL	to2:874	Not exactly what I had in mind.	这可不是我想象中的办法。		
+10510	IDS_DIALOGUE_10510	dialogue	CRES.DLL	to2:875	You're gonna have to get this door open, lassie.	你得想办法把门打开，小姑娘。		
+10511	IDS_DIALOGUE_10511	dialogue	CRES.DLL	to2:876	Let me out of here!	放我出去！		
+10512	IDS_DIALOGUE_10512	dialogue	CRES.DLL	to2:881	Open this door!	把门打开！		
+10513	IDS_DIALOGUE_10513	dialogue	CRES.DLL	to2:882	Oy!	喂！		
+10514	IDS_DIALOGUE_10514	dialogue	CRES.DLL	to2:883	Open up, I say!	我说，开门！		
+10515	IDS_DIALOGUE_10515	dialogue	CRES.DLL	to2:884	Cover me!	掩护我！		
+10516	IDS_DIALOGUE_10516	dialogue	CRES.DLL	to2:885	I said cover me!	我说掩护我！		
+10517	IDS_DIALOGUE_10517	dialogue	CRES.DLL	to2:886	Why am I getting shot at?	为什么有人向我开枪？		
+10518	IDS_DIALOGUE_10518	dialogue	CRES.DLL	to2:887	They're mine. You can't have them.	她们是我的，你不能抢走她们。		
+10519	IDS_DIALOGUE_10519	dialogue	CRES.DLL	to2:888	The girl must be punished!	必须惩罚那个女人！		
+10520	IDS_DIALOGUE_10520	dialogue	CRES.DLL	to2:889	I'm seeing to it personally.	我会亲自处理。		
+10521	IDS_DIALOGUE_10521	dialogue	CRES.DLL	to2:890	Damn you!	该死的！		
+10522	IDS_DIALOGUE_10522	dialogue	CRES.DLL	to2:891	Now if you'll excuse me.	现在请容我失陪。		
+10523	IDS_DIALOGUE_10523	dialogue	CRES.DLL	to2:892	I'll report this to the Director.	我会向局长报告这件事。		
+10524	IDS_DIALOGUE_10524	dialogue	CRES.DLL	to2:893	I'll report this to the Director.	我会向局长报告这件事。		
+10525	IDS_DIALOGUE_10525	dialogue	CRES.DLL	to2:894	Make sure he leaves.	确保他离开。		
+10526	IDS_DIALOGUE_10526	dialogue	CRES.DLL	to2:895	Now!	马上！		
+10527	IDS_DIALOGUE_10527	dialogue	CRES.DLL	to2:896	Not so fast, Frenchie.	别急着走，法国佬。		
+10528	IDS_DIALOGUE_10528	dialogue	CRES.DLL	to2:901	Merde!	该死！		
+10529	IDS_DIALOGUE_10529	dialogue	CRES.DLL	to2:902	Hurry! I'll drive, you shoot!	快点！我开车，你射击！		
+10530	IDS_DIALOGUE_10530	dialogue	CRES.DLL	to2:903	You won't be so lucky next time.	下次你就不会这么走运了。		
+10534	IDS_DIALOGUE_10534	dialogue	CRES.DLL	to2:904	Aunt Phyllis tells me you still haven't called her. The woman is lying on her deathbed and you can't be bothered to make a telephone call.	菲莉丝姨妈告诉我，你还是没给她打电话。她都已经躺在病床上快死了，你却连一通电话都懒得打。		
+10535	IDS_DIALOGUE_10535	dialogue	CRES.DLL	to2:905	Mother, Aunt Phyllis used to keep me locked in the cellar whenever you sent me to stay with her.	妈，您以前每次把我送到菲莉丝姨妈家，她都会把我锁在地窖里。		
+10536	IDS_DIALOGUE_10536	dialogue	CRES.DLL	to2:906	If I'd known what an ingrate you'd turn out to be, I would have locked you in the cellar too! I swear, if your father...	早知道你会变成这种忘恩负义的东西，我当初也该把你锁进地窖！我发誓，要是你父亲……		
+10537	IDS_DIALOGUE_10537	dialogue	CRES.DLL	to2:907	Goodbye, Mummy. Lovely to hear your voice.	再见，妈妈。听到您的声音真令人愉快。		
+10538	IDS_DIALOGUE_10538	dialogue	CRES.DLL	to2:908	Don't you hang up on me.	你敢挂我电话试试。		
+10539	IDS_DIALOGUE_10539	dialogue	CRES.DLL	to2:909	Are the preparations complete?	准备工作完成了吗？		
+10540	IDS_DIALOGUE_10540	dialogue	CRES.DLL	to2:910	Yes, sir. The division is currently en route to the test area.	完成了，先生。部队目前正在前往测试区。		
+10541	IDS_DIALOGUE_10541	dialogue	CRES.DLL	to2:911	Good. We'll kill two birds with one stone.  Is there something else?	很好，这样可以一石二鸟。还有别的事吗？		
+10542	IDS_DIALOGUE_10542	dialogue	CRES.DLL	to2:912	There has been a slight complication.	出现了一点小问题。		
+10543	IDS_DIALOGUE_10543	dialogue	CRES.DLL	to2:913	We're running out of time.	我们没多少时间了。		
+10544	IDS_DIALOGUE_10544	dialogue	CRES.DLL	to2:918	Finally some good news for a change. All this diplomacy crap's giving me a headache.	总算有点好消息了。搞这些该死的外交把戏都快让我头疼死了。		
+10545	IDS_DIALOGUE_10545	dialogue	CRES.DLL	to2:919	Our agents are closing in as we speak.	我们的特工正在逼近目标。		
+10546	IDS_DIALOGUE_10546	dialogue	CRES.DLL	to2:920	I hope so.	但愿如此。		
+10547	IDS_DIALOGUE_10547	dialogue	CRES.DLL	to2:921	You really impressed me back there.	你刚才的表现真让我刮目相看。		
+10548	IDS_DIALOGUE_10548	dialogue	CRES.DLL	to2:922	Listen to you cry.	听听你这哭哭啼啼的样子。		
+10549	IDS_DIALOGUE_10549	dialogue	CRES.DLL	to2:923	All you had to do was grab him, you dumb ox.	你只需要抓住他，你这头蠢牛。		
+10550	IDS_DIALOGUE_10550	dialogue	CRES.DLL	to2:924	Cry, cry, cry.	哭吧，哭吧，哭吧。		
+10551	IDS_DIALOGUE_10551	dialogue	CRES.DLL	to2:925	Well, at least you got his coat. Maybe he'll freeze to death.	至少你抢到了他的外套，也许他会冻死。		
+10552	IDS_DIALOGUE_10552	dialogue	CRES.DLL	to2:926	Boo hoo.	呜呜呜。		
+10553	IDS_DIALOGUE_10553	dialogue	CRES.DLL	to2:927	Shut up.	闭嘴。		
+10554	IDS_DIALOGUE_10554	dialogue	CRES.DLL	to2:928	Make me.	有本事让我闭嘴。		
+10555	IDS_DIALOGUE_10555	dialogue	CRES.DLL	to2:929	Excuse me. Agent Archer, the site should be just beyond that ridge ahead.	打扰一下，阿彻特工，目标地点应该就在前方那道山脊后面。		
+10556	IDS_DIALOGUE_10556	dialogue	CRES.DLL	to2:930	What's that smoke?	那些烟是怎么回事？		
+10557	IDS_DIALOGUE_10557	dialogue	CRES.DLL	to2:931	Something's wrong.	出事了。		
+10558	IDS_DIALOGUE_10558	dialogue	CRES.DLL	to2:932	I didn't realize I was in the company of a genius.	没想到我竟然在和一位天才同行。		
+10559	IDS_DIALOGUE_10559	dialogue	CRES.DLL	to2:933	I've kicked your arse before; I can do it again.	我以前能揍你，现在照样可以。		
+10560	IDS_DIALOGUE_10560	dialogue	CRES.DLL	to2:938	When did you become such a bully?	你什么时候变得这么蛮横了？		
+10561	IDS_DIALOGUE_10561	dialogue	CRES.DLL	to2:939	Wait here. I'll have a look around.	在这里等着，我去四处看看。		
+10562	IDS_DIALOGUE_10562	dialogue	CRES.DLL	to2:940	I hope you don't break a nail.	但愿你别弄断指甲。		
+10563	IDS_DIALOGUE_10563	dialogue	CRES.DLL	to2:941	Do you want to wait in the plane?	你想留在飞机里吗？		
+10564	IDS_DIALOGUE_10564	dialogue	CRES.DLL	to2:942	Here, I'll give you a boost.	来，我推你上去。		
+10565	IDS_DIALOGUE_10565	dialogue	CRES.DLL	to2:943	I'll wait here then.	那我就在这里等。		
+10566	IDS_DIALOGUE_10566	dialogue	CRES.DLL	to2:944	You have to stop him. He's out of control.	你必须阻止他，他已经失控了。		
+10576	IDS_DIALOGUE_10576	dialogue	CRES.DLL	to2:949	Who... who are you?	你……你是谁？		
+10577	IDS_DIALOGUE_10577	dialogue	CRES.DLL	to2:950	We're all going to die!	我们都会死！		
+10578	IDS_DIALOGUE_10578	dialogue	CRES.DLL	to2:951	This way! Hurry!	这边！快！		
+10579	IDS_DIALOGUE_10579	dialogue	CRES.DLL	to2:952	Poor Hotchkins. He tried to warn them.	可怜的霍奇金斯，他试图警告他们。		
+10580	IDS_DIALOGUE_10580	dialogue	CRES.DLL	to2:953	The other subjects were fine, but that one... that one was different.	其他实验体都很正常，可那一个……那一个不一样。		
+10581	IDS_DIALOGUE_10581	dialogue	CRES.DLL	to2:954	Willpower. That's what it was. We should have increased its chemical treatments.	是意志力，就是这个原因。我们本该加强对他的化学处理。		
+10582	IDS_DIALOGUE_10582	dialogue	CRES.DLL	to2:955	Poor, poor Hotchkins.	可怜的，可怜的霍奇金斯。		
+10583	IDS_DIALOGUE_10583	dialogue	CRES.DLL	to2:956	What's going on over there?	那边发生什么事了？		
+10584	IDS_DIALOGUE_10584	dialogue	CRES.DLL	to2:957	Can you get through?	你能过去吗？		
+10585	IDS_DIALOGUE_10585	dialogue	CRES.DLL	to2:958	Oh, there you are.	哦，你来了。		
+10592	IDS_DIALOGUE_10592	dialogue	CRES.DLL	to2:963	You're not making any sense.	你说得完全没有道理。		
+10593	IDS_DIALOGUE_10593	dialogue	CRES.DLL	to2:964	H.A.R.M.'s planning a field test! They're going to use the super soldiers to destroy their Indian headquarters! As punishment!	H.A.R.M.正在策划一次实地测试！他们要用超级士兵摧毁自己的印度总部，以此作为惩罚！		
+10594	IDS_DIALOGUE_10594	dialogue	CRES.DLL	to2:965	When?	什么时候？		
+10595	IDS_DIALOGUE_10595	dialogue	CRES.DLL	to2:966	It may have already started. I'm on my way there. Alert the police and tell them not to try to fight back. Just evacuate the area.	也许已经开始了。我现在正赶去那里。通知警方，让他们不要试图反击，只需要疏散这一带。		
+10596	IDS_DIALOGUE_10596	dialogue	CRES.DLL	to2:967	All right! But be careful!	明白！不过你要小心！		
+10597	IDS_DIALOGUE_10597	dialogue	CRES.DLL	to2:968	No, please!	不，求你了！		
+10598	IDS_DIALOGUE_10598	dialogue	CRES.DLL	to2:969	Are you Cate Archer?	你是凯特·阿彻吗？		
+10599	IDS_DIALOGUE_10599	dialogue	CRES.DLL	to2:970	Yes. What's the situation?	是。现在情况怎么样？		
+10600	IDS_DIALOGUE_10600	dialogue	CRES.DLL	to2:971	We're still evacuating the area	我们还在疏散这一带。		
+10601	IDS_DIALOGUE_10601	dialogue	CRES.DLL	to2:972	If your men can keep the soldiers busy, I'll see about getting those people out of there.	让你的人拖住那些士兵，我来想办法把那些人救出来。		
+10602	IDS_DIALOGUE_10602	dialogue	CRES.DLL	to2:973	Ms. Archer! This way!	阿彻女士！这边！		
+10603	IDS_DIALOGUE_10603	dialogue	CRES.DLL	to2:974	Kamal!	卡马尔！		
+10604	IDS_DIALOGUE_10604	dialogue	CRES.DLL	to2:975	I have information for you!	我有情报要交给你！		
+10605	IDS_DIALOGUE_10605	dialogue	CRES.DLL	to2:976	Ms. Archer. Are you okay?	阿彻女士，你没事吧？		
+10606	IDS_DIALOGUE_10606	dialogue	CRES.DLL	to2:977	I guess so. What about you? Are you all right?	应该没事。你呢？你还好吗？		
+10607	IDS_DIALOGUE_10607	dialogue	CRES.DLL	to2:978	I think I'm out of a job.	我想我失业了。		
+10608	IDS_DIALOGUE_10608	dialogue	CRES.DLL	to2:983	Ms. Archer, I'm glad you came back. I have news about Magnus Armstrong.	阿彻女士，你能回来真是太好了。我有关于马格努斯·阿姆斯特朗的消息。		
+10609	IDS_DIALOGUE_10609	dialogue	CRES.DLL	to2:984	What is it? Is he all right?	什么消息？他没事吧？		
+10610	IDS_DIALOGUE_10610	dialogue	CRES.DLL	to2:985	He's in the custody of H.A.R.M.	他落在H.A.R.M.手里了。		
+10611	IDS_DIALOGUE_10611	dialogue	CRES.DLL	to2:986	Not for long.	不会太久的。		
+10621	IDS_DIALOGUE_10621	dialogue	CRES.DLL	to2:987	Is this the information on the super soldiers?	这是关于超级士兵的资料吗？		
+10622	IDS_DIALOGUE_10622	dialogue	CRES.DLL	to2:988	Everything I could find.	我能找到的全在这里。		
+10623	IDS_DIALOGUE_10623	dialogue	CRES.DLL	to2:989	Oh dear.	哎呀。		
+10624	IDS_DIALOGUE_10624	dialogue	CRES.DLL	to2:994	Your glasses? Again?	你的眼镜？又丢了？		
+10625	IDS_DIALOGUE_10625	dialogue	CRES.DLL	to2:995	I think I left them in the cafeteria.	我想我把它落在食堂了。		
+10626	IDS_DIALOGUE_10626	dialogue	CRES.DLL	to2:996	I'll be right back.	我马上回来。		
+10627	IDS_DIALOGUE_10627	dialogue	CRES.DLL	to2:997	As you can see from this diagram, I've got it all figured out. You give me twelve hours, I'll give you Mother Russia.	正如你从这张图上看到的，我已经把一切都计划好了。给我十二个小时，我就把俄罗斯母亲交给你。		
+10628	IDS_DIALOGUE_10628	dialogue	CRES.DLL	to2:998	Not a very detailed plan of attack.	这进攻计划可不怎么详细。		
+10629	IDS_DIALOGUE_10629	dialogue	CRES.DLL	to2:999	We can work out the details later. The first thing is to get El Presidente to sign off on the idea.	细节之后再慢慢研究。第一件事，是让总统先生批准这个想法。		
+10630	IDS_DIALOGUE_10630	dialogue	CRES.DLL	to2:1000	Let me know what he says.	有结果就告诉我。		
+10631	IDS_DIALOGUE_10631	dialogue	CRES.DLL	to2:1001	Hello, Agent Archer.	你好，阿彻特工。		
+10632	IDS_DIALOGUE_10632	dialogue	CRES.DLL	to2:1002	General Hawkins was just explaining his plan for invading Russia.	霍金斯将军刚才正在解释他的俄罗斯入侵计划。		
+10633	IDS_DIALOGUE_10633	dialogue	CRES.DLL	to2:1003	Of course, he left out the part where he describes what actually happens during the invasion.	当然，他略过了真正开始入侵以后究竟要做什么的部分。		
+10634	IDS_DIALOGUE_10634	dialogue	CRES.DLL	to2:1004	Too bad his zeal isn't matched by his intelligence.	可惜他的热情没有与智力相匹配。		
+10635	IDS_DIALOGUE_10635	dialogue	CRES.DLL	to2:1005	Sigh.	唉。		
+10636	IDS_DIALOGUE_10636	dialogue	CRES.DLL	to2:1006	I don't know about you Brits, but us Americans ain't gonna sit on our muffins waiting for the bomb to fall.	我不知道你们英国人怎么想，但我们美国人可不会坐在那里干等着炸弹落下来。		
+10637	IDS_DIALOGUE_10637	dialogue	CRES.DLL	to2:1007	I'd describe how the plan works, but it's kinda technical. It'd go right over your purty little head.	我倒是可以解释这项计划的原理，不过内容有点技术性，凭你那漂亮的小脑袋恐怕听不懂。		
+10638	IDS_DIALOGUE_10638	dialogue	CRES.DLL	to2:1008	Why don't you stick to swapping recipes and leave the thinking to us.	你还是去交换菜谱吧，动脑筋的事交给我们。		
+10639	IDS_DIALOGUE_10639	dialogue	CRES.DLL	to2:1009	On second thought, why don't you and me ditch this joint and discuss this stuff in private. If you know what I mean?	转念一想，不如你和我离开这个地方，单独讨论一下这些事情。你懂我的意思吧？		
+10640	IDS_DIALOGUE_10640	dialogue	CRES.DLL	to2:1014	Attention, all personnel! Intruders have been spotted near the cafeteria area. They are believed to be armed and extremely dangerous!	全体人员注意！食堂附近发现入侵者。据悉他们携带武器，极度危险！		
+10641	IDS_DIALOGUE_10641	dialogue	CRES.DLL	to2:1015	I've just been told that the intruders appear to be mimes.	刚刚得到消息，入侵者似乎是一群哑剧演员。		
+10642	IDS_DIALOGUE_10642	dialogue	CRES.DLL	to2:1016	All personnel, stand down from alert. The threat has been neutralized. Thank you.	全体人员解除警戒，威胁已经排除。谢谢。		
+10644	IDS_DIALOGUE_10644	dialogue	CRES.DLL	to2:1017	There you are! I was worried you'd been kidnapped.	你可算回来了！我还担心你被绑架了。		
+10645	IDS_DIALOGUE_10645	dialogue	CRES.DLL	to2:1018	Ah, you found them.	啊，你找到它们了。		
+10646	IDS_DIALOGUE_10646	dialogue	CRES.DLL	to2:1019	Sorry to alarm you. Some strange small person popped into my office and I thought it best to run away.	抱歉惊动了你。刚才有个奇怪的小个子突然闯进我的办公室，我觉得逃跑才是上策。		
+10647	IDS_DIALOGUE_10647	dialogue	CRES.DLL	to2:1020	Commendable plan.	明智的计划。		
+10648	IDS_DIALOGUE_10648	dialogue	CRES.DLL	to2:1021	Let's take a look at those files, shall we?	我们来看看那些文件吧。		
+10649	IDS_DIALOGUE_10649	dialogue	CRES.DLL	to2:1022	Must you fidget?	你非得动来动去吗？		
+10650	IDS_DIALOGUE_10650	dialogue	CRES.DLL	to2:1023	Yes.	是的。		
+10651	IDS_DIALOGUE_10651	dialogue	CRES.DLL	to2:1024	I should think I can come up with something helpful. Of course, I'll need to analyze the data more thoroughly, so why don't you run along and blow something up for a while.	我想我应该能找出点有用的东西。当然，我还需要更彻底地分析数据，所以你不如先去随便炸点什么打发时间。		
+10652	IDS_DIALOGUE_10652	dialogue	CRES.DLL	to2:1025	Good idea. I'll just...	好主意，我这就……		
+10653	IDS_DIALOGUE_10653	dialogue	CRES.DLL	to2:1026	...pop out and rescue Armstrong.	……出去救阿姆斯特朗。		
+10654	IDS_DIALOGUE_10654	dialogue	CRES.DLL	to2:1027	Have fun.	玩得开心。		
+10655	IDS_DIALOGUE_10655	dialogue	CRES.DLL	to2:1028	Hmmm, Armstrong.	嗯，阿姆斯特朗。		
+10656	IDS_DIALOGUE_10656	dialogue	CRES.DLL	to2:1033	Whiskey, straight up.	威士忌，纯饮。		
+10657	IDS_DIALOGUE_10657	dialogue	CRES.DLL	to2:1034	Trouble at the office?	办公室里出麻烦了？		
+10658	IDS_DIALOGUE_10658	dialogue	CRES.DLL	to2:1035	Buncha damn girly men ain't willing to do what needs to be done. Ah, you don't wanna listen to my problems.	一群该死的娘娘腔不愿意做必须做的事。算了，你肯定不想听我诉苦。		
+10659	IDS_DIALOGUE_10659	dialogue	CRES.DLL	to2:1036	On the contrary. I'd love to.	恰恰相反，我很乐意听。		
+10660	IDS_DIALOGUE_10660	dialogue	CRES.DLL	to2:1037	What am I supposed to do? The dang thing just shorted out.	我还能怎么办？这该死的东西突然短路了。		
+10661	IDS_DIALOGUE_10661	dialogue	CRES.DLL	to2:1038	Do you have your warrantee card?	你有保修卡吗？		
+10662	IDS_DIALOGUE_10662	dialogue	CRES.DLL	to2:1039	What do you think THIS is, toilet paper? Although it might as well be.	你以为这是什么，厕纸吗？虽然它现在也差不多只配当厕纸。		
+10663	IDS_DIALOGUE_10663	dialogue	CRES.DLL	to2:1040	Did you read the part where it says the manufacturer isn't liable in the event of owner neglect or misuse?	你看过上面写的那一段吗？如果故障是因用户疏忽或使用不当造成，生产商概不负责。		
+10664	IDS_DIALOGUE_10664	dialogue	CRES.DLL	to2:1041	Misuse? I was just following the damn instructions.	使用不当？我只是照着该死的说明操作。		
+10665	IDS_DIALOGUE_10665	dialogue	CRES.DLL	to2:1042	The card clearly indicates the conditions under which the warrantee will be voided. There's a whole list of things that can cause malfunctions.	卡片上清楚列出了哪些情况会导致保修失效，可能造成故障的事项有一整张清单。		
+10666	IDS_DIALOGUE_10666	dialogue	CRES.DLL	to2:1043	I give up! Those robots are useless anyway.	我放弃了！那些机器人反正也没用。		
+10667	IDS_DIALOGUE_10667	dialogue	CRES.DLL	to2:1044	See this? This is what I think of these idiot robots.	看见了吗？这就是我对这些白痴机器人的看法。		
+10668	IDS_DIALOGUE_10668	dialogue	CRES.DLL	to2:1045	What are you looking at?	你看什么？		
+10669	IDS_DIALOGUE_10669	dialogue	CRES.DLL	to2:1046	Error. Does not compute. Please consult User Manual for correct input procedure.	错误。无法计算。请查阅《用户手册》，了解正确的输入流程。		
+10670	IDS_DIALOGUE_10670	dialogue	CRES.DLL	to2:1047	User Manual can be obtained from Supercomputer Services department in Corridor 2. To obtain User Manual, you must fill out a requisition form with the correct item number. The item number is listed in the Supercomputer Services Product Catalogue.	《用户手册》可从2号走廊的超级计算机服务部门领取。要领取《用户手册》，必须填写申请表并注明正确的物品编号。物品编号可在《超级计算机服务产品目录》中查到。		
+10671	IDS_DIALOGUE_10671	dialogue	CRES.DLL	to2:1048	Greetings. To check out the Supercomputer User Manual, please submit a completed Requisition Form 207-B. The requisition form must include the correct Item Number, which you can find in the Supercomputer Services Product Catalogue. To requisition a Supercomputer Services Product Catalogue, please submit a completed Requisition Form 207-B. The Item Number for the Supercomputer Services Product Catalogue can be found in the Supercomputer Services Product Catalogue.	您好。要借阅《超级计算机用户手册》，请提交填写完整的207-B申请表。申请表中必须包含正确的物品编号，该编号可在《超级计算机服务产品目录》中查到。要申请《超级计算机服务产品目录》，请提交填写完整的207-B申请表。《超级计算机服务产品目录》的物品编号可以在《超级计算机服务产品目录》中查到。		
+10672	IDS_DIALOGUE_10672	dialogue	CRES.DLL	to2:1053	I can't help you without a requisition form.	没有申请表，我无法帮助你。		
+10673	IDS_DIALOGUE_10673	dialogue	CRES.DLL	to2:1054	Here's your Supercomputer Services Product Catalogue.	这是你的《超级计算机服务产品目录》。		
+10674	IDS_DIALOGUE_10674	dialogue	CRES.DLL	to2:1055	I'm sorry. The Supercomputer User Manual is currently checked out.	很抱歉，《超级计算机用户手册》目前已被借出。		
+10675	IDS_DIALOGUE_10675	dialogue	CRES.DLL	to2:1056	Since you're cute, I'm gonna help you out. Chris Hibbard has had the manual checked out for the past four months. He's terrible about bringing stuff back when he's done with it, but he always leaves stuff sitting on his desk. I even made a copy of his office pass card. You can borrow it, but please bring it back when you're done. I'd hate to have to sic security on you.	看在你这么可爱的份上，我就帮你一把。克里斯·希巴德把那本手册借走已经四个月了。他用完东西后从来不按时归还，不过总会把它们随手放在自己的办公桌上。我甚至复制了一张他办公室的门禁卡。你可以借用，但用完后请还给我。我可不想派保安去抓你。		
+10676	IDS_DIALOGUE_10676	dialogue	CRES.DLL	to2:1057	Thanks.	谢谢。		
+10677	IDS_DIALOGUE_10677	dialogue	CRES.DLL	to2:1058	Error. Does not compute. User attempting to employ Version 1.0 input procedure. Current version is 2.0. Please consult Supercomputer User Manual Supplement for updated input procedure.	错误。无法计算。用户正在尝试使用1.0版输入流程，当前版本为2.0。请查阅《超级计算机用户手册补充说明》，了解更新后的输入流程。		
+10678	IDS_DIALOGUE_10678	dialogue	CRES.DLL	to2:1059	Girls aren't supposed to come in here!	女孩子不该进这里！		
+10679	IDS_DIALOGUE_10679	dialogue	CRES.DLL	to2:1060	There you are.	你在这儿啊。		
+10680	IDS_DIALOGUE_10680	dialogue	CRES.DLL	to2:1061	You made me wet myself!	你吓得我尿裤子了！		
+10681	IDS_DIALOGUE_10681	dialogue	CRES.DLL	to2:1062	Sorry. Give me your pass card.	抱歉，把你的通行卡给我。		
+10682	IDS_DIALOGUE_10682	dialogue	CRES.DLL	to2:1063	You're not authorized to enter the Supercomputer Services department.	你无权进入超级计算机服务部门。		
+10683	IDS_DIALOGUE_10683	dialogue	CRES.DLL	to2:1064	I need the Supercomputer User Manual Supplement. It's not even listed in the catalogue. I don't have time for all this bureaucracy. Give me the pass card or else.	我需要《超级计算机用户手册补充说明》。目录里甚至都没有列出来，我没时间应付这些官僚程序。把通行卡给我，否则别怪我不客气。		
+10684	IDS_DIALOGUE_10684	dialogue	CRES.DLL	to2:1065	Fine.	好吧。		
+10685	IDS_DIALOGUE_10685	dialogue	CRES.DLL	to2:1066	I'll be damned.	真见鬼。		
+10686	IDS_DIALOGUE_10686	dialogue	CRES.DLL	to2:1067	Ah, don't act so surprised.	别装得这么惊讶。		
+10687	IDS_DIALOGUE_10687	dialogue	CRES.DLL	to2:1068	I can't say I was expecting to see you here.	我可没想到会在这里见到你。		
+10688	IDS_DIALOGUE_10688	dialogue	CRES.DLL	to2:1073	You thought I'd leave you to die?	你以为我会丢下你等死？		
+10689	IDS_DIALOGUE_10689	dialogue	CRES.DLL	to2:1074	Think you can get me out of this mess?	你觉得能把我从这烂摊子里救出去吗？		
+10690	IDS_DIALOGUE_10690	dialogue	CRES.DLL	to2:1075	Not a chance, but at least she can watch you die.	没门，不过至少她可以看着你死。		
+10691	IDS_DIALOGUE_10691	dialogue	CRES.DLL	to2:1076	Hurry up, lass!	快点，小姑娘！		
+10692	IDS_DIALOGUE_10692	dialogue	CRES.DLL	to2:1077	Oh, golly.	哦，天哪。		
+10693	IDS_DIALOGUE_10693	dialogue	CRES.DLL	to2:1078	Don't forget about me, now.	别把我忘了。		
+10694	IDS_DIALOGUE_10694	dialogue	CRES.DLL	to2:1079	Cate!	凯特！		
+10695	IDS_DIALOGUE_10695	dialogue	CRES.DLL	to2:1080	I'm about out of time here, girlie.	我快撑不住了，小姑娘。		
+10696	IDS_DIALOGUE_10696	dialogue	CRES.DLL	to2:1081	Well, I'll be.	真没想到。		
+10697	IDS_DIALOGUE_10697	dialogue	CRES.DLL	to2:1082	Oh, no you don't.	哦，休想。		
+10698	IDS_DIALOGUE_10698	dialogue	CRES.DLL	to2:1083	Say goodbye to your little friend.	和你的小朋友道别吧。		
+10699	IDS_DIALOGUE_10699	dialogue	CRES.DLL	to2:1084	Curse you!	该死的！		
+10700	IDS_DIALOGUE_10700	dialogue	CRES.DLL	to2:1085	That's another one I owe you.	这下我又欠你一次。		
+10701	IDS_DIALOGUE_10701	dialogue	CRES.DLL	to2:1086	Uh oh. Let's get out of here!	糟了，我们快离开这里！		
+10702	IDS_DIALOGUE_10702	dialogue	CRES.DLL	to2:1087	Abigail!	阿比盖尔！		
+10703	IDS_DIALOGUE_10703	dialogue	CRES.DLL	to2:1088	I can't control myself.	我控制不了自己。		
+10704	IDS_DIALOGUE_10704	dialogue	CRES.DLL	to2:1093	Aaarrrrrggggghhhhh!!!	啊啊啊啊啊啊啊！！！		
+10705	IDS_DIALOGUE_10705	dialogue	CRES.DLL	to2:1094	That doesn't sound good.	听起来可不妙。		
+10706	IDS_DIALOGUE_10706	dialogue	CRES.DLL	to2:1095	Right. One of us is gonna have to find the bilge pumps and drain corridor 4B.	好吧，我们中得有一个人去找舱底水泵，把4B走廊里的水排掉。		
+10707	IDS_DIALOGUE_10707	dialogue	CRES.DLL	to2:1096	Either head down that way or go wait over there.	要么沿那边走，要么去那边等着。		
+10708	IDS_DIALOGUE_10708	dialogue	CRES.DLL	to2:1097	I'm off, then.	那我走了。		
+10709	IDS_DIALOGUE_10709	dialogue	CRES.DLL	to2:1098	I'll wait here, then.	那我就在这里等。		
+10710	IDS_DIALOGUE_10710	dialogue	CRES.DLL	to2:1099	See you soon.	回头见。		
+10711	IDS_DIALOGUE_10711	dialogue	CRES.DLL	to2:1100	Okay, I'm draining the corridor. Hold tight.	好了，我正在排走廊里的水，坚持住。		
+10712	IDS_DIALOGUE_10712	dialogue	CRES.DLL	to2:1101	Go! I may need your help in a moment. Find an intercom console.	快去！我一会儿可能需要你帮忙。找一台内部通讯终端。		
+10713	IDS_DIALOGUE_10713	dialogue	CRES.DLL	to2:1102	When you reach the pumps, drain corridor 4B.	到达水泵后，把4B走廊里的水排掉。		
+10714	IDS_DIALOGUE_10714	dialogue	CRES.DLL	to2:1103	Okay, it's working. Look for a way out of there.	好了，起作用了。找找有没有出去的路。		
+10715	IDS_DIALOGUE_10715	dialogue	CRES.DLL	to2:1104	Cate, I need your help. A security camera's shorting out. It'll zap me if I get too close. Find the security office... what the hell?	凯特，我需要你帮忙。有台监控摄像机短路了，我一靠近就会被电到。去找保安办公室……搞什么鬼？		
+10716	IDS_DIALOGUE_10716	dialogue	CRES.DLL	to2:1105	Cate, is that you? Where are you now? I'm...	凯特，是你吗？你现在在哪里？我……		
+10717	IDS_DIALOGUE_10717	dialogue	CRES.DLL	to2:1106	What do you recommend, Peterson? That we just lie down and die?	你有什么建议，彼得森？难道我们就躺下来等死？		
+10718	IDS_DIALOGUE_10718	dialogue	CRES.DLL	to2:1107	We've searched everywhere.	我们到处都找过了。		
+10719	IDS_DIALOGUE_10719	dialogue	CRES.DLL	to2:1108	Well, keep searching. There's got to be some sort of mechanism somewhere.	那就继续找，某处一定有什么机关。		
+10720	IDS_DIALOGUE_10720	dialogue	CRES.DLL	to2:1113	Yes, sir.	是，先生。		
+10721	IDS_DIALOGUE_10721	dialogue	CRES.DLL	to2:1114	Oh, golly.	哦，天哪。		
+10724	IDS_DIALOGUE_10724	dialogue	CRES.DLL	to2:1115	Keep a low profile. I'll have a look around.	尽量别引人注意，我去四处看看。		
+10725	IDS_DIALOGUE_10725	dialogue	CRES.DLL	to2:1116	Fine with me. I stumbled on a wee bottle of brandy on the way here. I've been meaning to take her for a test drive.	我没意见。来这里的路上，我偶然发现了一小瓶白兰地，正准备尝尝它的滋味。		
+10726	IDS_DIALOGUE_10726	dialogue	CRES.DLL	to2:1117	Quit grumbling. We could have left you for dead.	别抱怨了，我们本可以把你扔在那里等死。		
+10727	IDS_DIALOGUE_10727	dialogue	CRES.DLL	to2:1118	Magnus, launch the escape pod.	马格努斯，发射逃生舱。		
+10728	IDS_DIALOGUE_10728	dialogue	CRES.DLL	to2:1119	Must be jammed.	一定是卡住了。		
+10729	IDS_DIALOGUE_10729	dialogue	CRES.DLL	to2:1120	Doesn't anything on this stupid base work the way it's supposed to?	这个蠢基地里就没有一样东西能正常运作吗？		
+10730	IDS_DIALOGUE_10730	dialogue	CRES.DLL	to2:1121	No.	没有。		
+10731	IDS_DIALOGUE_10731	dialogue	CRES.DLL	to2:1122	Guess I'm staying after all.	看来我终究还是得留下。		
+10732	IDS_DIALOGUE_10732	dialogue	CRES.DLL	to2:1123	What? That's crazy. I didn't come all this way to let you drown.	什么？太疯狂了。我大老远赶来可不是为了眼睁睁看你淹死。		
+10733	IDS_DIALOGUE_10733	dialogue	CRES.DLL	to2:1124	Got a better idea? I'm the only one strong enough for the job.	你有更好的主意吗？只有我的力气足够完成这件事。		
+10734	IDS_DIALOGUE_10734	dialogue	CRES.DLL	to2:1125	There'll be no arguing.	不准争辩。		
+10735	IDS_DIALOGUE_10735	dialogue	CRES.DLL	to2:1126	There must be some other way.	一定还有别的办法。		
+10736	IDS_DIALOGUE_10736	dialogue	CRES.DLL	to2:1131	Not unless you want us all to die.	除非你想让我们全死在这里。		
+10737	IDS_DIALOGUE_10737	dialogue	CRES.DLL	to2:1132	Wish me luck.	祝我好运。		
+10738	IDS_DIALOGUE_10738	dialogue	CRES.DLL	to2:1133	There he is!	他在那里！		
+10739	IDS_DIALOGUE_10739	dialogue	CRES.DLL	to2:1134	You can do it, Magnus.	你能做到的，马格努斯。		
+10740	IDS_DIALOGUE_10740	dialogue	CRES.DLL	to2:1135	You must call off this operation.	你必须取消这次行动。		
+10741	IDS_DIALOGUE_10741	dialogue	CRES.DLL	to2:1136	Call it off? Impossible.	取消？不可能。		
+10742	IDS_DIALOGUE_10742	dialogue	CRES.DLL	to2:1137	It was never approved, only discussed.	这项行动从未获批，只是讨论过而已。		
+10743	IDS_DIALOGUE_10743	dialogue	CRES.DLL	to2:1138	Well, I suppose I could be convinced for 100 million pounds sterling.	好吧，也许一亿英镑能说服我。		
+10744	IDS_DIALOGUE_10744	dialogue	CRES.DLL	to2:1139	You're mad.	你疯了。		
+10745	IDS_DIALOGUE_10745	dialogue	CRES.DLL	to2:1140	Am I? Unless I'm mistaken, once my super soldiers seize Khios, it will be you facing the specter of annihilation.	是吗？除非我弄错了，一旦我的超级士兵占领希俄斯，面临毁灭威胁的人将会是你。		
+10748	IDS_DIALOGUE_10748	dialogue	CRES.DLL	to2:1141	You expect me to believe your super soldiers will accomplish what no nation on earth has ever done? Khios is impenetrable. Even to you.	你以为我会相信，你的超级士兵能做到地球上任何国家都未曾做到的事？希俄斯坚不可摧，即使对你也是如此。		
+10749	IDS_DIALOGUE_10749	dialogue	CRES.DLL	to2:1142	I'll send you a postcard.	我会给你寄张明信片。		
+10750	IDS_DIALOGUE_10750	dialogue	CRES.DLL	to2:1143	You leave me no choice but to contact our ambassador in Washington.	你逼得我只能联系我国驻华盛顿大使。		
+10751	IDS_DIALOGUE_10751	dialogue	CRES.DLL	to2:1144	Be my guest. Let's see if they believe you.	请便，看看他们会不会相信你。		
+10752	IDS_DIALOGUE_10752	dialogue	CRES.DLL	to2:1149	Yes?	喂？		
+10753	IDS_DIALOGUE_10753	dialogue	CRES.DLL	to2:1150	Where have you been? I've been trying to reach you all morning.	你去哪儿了？我找了你整整一上午。		
+10754	IDS_DIALOGUE_10754	dialogue	CRES.DLL	to2:1151	Hello, Mother.  Goodbye, Mother.	你好，母亲。再见，母亲。		
+10755	IDS_DIALOGUE_10755	dialogue	CRES.DLL	to2:1152	Don't you dare hang up.	你敢挂电话试试。		
+10756	IDS_DIALOGUE_10756	dialogue	CRES.DLL	to2:1153	I just got off the phone with Washington. The Soviets are denying any involvement.	我刚和华盛顿通完电话，苏联方面否认参与此事。		
+10757	IDS_DIALOGUE_10757	dialogue	CRES.DLL	to2:1154	Lying bunch of whores.	一群满嘴谎话的婊子。		
+10758	IDS_DIALOGUE_10758	dialogue	CRES.DLL	to2:1155	Washington has warned them that a Soviet flag flying over the island of Khios will be considered an act of war.	华盛顿已经警告他们，若希俄斯岛上升起苏联国旗，将被视为战争行为。		
+10759	IDS_DIALOGUE_10759	dialogue	CRES.DLL	to2:1156	I've completed my analysis.	我已经完成分析了。		
+10760	IDS_DIALOGUE_10760	dialogue	CRES.DLL	to2:1157	So what's this?	这是什么？		
+10761	IDS_DIALOGUE_10761	dialogue	CRES.DLL	to2:1158	Anti-super soldier serum.	抗超级士兵血清。		
+10762	IDS_DIALOGUE_10762	dialogue	CRES.DLL	to2:1159	Perfect. What does it do?	太好了，它有什么作用？		
+10763	IDS_DIALOGUE_10763	dialogue	CRES.DLL	to2:1160	Do you want the technical answer?	你想听技术性解释吗？		
+10764	IDS_DIALOGUE_10764	dialogue	CRES.DLL	to2:1161	Explain it so Barnes will understand.	解释得让巴恩斯也能听懂。		
+10765	IDS_DIALOGUE_10765	dialogue	CRES.DLL	to2:1162	It causes a chemical reaction in the super soldiers that essentially boils their innards.	它会在超级士兵体内引发化学反应，基本上会把他们的内脏煮熟。		
+10766	IDS_DIALOGUE_10766	dialogue	CRES.DLL	to2:1163	Well, hot damn.	真他妈带劲。		
+10770	IDS_DIALOGUE_10770	dialogue	CRES.DLL	to2:1168	I think we should presume she's failed.	我认为我们应该假定她已经失败了。		
+10771	IDS_DIALOGUE_10771	dialogue	CRES.DLL	to2:1169	We're running out of options.	我们快没有其他选择了。		
+10773	IDS_DIALOGUE_10773	dialogue	CRES.DLL	to2:1170	Where do I sign up for this shindig?	这场热闹要去哪儿报名？		
+10774	IDS_DIALOGUE_10774	dialogue	CRES.DLL	to2:1171	You'll be on your own. If we put our troops on that island, the Soviets will launch against us. We've warned the local authorities not to interfere, since their weapons would be useless. 	你得独自行动。如果我们把部队派上那座岛，苏联就会向我们发射核武器。我们已经警告当地政府不要干预，因为他们的武器毫无作用。		
+10775	IDS_DIALOGUE_10775	dialogue	CRES.DLL	to2:1172	They could at least give the super soldiers some alternatives to shoot at.	他们至少可以给超级士兵找点别的目标开枪。		
+10776	IDS_DIALOGUE_10776	dialogue	CRES.DLL	to2:1173	Why didn't I think of that.	我怎么就没想到呢。		
+10777	IDS_DIALOGUE_10777	dialogue	CRES.DLL	to2:1174	You got to use your head, sir.	先生，你得动动脑子。		
+10779	IDS_DIALOGUE_10779	dialogue	CRES.DLL	to2:1175	I considered putting a bullet in your head while you were unconscious.	你昏迷的时候，我考虑过朝你脑袋开一枪。		
+10780	IDS_DIALOGUE_10780	dialogue	CRES.DLL	to2:1176	Why didn't you?	那你为什么没开？		
+10781	IDS_DIALOGUE_10781	dialogue	CRES.DLL	to2:1177	Too easy. For you. After all the grief you've caused us, it's not enough simply to let you die in your sleep.	太便宜你了。你给我们造成了这么多麻烦，光让你在睡梦中死掉可远远不够。		
+10782	IDS_DIALOGUE_10782	dialogue	CRES.DLL	to2:1178	I hope you have something interesting in mind.	希望你准备了点有意思的东西。		
+10784	IDS_DIALOGUE_10784	dialogue	CRES.DLL	to2:1183	You've got to be kidding.	你是在开玩笑吧。		
+10785	IDS_DIALOGUE_10785	dialogue	CRES.DLL	to2:1184	I thought that might get your attention.	我就知道这能引起你的注意。		
+10786	IDS_DIALOGUE_10786	dialogue	CRES.DLL	to2:1185	You stole this idea from Masters of Mayhem.	你这主意是从《混乱大师》里偷来的。		
+10787	IDS_DIALOGUE_10787	dialogue	CRES.DLL	to2:1186	Nonsense.	胡说。		
+10788	IDS_DIALOGUE_10788	dialogue	CRES.DLL	to2:1187	They've been murdering people like this since '63.	他们早在六三年就开始这样杀人了。		
+10789	IDS_DIALOGUE_10789	dialogue	CRES.DLL	to2:1188	Start the mechanism.	启动机关。		
+10792	IDS_DIALOGUE_10792	dialogue	CRES.DLL	to2:1189	Do it yourself.	你自己启动。		
+10793	IDS_DIALOGUE_10793	dialogue	CRES.DLL	to2:1190	Start the mechanism.	启动机关。		
+10795	IDS_DIALOGUE_10795	dialogue	CRES.DLL	to2:1191	Damn thing!	这破玩意儿！		
+10796	IDS_DIALOGUE_10796	dialogue	CRES.DLL	to2:1192	I thought I might run into you.	我就知道会碰上你。		
+10797	IDS_DIALOGUE_10797	dialogue	CRES.DLL	to2:1193	I knew I would run into you.	我早知道一定会碰上你。		
+10798	IDS_DIALOGUE_10798	dialogue	CRES.DLL	to2:1194	What do you say we pretend we didn't see each other.	不如我们装作没看见对方，怎么样？		
+10799	IDS_DIALOGUE_10799	dialogue	CRES.DLL	to2:1195	I can't.	不行。		
+10800	IDS_DIALOGUE_10800	dialogue	CRES.DLL	to2:1200	All right.	好吧。		
+10801	IDS_DIALOGUE_10801	dialogue	CRES.DLL	to2:1201	I was wrong to have spared your life all those years ago.	多年前饶你一命，是我的错误。		
+10802	IDS_DIALOGUE_10802	dialogue	CRES.DLL	to2:1202	You've been nothing but a disappointment. Sayonara.	你从来只会让我失望。永别了。		
+10803	IDS_DIALOGUE_10803	dialogue	CRES.DLL	to2:1203	Damn it!	该死！		
+10804	IDS_DIALOGUE_10804	dialogue	CRES.DLL	to2:1204	Are you all right?	你没事吧？		
+10805	IDS_DIALOGUE_10805	dialogue	CRES.DLL	to2:1205	Can't say much for your taste in employers.	你挑雇主的眼光实在不怎么样。		
+10806	IDS_DIALOGUE_10806	dialogue	CRES.DLL	to2:1206	He was like a father.	他就像我的父亲。		
+10807	IDS_DIALOGUE_10807	dialogue	CRES.DLL	to2:1207	You're better off as an orphan.	当孤儿反而更适合你。		
+10808	IDS_DIALOGUE_10808	dialogue	CRES.DLL	to2:1208	I am in your debt.	我欠你一条命。		
+10809	IDS_DIALOGUE_10809	dialogue	CRES.DLL	to2:1209	Then will you please stop trying to kill me?	那你以后能不能别再想杀我了？		
+10810	IDS_DIALOGUE_10810	dialogue	CRES.DLL	to2:1210	What's wrong?	怎么了？		
+10811	IDS_DIALOGUE_10811	dialogue	CRES.DLL	to2:1211	Nothing is wrong.	什么事也没有。		
+10812	IDS_DIALOGUE_10812	dialogue	CRES.DLL	to2:1212	Well, I'm late to a war. Sayonara.	好吧，我参加战争要迟到了。再见。		
+10815	IDS_DIALOGUE_10815	dialogue	CRES.DLL	to2:1213	Okay, Perkins, take us up.	好了，珀金斯，升空。		
+10816	IDS_DIALOGUE_10816	dialogue	CRES.DLL	to2:1218	Aye, aye, sir!	是，先生！		
+10817	IDS_DIALOGUE_10817	dialogue	CRES.DLL	to2:1219	All hands, prepare to deploy invasion force.	全体人员，准备部署入侵部队。		
+10818	IDS_DIALOGUE_10818	dialogue	CRES.DLL	to2:1220	We're detecting an unidentified submarine near the coastline. They slipped through the blockade.	我们在海岸附近探测到一艘身份不明的潜艇，他们突破了封锁。		
+10819	IDS_DIALOGUE_10819	dialogue	CRES.DLL	to2:1221	Attention, all personnel, we are at DefCon 2. Repeat, we are at DefCon 2.	全体人员注意，我们现已进入二级战备状态。重复，我们现已进入二级战备状态。		
+10820	IDS_DIALOGUE_10820	dialogue	CRES.DLL	to2:1222	You think the President would let me push the button?	你觉得总统会让我按下按钮吗？		
+10821	IDS_DIALOGUE_10821	dialogue	CRES.DLL	to2:1223	I'm surprised he lets you use a telephone.	他居然允许你使用电话，我都觉得很惊讶。		
+10822	IDS_DIALOGUE_10822	dialogue	CRES.DLL	to2:1224	President Johnson is about to address the American people.	约翰逊总统即将向美国人民发表讲话。		
+10823	IDS_DIALOGUE_10823	dialogue	CRES.DLL	to2:1225	My fellow Americans, it is my grave duty to inform you of a crisis unfolding in a far-off land many of us have never even heard of. Even as we continue to endeavor toward peace in Vietnam and a settlement to the continuing crisis in the Middle East, a dangerous new menace has cast its shadow over the tiny island nation of Khios in the Sea of Marmara, off the coast of Turkey. For decades now, we have lived with a constant, abiding fear of war against the Soviet Union.	我的美国同胞们，我怀着沉重的责任告诉大家，一场危机正在一个遥远的国度展开，而我们许多人甚至从未听说过那里。即便我们仍在为越南和平及解决持续不断的中东危机而努力，一股新的危险威胁已将阴影投向土耳其海岸外、马尔马拉海上的岛国希俄斯。数十年来，我们一直生活在与苏联爆发战争的持续恐惧之中。		
+10824	IDS_DIALOGUE_10824	dialogue	CRES.DLL	to2:1226	God save us all.	愿上帝拯救我们所有人。		
+10825	IDS_DIALOGUE_10825	dialogue	CRES.DLL	to2:1227	All stop!	全速停止！		
+10826	IDS_DIALOGUE_10826	dialogue	CRES.DLL	to2:1228	Aye, aye, sir!	是，先生！		
+10827	IDS_DIALOGUE_10827	dialogue	CRES.DLL	to2:1229	Perfect! Begin deployment.	完美！开始部署。		
+10828	IDS_DIALOGUE_10828	dialogue	CRES.DLL	to2:1230	Cate!	凯特！		
+10829	IDS_DIALOGUE_10829	dialogue	CRES.DLL	to2:1231	Well, I'll be damned.	真见鬼。		
+10830	IDS_DIALOGUE_10830	dialogue	CRES.DLL	to2:1232	What?!	什么？！		
+10831	IDS_DIALOGUE_10831	dialogue	CRES.DLL	to2:1233	Damn that meddlesome girl.	那个多管闲事的女人，真该死。		
+10832	IDS_DIALOGUE_10832	dialogue	CRES.DLL	to2:1238	Didn't think you'd make it.	没想到你能赶来。		
+10833	IDS_DIALOGUE_10833	dialogue	CRES.DLL	to2:1239	Neither did I. Where's the ammunition?	我自己也没想到。弹药在哪里？		
+10834	IDS_DIALOGUE_10834	dialogue	CRES.DLL	to2:1240	On its way. Bruno says they finished assembling the capsules. They'll be airdropping it to us any moment.	正在运来。布鲁诺说胶囊已经组装完成，随时会空投给我们。		
+10835	IDS_DIALOGUE_10835	dialogue	CRES.DLL	to2:1241	Good. We should be able to hold out as long as Doctor Schenker's Super Soldier tonic does what it's supposed to.	很好。只要申克博士的超级士兵药剂能按预期发挥作用，我们应该就能守住。		
+10836	IDS_DIALOGUE_10836	dialogue	CRES.DLL	to2:1242	I have an idea. Stay here and make sure nobody gets near that flag.	我有个主意。留在这里，确保没人接近那面旗帜。		
+10837	IDS_DIALOGUE_10837	dialogue	CRES.DLL	to2:1243	It's too late, Archer.	太迟了，阿彻。		
+10838	IDS_DIALOGUE_10838	dialogue	CRES.DLL	to2:1244	Oh no.	哦，不。		
+10839	IDS_DIALOGUE_10839	dialogue	CRES.DLL	to2:1245	God save us all.	愿上帝拯救我们所有人。		
+10840	IDS_DIALOGUE_10840	dialogue	CRES.DLL	to2:1246	Yee haw!	呀呼！		
+10841	IDS_DIALOGUE_10841	dialogue	CRES.DLL	to2:1247	One small misstep for man, one giant calamity for mankind. And I'll be sipping daiquiris on a beach in the South Pacific until it all blows over. Too bad mummy won't be joining me.	个人的一小步失误，人类的一场巨大灾难。而我会待在南太平洋的海滩上喝代基里酒，等一切风平浪静。可惜妈妈不能陪我。		
+10842	IDS_DIALOGUE_10842	dialogue	CRES.DLL	to2:1248	During the Cuban Missile Crisis of 1962, we came as close as any of us would ever hope to come. It is therefore with deep sadness and frustration that I must brace the American people for an equally dangerous standoff half a world away from the site of the last terrible confrontation. America has guaranteed the continued independence of Khios at any cost. Now we are being asked to stand behind that pledge. We cannot back down from it.	在1962年的古巴导弹危机期间，我们曾无限接近任何人都不愿再次面对的灾难。因此，我怀着深切的悲痛与无奈，必须让美国人民为另一场同样危险的对峙做好准备，而这次事发地点远在上次可怕冲突的半个地球之外。美国已经承诺，不惜一切代价保障希俄斯继续独立。现在，我们必须兑现这一承诺，绝不能退缩。		
+10844	IDS_DIALOGUE_10844	dialogue	CRES.DLL	to2:1249	Ow.	疼。		
+10845	IDS_DIALOGUE_10845	dialogue	CRES.DLL	to2:1250	We're in business!	成了！		
+10846	IDS_DIALOGUE_10846	dialogue	CRES.DLL	to2:1251	The flag!	旗帜！		
+10847	IDS_DIALOGUE_10847	dialogue	CRES.DLL	to2:1252	We have to stop that missile.	我们必须阻止那枚导弹。		
+10848	IDS_DIALOGUE_10848	dialogue	CRES.DLL	to2:1257	Too late, boys. She's out of range. Damn, I wish I had some popcorn for this.	太迟了，小伙子们，它已经飞出射程。该死，真希望手边有点爆米花。		
+10849	IDS_DIALOGUE_10849	dialogue	CRES.DLL	to2:1258	What's that girl up to?	那个女人在搞什么？		
+10850	IDS_DIALOGUE_10850	dialogue	CRES.DLL	to2:1259	The Soviets are promising to launch a full retaliatory strike unless the missile is destroyed.	苏联方面表示，除非摧毁那枚导弹，否则他们将发动全面报复性打击。		
+10851	IDS_DIALOGUE_10851	dialogue	CRES.DLL	to2:1260	This is getting better by the minute.	这事真是越来越有意思了。		
+10852	IDS_DIALOGUE_10852	dialogue	CRES.DLL	to2:1261	Oh, thank God.	感谢上帝。		
+10853	IDS_DIALOGUE_10853	dialogue	CRES.DLL	to2:1262	Wait!	等等！		
+10854	IDS_DIALOGUE_10854	dialogue	CRES.DLL	to2:1263	What's wrong?	怎么了？		
+10855	IDS_DIALOGUE_10855	dialogue	CRES.DLL	to2:1264	Stay back.	退后。		
+10858	IDS_DIALOGUE_10858	dialogue	CRES.DLL	to2:1265	Well, that's enough for me. I'm long overdue for a pint or two.	好了，这就够我受的了，我早该去喝上一两品脱了。		
+10859	IDS_DIALOGUE_10859	dialogue	CRES.DLL	to2:1266	Ah, there you are. Anything interesting happen while I was away?	啊，你在这里。我离开期间发生什么有意思的事了吗？		
+10860	IDS_DIALOGUE_10860	dialogue	CRES.DLL	to2:1267	Not particularly.	没什么特别的。		
+10861	IDS_DIALOGUE_10861	dialogue	CRES.DLL	to2:1268	Well, I suppose you're probably eager for some excitement.	好吧，我猜你大概很想来点刺激的事情。		
+10862	IDS_DIALOGUE_10862	dialogue	CRES.DLL	to2:1269	Not particularly.	没什么特别想的。		
+10863	IDS_DIALOGUE_10863	dialogue	CRES.DLL	to2:1270	Is everything all right?	一切都还好吗？		
+10864	IDS_DIALOGUE_10864	dialogue	CRES.DLL	to2:1275	Not particularly.	没什么特别的。		
+10865	IDS_DIALOGUE_10865	dialogue	CRES.DLL	to2:1276	You're a disgrace to this family.	你真是这个家族的耻辱。		
+10866	IDS_DIALOGUE_10866	dialogue	CRES.DLL	to2:1277	Yes, Mother.	是，母亲。		
+10867	IDS_DIALOGUE_10867	dialogue	CRES.DLL	to2:1278	When your cousin Beauregard went to prison for arson, I thought that was as bad as it could ever get. Beauregard is a saint compared to you. 	当你表兄博勒加德因为纵火入狱时，我还以为事情再也不可能更糟了。和你相比，博勒加德简直是圣人。		
+10868	IDS_DIALOGUE_10868	dialogue	CRES.DLL	to2:1279	Yes, Mother.	是，母亲。		
+10869	IDS_DIALOGUE_10869	dialogue	CRES.DLL	to2:1280	I hope you're proud.	希望你对此感到骄傲。		
+10870	IDS_DIALOGUE_10870	dialogue	CRES.DLL	to2:1281	Yes, Mother.	是，母亲。		
+10871	IDS_DIALOGUE_10871	dialogue	CRES.DLL	to2:1282	And another thing...	还有一件事……		
+10872	IDS_DIALOGUE_10872	dialogue	CRES.DLL	to2:1283	I quit.	我不干了。		
+10873	IDS_DIALOGUE_10873	dialogue	CRES.DLL	to2:1284	What do you mean, you quit? You can't quit.	你说什么不干了？你不能辞职。		
+10874	IDS_DIALOGUE_10874	dialogue	CRES.DLL	to2:1285	Watch me.	你看着吧。		
+10875	IDS_DIALOGUE_10875	dialogue	CRES.DLL	to2:1286	Dmitrij?	德米特里？		
+10876	IDS_DIALOGUE_10876	dialogue	CRES.DLL	to2:1287	Dmitrij!	德米特里！		
+10877	IDS_DIALOGUE_10877	dialogue	CRES.DLL	to2:1288	The world hasn't heard the last of H.A.R.M.! You can either stand with us or against us.	世人还没有见识到H.A.R.M.的最后一面！你要么站在我们这边，要么与我们为敌。		
+10889	IDS_DIALOGUE_10889	dialogue	CRES.DLL	to2:1293	This way! Come on!	这边！快来！		
+10890	IDS_DIALOGUE_10890	dialogue	CRES.DLL	to2:1294	Follow me!	跟我来！		
+10891	IDS_DIALOGUE_10891	dialogue	CRES.DLL	to2:1295	Over here!	这里！		
+10892	IDS_DIALOGUE_10892	dialogue	CRES.DLL	to2:1296	Hurry!	快点！		
+10893	IDS_DIALOGUE_10893	dialogue	CRES.DLL	to2:1297	In here!	进来！		
+10894	IDS_DIALOGUE_10894	dialogue	CRES.DLL	to2:1298	Fat chance of that.	想得美。		
+10895	IDS_DIALOGUE_10895	dialogue	CRES.DLL	to2:1299	What was that?	那是什么声音？		
+10896	IDS_DIALOGUE_10896	dialogue	CRES.DLL	to2:1304	Forget about me. We're trying to stop a war, remember?	别管我。我们正在努力阻止战争，还记得吗？		
+10897	IDS_DIALOGUE_10897	dialogue	CRES.DLL	to2:1305	Get out of here! I don't know how long I can hold on.	快离开这里！我不知道自己还能撑多久。		
+10899	IDS_DIALOGUE_10899	dialogue	CRES.DLL	to2:1306	(Deep breath)	（深呼吸）		
+10900	IDS_DIALOGUE_10900	dialogue	CRES.DLL	to2:1307	We're picking up an inbound jet fighter. The pilot is giving the code Foxhunt.	我们探测到一架正在接近的喷气式战斗机，飞行员报出的代码是“猎狐”。		
+10901	IDS_DIALOGUE_10901	dialogue	CRES.DLL	to2:1308	Consider it done.	包在我身上。		
+10902	IDS_DIALOGUE_10902	dialogue	CRES.DLL	to2:1309	If I'm not back in an hour, clear out and contact headquarters.	如果我一小时内没回来，就立即撤离并联系总部。		
+10903	IDS_DIALOGUE_10903	dialogue	CRES.DLL	to2:1310	Call it a hunch. Something about this assignment feels wrong.	就当是直觉吧，这个任务总让我觉得不对劲。		
+10904	IDS_DIALOGUE_10904	dialogue	CRES.DLL	to2:1311	Wish me luck.	祝我好运。		
+10905	IDS_DIALOGUE_10905	dialogue	CRES.DLL	to2:1312	Maybe you need your arse kicked.	也许你需要有人狠狠踹你屁股。		
+10906	IDS_DIALOGUE_10906	dialogue	CRES.DLL	to2:1313	We've got to get you out of here.	我们必须把你救出去。		
+10907	IDS_DIALOGUE_10907	dialogue	CRES.DLL	to2:1314	You don't want to know.	你不会想知道的。		
+10908	IDS_DIALOGUE_10908	dialogue	CRES.DLL	to2:1315	Let them come. We're not leaving without Armstrong.	让他们来吧。找不到阿姆斯特朗，我们就不走。		
+10909	IDS_DIALOGUE_10909	dialogue	CRES.DLL	to2:1316	We'll send help!	我们会派援兵来！		
+10910	IDS_DIALOGUE_10910	dialogue	CRES.DLL	to2:1317	Magnus.	马格努斯。		
+10911	IDS_DIALOGUE_10911	dialogue	CRES.DLL	to2:1318	And send an intercept team to the Antarctic facility. Armstrong is still there.	再派一支拦截小队前往南极设施，阿姆斯特朗还在那里。		
+10912	IDS_DIALOGUE_10912	dialogue	CRES.DLL	to2:1323	That's just great.	这可真是太棒了。		
+10913	IDS_DIALOGUE_10913	dialogue	CRES.DLL	to2:1324	Insufferable woman.	难以忍受的女人。		
+10914	IDS_DIALOGUE_10914	dialogue	CRES.DLL	to2:1325	So sorry I can't stay to see the fireworks. I really must be going. Ta ta.	很抱歉不能留下来看烟花，我真的得走了。再见啦。		
+10915	IDS_DIALOGUE_10915	dialogue	CRES.DLL	to2:1326	Abigail!!!	阿比盖尔！！！		
+10916	IDS_DIALOGUE_10916	dialogue	CRES.DLL	to2:1327	AAARRRRRGGGGHHHH!!! ABIGAIL!!!	啊啊啊啊啊啊啊！！！阿比盖尔！！！		
+10917	IDS_DIALOGUE_10917	dialogue	CRES.DLL	to2:1328	No, please!	不，求你了！		
+10918	IDS_DIALOGUE_10918	dialogue	CRES.DLL	to2:1329	I'll wait for you here.	我会在这里等你。		
+10919	IDS_DIALOGUE_10919	dialogue	CRES.DLL	to2:1330	It's not like you to be cynical.	你可不像是会说这种丧气话的人。		
+10920	IDS_DIALOGUE_10920	dialogue	CRES.DLL	to2:1331	No, please!	不，求你了！		
+10921	IDS_DIALOGUE_10921	dialogue	CRES.DLL	to2:1332	Look!	看！		
+10922	IDS_DIALOGUE_10922	dialogue	CRES.DLL	to2:1333	We must go. Bad guys are coming. Many helicopters.	我们必须走，坏人来了，有很多直升机。		
+10923	IDS_DIALOGUE_10923	dialogue	CRES.DLL	to2:1334	We should hurry.	我们得快点。		
+10924	IDS_DIALOGUE_10924	dialogue	CRES.DLL	to2:1335	No, please!	不，求你了！		
+10925	IDS_DIALOGUE_10925	dialogue	CRES.DLL	to2:1336	No, please!	不，求你了！		
+11001	IDS_DIALOGUE_11001	dialogue	CRES.DLL	to2:1341	Hatori-san is waiting for you somewhere in the village.	羽鸟先生正在村里的某个地方等你。	done	
+11002	IDS_DIALOGUE_11002	dialogue	CRES.DLL	to2:1342	Look for messages from him.	留意他留下的信息。	done	
+11003	IDS_DIALOGUE_11003	dialogue	CRES.DLL	to2:1343	Find Hatori-san. He can help you with your mission.	找到羽鸟先生，他能帮助你完成任务。	done	
+11004	IDS_DIALOGUE_11004	dialogue	CRES.DLL	to2:1344	Good luck!	祝你好运！	done	
+11005	IDS_DIALOGUE_11005	dialogue	CRES.DLL	to2:1345	Psst.	嘘。		
+11006	IDS_DIALOGUE_11006	dialogue	CRES.DLL	to2:1346	Caw, caw!	嘎，嘎！		
+11007	IDS_DIALOGUE_11007	dialogue	CRES.DLL	to2:1347	Over here!	这边！		
+11008	IDS_DIALOGUE_11008	dialogue	CRES.DLL	to2:1352	It's me, Santa!	是我，圣诞老人！		
+11009	IDS_DIALOGUE_11009	dialogue	CRES.DLL	to2:1353	Say hello to the Mark VII Mechanized Mynah Bird. Perfect way for me to communicate with you in the field.	向马克七型机械八哥问好。这可是我在行动中与你联络的绝佳方式。		
+11010	IDS_DIALOGUE_11010	dialogue	CRES.DLL	to2:1354	Now, then, anything I can do for you?	那么，有什么需要我帮忙的吗？		
+11011	IDS_DIALOGUE_11011	dialogue	CRES.DLL	to2:1355	If you're unsure what to do next, consult the Mission Status screen. 	不确定下一步该做什么时，请查看“任务状态”界面。		
+11012	IDS_DIALOGUE_11012	dialogue	CRES.DLL	to2:1356	Unless an objective is marked optional, you must accomplish it in order to complete your mission.	除非某项目标被标记为可选，否则你必须完成它才能完成任务。		
+11013	IDS_DIALOGUE_11013	dialogue	CRES.DLL	to2:1357	On certain missions you may also receive parameters, which are general guidelines or rules of conduct. Violate them at your own risk.	在某些任务中，你还会收到行动要求，也就是一些一般性的指导或行为准则。违反它们，后果自负。		
+11014	IDS_DIALOGUE_11014	dialogue	CRES.DLL	to2:1358	That covers the basics.	基本内容就是这些。		
+11015	IDS_DIALOGUE_11015	dialogue	CRES.DLL	to2:1359	Anything else?	还有别的吗？		
+11016	IDS_DIALOGUE_11016	dialogue	CRES.DLL	to2:1360	The Equipment screen shows you a complete list of the weapons and gadgets you're carrying. Choosing an item from this list will bring up a detailed description and a summary of available ammunition types or gadget functions, which can also be selected here.	“装备”界面会显示你当前携带的所有武器和工具。从列表中选择一件物品后，会显示详细说明，以及可用弹药类型或工具功能的摘要，你也可以在这里进行选择。		
+11017	IDS_DIALOGUE_11017	dialogue	CRES.DLL	to2:1361	Jolly good. I'll be in touch soon.	太好了，我很快会再联系你。		
+11018	IDS_DIALOGUE_11018	dialogue	CRES.DLL	to2:1362	Careful!	小心！		
+11019	IDS_DIALOGUE_11019	dialogue	CRES.DLL	to2:1363	You can lean around corners to see what's up ahead.	你可以从拐角处探身，看看前方的情况。		
+11020	IDS_DIALOGUE_11020	dialogue	CRES.DLL	to2:1364	Enemies will eventually notice you, though, so don't peek too long.	不过敌人最终还是会发现你，所以别探头太久。		
+11021	IDS_DIALOGUE_11021	dialogue	CRES.DLL	to2:1365	Enemies can hear any sound you make, so learn to move quietly.	敌人能听见你发出的任何声音，因此要学会悄无声息地移动。		
+11022	IDS_DIALOGUE_11022	dialogue	CRES.DLL	to2:1366	Your footsteps can give you away, but you can Sneak to tread softly.	脚步声会暴露你的位置，不过你可以潜行，尽量放轻脚步。		
+11023	IDS_DIALOGUE_11023	dialogue	CRES.DLL	to2:1367	Keep in mind that certain materials, such as ceramic tile, magnify sound, whereas surfaces like grass or snow will dampen your footfalls.	请记住，瓷砖等材质会放大声音，而草地或积雪之类的表面则会减弱脚步声。		
+11024	IDS_DIALOGUE_11024	dialogue	CRES.DLL	to2:1372	Also, be careful not to knock over bottles or bump into wind chimes or you'll cause a disturbance.	另外，小心别撞倒瓶子或碰响风铃，否则会引起骚动。		
+11025	IDS_DIALOGUE_11025	dialogue	CRES.DLL	to2:1373	Try to dispatch enemies when they're unsuspecting. If they see you, they'll cry out, attracting attention.	尽量趁敌人毫无防备时解决他们。要是被看见，他们会大喊，引来其他人的注意。		
+11026	IDS_DIALOGUE_11026	dialogue	CRES.DLL	to2:1374	Also, don't leave bodies lying around. Move them somewhere out of the way.	另外，别把尸体随便扔在外面，把它们搬到不显眼的地方。		
+11027	IDS_DIALOGUE_11027	dialogue	CRES.DLL	to2:1375	When you overcome certain obstacles or accomplish specific objectives, you'll receive skill point rewards.	克服某些障碍或完成特定目标后，你会获得技能点奖励。		
+11028	IDS_DIALOGUE_11028	dialogue	CRES.DLL	to2:1376	Bring up the Player screen to spend these points to improve your abilities.	打开“玩家”界面，使用这些技能点提升能力。		
+11029	IDS_DIALOGUE_11029	dialogue	CRES.DLL	to2:1377	I'm hungry.	我饿了。		
+11030	IDS_DIALOGUE_11030	dialogue	CRES.DLL	to2:1378	You just ate.	你刚吃过。		
+11031	IDS_DIALOGUE_11031	dialogue	CRES.DLL	to2:1379	I can't help it. I eat when I'm stressed.	我也没办法，我一紧张就想吃东西。		
+11032	IDS_DIALOGUE_11032	dialogue	CRES.DLL	to2:1380	Why are you stressed?	你为什么紧张？		
+11033	IDS_DIALOGUE_11033	dialogue	CRES.DLL	to2:1381	I have a bad feeling about tonight.	我对今晚有种不好的预感。		
+11034	IDS_DIALOGUE_11034	dialogue	CRES.DLL	to2:1382	You're worried about one little spy?	你是在担心一个小小的间谍？		
+11035	IDS_DIALOGUE_11035	dialogue	CRES.DLL	to2:1383	What? No, Kenji-san asked me to meet him later. I think he wants to break up.	什么？不是，健二先生约我晚点见面，我觉得他想和我分手。		
+11036	IDS_DIALOGUE_11036	dialogue	CRES.DLL	to2:1384	My grandmother said you should poison your man every morning before he leaves. Tell him he can have the antidote when he comes home.	我祖母说，男人每天早上出门前都应该给他下毒，再告诉他回家后才能拿到解药。		
+11037	IDS_DIALOGUE_11037	dialogue	CRES.DLL	to2:1385	What poison should I use?	我该用什么毒？		
+11038	IDS_DIALOGUE_11038	dialogue	CRES.DLL	to2:1386	I'm sure my grandmother can give you something. She doesn't need it anymore.	我祖母肯定能给你点什么，反正她现在也用不着了。		
+11039	IDS_DIALOGUE_11039	dialogue	CRES.DLL	to2:1387	She's not worried about your grandfather running away?	她不担心你祖父逃走吗？		
+11040	IDS_DIALOGUE_11040	dialogue	CRES.DLL	to2:1392	He can't. He's paralyzed. You have to be very careful with the dosage.	他逃不了，已经瘫痪了。剂量一定要非常小心。		
+11041	IDS_DIALOGUE_11041	dialogue	CRES.DLL	to2:1393	Do you want to go shopping in Nagoya this weekend?	这周末要不要去名古屋购物？		
+11042	IDS_DIALOGUE_11042	dialogue	CRES.DLL	to2:1394	I can't. I have an assassination.	不行，我有刺杀任务。		
+11043	IDS_DIALOGUE_11043	dialogue	CRES.DLL	to2:1395	Get Haruko to do it.	让春子去做。		
+11044	IDS_DIALOGUE_11044	dialogue	CRES.DLL	to2:1396	She's still mad at me about her cat.	她还在为她那只猫的事生我的气。		
+11045	IDS_DIALOGUE_11045	dialogue	CRES.DLL	to2:1397	What about Yuki?	那由纪呢？		
+11046	IDS_DIALOGUE_11046	dialogue	CRES.DLL	to2:1398	I'll ask her.	我去问她。		
+11047	IDS_DIALOGUE_11047	dialogue	CRES.DLL	to2:1399	Let me know.	记得告诉我结果。		
+11049	IDS_DIALOGUE_11049	dialogue	CRES.DLL	to2:1400	Notice the Hiding Place icon in the bottom corner of your screen? This indicates you have entered a potential hiding place. In order to become truly hidden, you must stand still until the Hidden icon shows. Once you are hidden, enemies will not be able to see you unless they are investigating a disturbance or actively searching the area.	看到屏幕下方角落里的“藏身处”图标了吗？这表示你进入了一个可能的藏身地点。要真正隐藏起来，你必须保持不动，直到出现“已隐藏”图标。隐藏后，除非敌人正在调查骚动或主动搜索该区域，否则他们无法看见你。		
+11050	IDS_DIALOGUE_11050	dialogue	CRES.DLL	to2:1401	You are only hidden when standing still. If you move, attack, or reload a weapon, you will become unhidden.	只有站着不动时才算隐藏。移动、攻击或给武器装弹都会解除隐藏状态。		
+11053	IDS_DIALOGUE_11053	dialogue	CRES.DLL	to2:1402	What happened to your arm?	你的手臂怎么了？		
+11054	IDS_DIALOGUE_11054	dialogue	CRES.DLL	to2:1403	I got in a fight with my mom.	我和我妈打了一架。		
+11055	IDS_DIALOGUE_11055	dialogue	CRES.DLL	to2:1404	Looks like she cut you pretty badly.	看起来她把你砍得不轻。		
+11056	IDS_DIALOGUE_11056	dialogue	CRES.DLL	to2:1409	She caught me by surprise. She's fast for her age.	她偷袭了我。她这个年纪动作还挺快。		
+11057	IDS_DIALOGUE_11057	dialogue	CRES.DLL	to2:1410	She must have been really mad.	她肯定气坏了。		
+11058	IDS_DIALOGUE_11058	dialogue	CRES.DLL	to2:1411	She thinks we don't dress properly for ninjas. I'm like, Mom, it's the '60s. Get used to it. And she's like, It's disrespectful. So I said, old people always say that.	她觉得我们穿得不像忍者。我就说：“妈，现在都六十年代了，接受现实吧。”她却说：“这样太不尊重传统了。”于是我说，老人家总爱这么讲。		
+11059	IDS_DIALOGUE_11059	dialogue	CRES.DLL	to2:1412	Uh oh.	糟了。		
+11060	IDS_DIALOGUE_11060	dialogue	CRES.DLL	to2:1413	Yeah, she went kind of crazy. She came flying across the room and started slashing at me. Finally I fought her off, but I was worried I was going to accidentally stab her. That would have made her really mad.	是啊，她一下子就发疯了。她飞身越过房间，开始拿刀乱砍。最后我总算把她击退了，不过我一直担心会不小心捅到她。那样她肯定会更生气。		
+11061	IDS_DIALOGUE_11061	dialogue	CRES.DLL	to2:1414	You better buy her some chocolates or something.	你最好给她买点巧克力什么的。		
+11062	IDS_DIALOGUE_11062	dialogue	CRES.DLL	to2:1415	Good idea.	好主意。		
+11063	IDS_DIALOGUE_11063	dialogue	CRES.DLL	to2:1416	Agent Archer, over here!	阿彻特工，这边！		
+11064	IDS_DIALOGUE_11064	dialogue	CRES.DLL	to2:1417	I have bad news. They've moved the meeting. You'll have to find out where.	我有个坏消息。他们改变了会面地点，你得查出新地点在哪里。		
+11065	IDS_DIALOGUE_11065	dialogue	CRES.DLL	to2:1418	Look for places where ninjas are gathered together.	留意忍者聚集的地方。		
+11066	IDS_DIALOGUE_11066	dialogue	CRES.DLL	to2:1419	Maybe you can hear them talking about the new location.	也许你能偷听到他们谈论新的地点。		
+11067	IDS_DIALOGUE_11067	dialogue	CRES.DLL	to2:1420	You might be able to find a memo, but that's risky.	或许能找到一张备忘录，不过那样风险很大。		
+11068	IDS_DIALOGUE_11068	dialogue	CRES.DLL	to2:1421	Be careful!	小心！		
+11069	IDS_DIALOGUE_11069	dialogue	CRES.DLL	to2:1422	Why are they moving the meeting to the main house?	他们为什么把会议改到主宅了？		
+11070	IDS_DIALOGUE_11070	dialogue	CRES.DLL	to2:1423	Isako-san says the Director wants it there.	伊沙子说局长希望在那里开。		
+11071	IDS_DIALOGUE_11071	dialogue	CRES.DLL	to2:1424	He's probably too drunk to walk to the guest house.	他大概醉得连走到客房都做不到了。		
+11072	IDS_DIALOGUE_11072	dialogue	CRES.DLL	to2:1429	No, he'd just call for his palanquin.	不会，他只会叫人抬轿子。		
+11073	IDS_DIALOGUE_11073	dialogue	CRES.DLL	to2:1430	I hate working for him.	我讨厌给他干活。		
+11074	IDS_DIALOGUE_11074	dialogue	CRES.DLL	to2:1431	We all do, but Isako-san owes him a debt of honor.	我们都讨厌，不过伊沙子欠他一份恩情。		
+11075	IDS_DIALOGUE_11075	dialogue	CRES.DLL	to2:1432	Good work! I'll mark the location of the meeting on this map.	干得好！我会在这张地图上标出会面地点。		
+11076	IDS_DIALOGUE_11076	dialogue	CRES.DLL	to2:1433	Okay, follow me!	好了，跟我来！		
+11077	IDS_DIALOGUE_11077	dialogue	CRES.DLL	to2:1434	The patrols are heavier in this part of town.	城镇这一带的巡逻更加密集。		
+11078	IDS_DIALOGUE_11078	dialogue	CRES.DLL	to2:1435	It's safer to avoid them.	最好避开他们。		
+11079	IDS_DIALOGUE_11079	dialogue	CRES.DLL	to2:1436	Avoid the main gate. Too many guards.	别走正门，守卫太多了。		
+11080	IDS_DIALOGUE_11080	dialogue	CRES.DLL	to2:1437	Good luck.	祝你好运。		
+11081	IDS_DIALOGUE_11081	dialogue	CRES.DLL	to2:1438	Any trouble?	有什么异常吗？		
+11082	IDS_DIALOGUE_11082	dialogue	CRES.DLL	to2:1439	It's been very quiet.	一直很安静。		
+11083	IDS_DIALOGUE_11083	dialogue	CRES.DLL	to2:1440	Good. 	很好。		
+11084	IDS_DIALOGUE_11084	dialogue	CRES.DLL	to2:1441	The spy has been spotted.	那个间谍已被发现。		
+11085	IDS_DIALOGUE_11085	dialogue	CRES.DLL	to2:1442	Stay alert.	保持警惕。		
+11086	IDS_DIALOGUE_11086	dialogue	CRES.DLL	to2:1443	I noticed she's been gaining a lot of weight recently.	我发现她最近胖了不少。		
+11087	IDS_DIALOGUE_11087	dialogue	CRES.DLL	to2:1444	All she does is sit around eating mochi and watching detective shows.	她整天只知道坐着吃年糕、看侦探剧。		
+11088	IDS_DIALOGUE_11088	dialogue	CRES.DLL	to2:1449	She needs to find a man to take care of her.	她需要找个男人照顾她。		
+11089	IDS_DIALOGUE_11089	dialogue	CRES.DLL	to2:1450	No one wants her. She's too shy. Maybe if she was prettier, but she can't even talk to men.	没人想要她，她太害羞了。要是长得漂亮些也许还有机会，可她连和男人说话都不敢。		
+11090	IDS_DIALOGUE_11090	dialogue	CRES.DLL	to2:1451	What about Kenichi's son? He's a little slow, but he's still nice looking.	健一的儿子怎么样？他虽然有点迟钝，但长得还算不错。		
+11091	IDS_DIALOGUE_11091	dialogue	CRES.DLL	to2:1452	She'd never agree. She's too picky.	她肯定不会答应，太挑剔了。		
+11092	IDS_DIALOGUE_11092	dialogue	CRES.DLL	to2:1453	What's wrong with her?	她到底有什么毛病？		
+11093	IDS_DIALOGUE_11093	dialogue	CRES.DLL	to2:1454	What time is it?	现在几点了？		
+11094	IDS_DIALOGUE_11094	dialogue	CRES.DLL	to2:1455	I don't know. Why?	不知道，怎么了？		
+11095	IDS_DIALOGUE_11095	dialogue	CRES.DLL	to2:1456	I'm supposed to relieve Masayo-san at 8:00. You don't have a watch?	我应该在八点接替雅代小姐。你没戴表吗？		
+11096	IDS_DIALOGUE_11096	dialogue	CRES.DLL	to2:1457	I don't need one. Ninjas can tell time by the slit of a cat's eye.	我不需要，忍者可以根据猫眼瞳孔的宽窄判断时间。		
+11097	IDS_DIALOGUE_11097	dialogue	CRES.DLL	to2:1458	That only works during daylight. Besides, what happens if you don't have a cat handy?	那只有白天才管用。而且手边没有猫时怎么办？		
+11098	IDS_DIALOGUE_11098	dialogue	CRES.DLL	to2:1459	That's why I always carry dried fish.	所以我总是随身带着鱼干。		
+11099	IDS_DIALOGUE_11099	dialogue	CRES.DLL	to2:1460	Isn't easier just to wear a watch? Never mind. I'll go ask somebody else.	戴块表不是更方便吗？算了，我去问别人。		
+11100	IDS_DIALOGUE_11100	dialogue	CRES.DLL	to2:1461	It's such a nice evening. Too bad we have to work.	今晚天气真不错，可惜我们还得工作。		
+11101	IDS_DIALOGUE_11101	dialogue	CRES.DLL	to2:1462	It'll probably be raining this weekend.	周末大概会下雨。		
+11102	IDS_DIALOGUE_11102	dialogue	CRES.DLL	to2:1463	Want some tea?	喝点茶吗？		
+11103	IDS_DIALOGUE_11103	dialogue	CRES.DLL	to2:1464	I'm supposed to go on patrol soon. If I drink tea, I'll have to pee fifteen minutes later.	我马上要去巡逻。喝了茶，十五分钟后我就得去小便。		
+11104	IDS_DIALOGUE_11104	dialogue	CRES.DLL	to2:1469	So?	所以？		
+11105	IDS_DIALOGUE_11105	dialogue	CRES.DLL	to2:1470	I got in trouble last week. It's not worth it.	我上周因此挨了训，不值得。		
+11106	IDS_DIALOGUE_11106	dialogue	CRES.DLL	to2:1471	Find her!	找到她！		
+11107	IDS_DIALOGUE_11107	dialogue	CRES.DLL	to2:1472	Quickly!	快！		
+11108	IDS_DIALOGUE_11108	dialogue	CRES.DLL	to2:1473	Don't let her escape!	别让她逃走！		
+11109	IDS_DIALOGUE_11109	dialogue	CRES.DLL	to2:1474	Search everywhere!	到处搜！		
+11110	IDS_DIALOGUE_11110	dialogue	CRES.DLL	to2:1475	If she gets away, we're in big trouble!	要是让她跑了，我们就有大麻烦了！		
+11111	IDS_DIALOGUE_11111	dialogue	CRES.DLL	to2:1476	She may come this way. Make sure she doesn't get by you!	她可能会往这边来，确保别让她从你这里溜过去！		
+11112	IDS_DIALOGUE_11112	dialogue	CRES.DLL	to2:1477	Hai!	是！		
+11113	IDS_DIALOGUE_11113	dialogue	CRES.DLL	to2:1478	Cate, I've dispatched an intercept team to assist you, but it may take some time for them to reach the rendezvous point. Get back to the bridge and try to avoid being seen.	凯特，我已经派出一支拦截小队协助你，不过他们可能需要一段时间才能抵达会合点。回到桥上，尽量别被发现。		
+11114	IDS_DIALOGUE_11114	dialogue	CRES.DLL	to2:1479	Have they found her?	他们找到她了吗？		
+11115	IDS_DIALOGUE_11115	dialogue	CRES.DLL	to2:1480	Not yet. Be careful!	还没有，小心！		
+11116	IDS_DIALOGUE_11116	dialogue	CRES.DLL	to2:1481	Do you have a paper clip?	你有回形针吗？		
+11117	IDS_DIALOGUE_11117	dialogue	CRES.DLL	to2:1482	We're all out.	已经用完了。		
+11118	IDS_DIALOGUE_11118	dialogue	CRES.DLL	to2:1483	Have you requisitioned more?	你申请补充了吗？		
+11119	IDS_DIALOGUE_11119	dialogue	CRES.DLL	to2:1484	Of course not.	当然没有。		
+11120	IDS_DIALOGUE_11120	dialogue	CRES.DLL	to2:1489	What do you mean? Why not?	什么意思？为什么没有？		
+11121	IDS_DIALOGUE_11121	dialogue	CRES.DLL	to2:1490	Do you know how many forms you have to fill out to request office materials? It's worse than lavatory supplies. We don't need paper clips.	你知道申请办公用品要填多少张表吗？比申请厕所用品还麻烦。我们不需要回形针。		
+11122	IDS_DIALOGUE_11122	dialogue	CRES.DLL	to2:1491	And when you run out of staples?	那订书钉用完了怎么办？		
+11123	IDS_DIALOGUE_11123	dialogue	CRES.DLL	to2:1492	I can live without staples.	没有订书钉我也活得下去。		
+11124	IDS_DIALOGUE_11124	dialogue	CRES.DLL	to2:1493	You disgust me.	你真让我恶心。		
+11125	IDS_DIALOGUE_11125	dialogue	CRES.DLL	to2:1494	It's colder than yesterday.	今天比昨天还冷。		
+11126	IDS_DIALOGUE_11126	dialogue	CRES.DLL	to2:1495	Just think, if we conquer America, Florida will be part of the Soviet Union. 	想想看，要是我们征服了美国，佛罗里达就会成为苏联的一部分。		
+11127	IDS_DIALOGUE_11127	dialogue	CRES.DLL	to2:1496	Last year for holiday they sent me to Murmansk.	去年休假时，他们把我派去了摩尔曼斯克。		
+11128	IDS_DIALOGUE_11128	dialogue	CRES.DLL	to2:1497	At least I got Minsk.	至少我被派去了明斯克。		
+11129	IDS_DIALOGUE_11129	dialogue	CRES.DLL	to2:1498	I dream of being sent to Minsk. I don't remember what it's like to go to bed without wearing a jacket.	我做梦都想被派去明斯克。我都快忘了不穿外套睡觉是什么感觉了。		
+11130	IDS_DIALOGUE_11130	dialogue	CRES.DLL	to2:1499	Did you send in that security report yet?	那份安全报告你交了吗？		
+11131	IDS_DIALOGUE_11131	dialogue	CRES.DLL	to2:1500	Yesterday, why?	昨天就交了，怎么了？		
+11132	IDS_DIALOGUE_11132	dialogue	CRES.DLL	to2:1501	I forgot to fill it out.	我忘了填写。		
+11133	IDS_DIALOGUE_11133	dialogue	CRES.DLL	to2:1502	What do you mean?	什么意思？		
+11134	IDS_DIALOGUE_11134	dialogue	CRES.DLL	to2:1503	I didn't fill it out.	我没填。		
+11135	IDS_DIALOGUE_11135	dialogue	CRES.DLL	to2:1504	Then why did you ask me to send it?	那你为什么还让我交上去？		
+11136	IDS_DIALOGUE_11136	dialogue	CRES.DLL	to2:1509	I'm not sure. I didn't even think about it.	我也不知道，根本没想过。		
+11137	IDS_DIALOGUE_11137	dialogue	CRES.DLL	to2:1510	Well, I doubt anyone will notice. They don't read those things anyway. If they complain, we'll just resubmit.	算了，我怀疑根本没人会注意。他们反正也不看那些东西。要是有人抱怨，我们再重新提交就是了。		
+11138	IDS_DIALOGUE_11138	dialogue	CRES.DLL	to2:1511	You misunderstand me, Comrade. My point is that the State IS the People. When you abuse the People, you abuse the State.	你误解我的意思了，同志。我的观点是，国家就是人民。你虐待人民，就是虐待国家。		
+11139	IDS_DIALOGUE_11139	dialogue	CRES.DLL	to2:1512	But the State abuses the People all the time. What do you call that, masochism?	可国家一直都在虐待人民。那算什么，受虐癖吗？		
+11140	IDS_DIALOGUE_11140	dialogue	CRES.DLL	to2:1513	The State doesn't ABUSE the People, it GUIDES them.	国家不是在虐待人民，而是在引导他们。		
+11141	IDS_DIALOGUE_11141	dialogue	CRES.DLL	to2:1514	My grandfather died at the hands of the Cheka. He was put in a barrel with rats. The 18 year old torturer who came up with the idea heated the barrel until the rats clawed their way inside my grandfather's body to escape the heat. Do you call that guidance?	我祖父死在契卡手里。他们把他和老鼠一起塞进桶里。想出这个点子的十八岁拷问员不断加热木桶，逼得老鼠为了躲避高温，撕开我祖父的身体钻进体内。你把这也叫引导吗？		
+11142	IDS_DIALOGUE_11142	dialogue	CRES.DLL	to2:1515	Disciplinary measures are sometimes necessary to preserve the sanctity of the State. If an ugly tumor grows on your nose, you cut it off to protect your body.	为了维护国家的神圣，有时确实需要采取惩戒措施。要是鼻子上长了个难看的肿瘤，就得把它切掉，以保护整个身体。		
+11143	IDS_DIALOGUE_11143	dialogue	CRES.DLL	to2:1516	My grandfather was a peasant. He died because he was afraid of collectivization.	我祖父只是个农民，他之所以死，是因为害怕集体化。		
+11144	IDS_DIALOGUE_11144	dialogue	CRES.DLL	to2:1517	The People must learn to trust the State.	人民必须学会信任国家。		
+11145	IDS_DIALOGUE_11145	dialogue	CRES.DLL	to2:1518	I thought you said the People ARE the State.	你不是说人民就是国家吗？		
+11146	IDS_DIALOGUE_11146	dialogue	CRES.DLL	to2:1519	Yes, which means they must learn to trust themselves.	没错，也就是说，他们必须学会信任自己。		
+11147	IDS_DIALOGUE_11147	dialogue	CRES.DLL	to2:1520	My grandfather DID trust himself. That's why the State tortured and killed him.	我祖父的确信任自己，所以国家才拷打并杀害了他。		
+11148	IDS_DIALOGUE_11148	dialogue	CRES.DLL	to2:1521	I can see that your patriotism is in question, Comrade. Perhaps you should consider a visit to the Attitude Adjustment Center in Prague.	看来你的爱国思想很成问题，同志。也许你应该考虑去布拉格的思想矫正中心走一趟。		
+11149	IDS_DIALOGUE_11149	dialogue	CRES.DLL	to2:1522	Those two are at it again.	那两个人又吵起来了。		
+11150	IDS_DIALOGUE_11150	dialogue	CRES.DLL	to2:1523	Sergei never gives up, does he?	谢尔盖从来都不肯罢休，是吧？		
+11151	IDS_DIALOGUE_11151	dialogue	CRES.DLL	to2:1524	He's young and idealistic. Give him time.	他还年轻，又太理想主义了。给他点时间吧。		
+11152	IDS_DIALOGUE_11152	dialogue	CRES.DLL	to2:1529	This is Kominsky. We found a suspicious person at the old dacha by the lake. We're bringing him in for interrogation.	这里是科明斯基。我们在湖边的旧别墅发现了一个可疑人物，现在正把他带回来审讯。		
+11153	IDS_DIALOGUE_11153	dialogue	CRES.DLL	to2:1530	What were you doing there?	你在那里做什么？		
+11154	IDS_DIALOGUE_11154	dialogue	CRES.DLL	to2:1531	Vacation.	度假。		
+11155	IDS_DIALOGUE_11155	dialogue	CRES.DLL	to2:1532	You must take me for a fool. No one would come to this place for vacation.	你一定把我当成傻子了，没人会来这种地方度假。		
+11156	IDS_DIALOGUE_11156	dialogue	CRES.DLL	to2:1533	I come for hunting.	我是来打猎的。		
+11157	IDS_DIALOGUE_11157	dialogue	CRES.DLL	to2:1534	Admit it, you're a spy.	承认吧，你是间谍。		
+11158	IDS_DIALOGUE_11158	dialogue	CRES.DLL	to2:1535	Why would I come here to spy?	我要来这里刺探什么？		
+11159	IDS_DIALOGUE_11159	dialogue	CRES.DLL	to2:1536	Because you know that a top secret project is being worked on at this base.	因为你知道这个基地正在进行一项绝密计划。		
+11160	IDS_DIALOGUE_11160	dialogue	CRES.DLL	to2:1537	It is?	是吗？		
+11161	IDS_DIALOGUE_11161	dialogue	CRES.DLL	to2:1538	Igor.	伊戈尔。		
+11162	IDS_DIALOGUE_11162	dialogue	CRES.DLL	to2:1539	What?	什么？		
+11163	IDS_DIALOGUE_11163	dialogue	CRES.DLL	to2:1540	You just told him about the project.	你刚刚把计划告诉他了。		
+11164	IDS_DIALOGUE_11164	dialogue	CRES.DLL	to2:1541	He tricked me!	他套我的话！		
+11165	IDS_DIALOGUE_11165	dialogue	CRES.DLL	to2:1542	How did I trick you?	我怎么套你话了？		
+11166	IDS_DIALOGUE_11166	dialogue	CRES.DLL	to2:1543	You got me to tell you about Project: Omega.	你让我说出了欧米伽计划。		
+11167	IDS_DIALOGUE_11167	dialogue	CRES.DLL	to2:1544	Project: Omega?	欧米伽计划？		
+11168	IDS_DIALOGUE_11168	dialogue	CRES.DLL	to2:1549	Igor, you fool!	伊戈尔，你这个蠢货！		
+11169	IDS_DIALOGUE_11169	dialogue	CRES.DLL	to2:1550	Damn it. This prisoner is too devious. We'd better torture him.	该死，这个囚犯太狡猾了，我们最好拷问他。		
+11170	IDS_DIALOGUE_11170	dialogue	CRES.DLL	to2:1551	Thank you for helping me.	谢谢你帮了我。		
+11171	IDS_DIALOGUE_11171	dialogue	CRES.DLL	to2:1552	I'm going to sample their vodka before I go back.	回去前，我要尝尝他们的伏特加。		
+11172	IDS_DIALOGUE_11172	dialogue	CRES.DLL	to2:1553	I'll see you later.	待会儿见。		
+11173	IDS_DIALOGUE_11173	dialogue	CRES.DLL	to2:1554	Don't you have work to do?	你不是还有工作要做吗？		
+11174	IDS_DIALOGUE_11174	dialogue	CRES.DLL	to2:1555	Complete mission so we can get out of here.	赶紧完成任务，我们就能离开这里了。		
+11175	IDS_DIALOGUE_11175	dialogue	CRES.DLL	to2:1556	I hate Siberia.	我讨厌西伯利亚。		
+11176	IDS_DIALOGUE_11176	dialogue	CRES.DLL	to2:1557	People have been exiled to Siberia since time of Genghis Khan.	从成吉思汗时代开始，人们就被流放到西伯利亚。		
+11177	IDS_DIALOGUE_11177	dialogue	CRES.DLL	to2:1558	Siberians make good butter, though.	不过西伯利亚人做的黄油很好吃。		
+11178	IDS_DIALOGUE_11178	dialogue	CRES.DLL	to2:1559	Also, Lake Baikal is very beautiful in summertime.	而且贝加尔湖夏天非常美丽。		
+11179	IDS_DIALOGUE_11179	dialogue	CRES.DLL	to2:1560	Did you know it's largest body of fresh water in whole world?	你知道它是全世界最大的淡水湖吗？		
+11180	IDS_DIALOGUE_11180	dialogue	CRES.DLL	to2:1561	Eh, it's not bad place to live.	呃，这地方住起来也不算太糟。		
+11181	IDS_DIALOGUE_11181	dialogue	CRES.DLL	to2:1562	Your pilot has been captured.	你的飞行员被俘了。		
+11182	IDS_DIALOGUE_11182	dialogue	CRES.DLL	to2:1563	They're interrogating him in the supply building.	他们正在补给大楼里审讯他。		
+11183	IDS_DIALOGUE_11183	dialogue	CRES.DLL	to2:1564	You'd better liberate him if you want to come home.	想回家的话，你最好把他救出来。		
+11184	IDS_DIALOGUE_11184	dialogue	CRES.DLL	to2:1569	Have you heard from Tania?	你收到塔尼娅的消息了吗？		
+11185	IDS_DIALOGUE_11185	dialogue	CRES.DLL	to2:1570	I got a letter from her last week. She's staying with her mother in Omsk.	上周收到了她的信。她现在和母亲住在鄂木斯克。		
+11186	IDS_DIALOGUE_11186	dialogue	CRES.DLL	to2:1571	Has she decided?	她作出决定了吗？		
+11187	IDS_DIALOGUE_11187	dialogue	CRES.DLL	to2:1572	Not yet.	还没有。		
+11188	IDS_DIALOGUE_11188	dialogue	CRES.DLL	to2:1573	What's taking her so long?	她为什么拖这么久？		
+11189	IDS_DIALOGUE_11189	dialogue	CRES.DLL	to2:1574	Her friends don't like me. They want her to go back to her ex-boyfriend.	她的朋友不喜欢我，想让她和前男友复合。		
+11190	IDS_DIALOGUE_11190	dialogue	CRES.DLL	to2:1575	I thought he used to beat her.	我还以为她前男友以前经常打她。		
+11191	IDS_DIALOGUE_11191	dialogue	CRES.DLL	to2:1576	He did. But he's a political officer. I'm a low ranked soldier in Siberia.	是的，不过他是政治军官，而我只是个驻扎在西伯利亚的低级士兵。		
+11192	IDS_DIALOGUE_11192	dialogue	CRES.DLL	to2:1577	Women.	女人啊。		
+11193	IDS_DIALOGUE_11193	dialogue	CRES.DLL	to2:1578	I heard you used to be stationed in Moscow.	听说你以前驻扎在莫斯科。		
+11194	IDS_DIALOGUE_11194	dialogue	CRES.DLL	to2:1579	Da.	是。		
+11195	IDS_DIALOGUE_11195	dialogue	CRES.DLL	to2:1580	So how did you end up in this place?	那你怎么会被弄到这种地方？		
+11196	IDS_DIALOGUE_11196	dialogue	CRES.DLL	to2:1581	I asked my commanding officer about getting new socks after I got frostbite on my foot. He said... You think you're cold now? Wait till you get to Siberia.	我的脚冻伤后，我问指挥官能不能领双新袜子。他说：“你觉得现在冷？等你到了西伯利亚再说吧。”		
+11197	IDS_DIALOGUE_11197	dialogue	CRES.DLL	to2:1582	I ended up here by accident. I got on a train for Petrograd and it dropped me off in Minsk. I tried to explain I wasn't stationed here, but no one believed me.	我是意外来到这里的。我上了一列去彼得格勒的火车，结果它把我扔在了明斯克。我试着解释自己并不驻扎在这里，可没人相信。		
+11198	IDS_DIALOGUE_11198	dialogue	CRES.DLL	to2:1583	Couldn't they just look it up?	他们不能查一下记录吗？		
+11199	IDS_DIALOGUE_11199	dialogue	CRES.DLL	to2:1584	Just because they keep all those records doesn't mean they can make any sense out of them. I found out I was never even reported missing from my post in Petrograd.	他们保存了那么多记录，不代表自己能看懂。我后来才发现，彼得格勒那边甚至从来没把我登记为失踪。		
+25000	IDS_INTEL_25000	intel	CRES.DLL	to2:2505	<INTELLIGENCE ITEMS C01S01>			
+25001	IDS_INTEL_25001	intel	CRES.DLL	to2:2506	UNUSED			
+25002	IDS_INTEL_25002	intel	CRES.DLL	to2:2507	Public Notice: Village curfew@PUBLIC NOTICE:\n\nA mandatory curfew is in effect tonight from 6:00pm to 6:00am. Residents caught out of doors during these hours will be dealt with severely. \n\nHaruko Muroi\nAssistant Administrator\nKatakuri Ninja Clan	公告：村庄宵禁@公共告示：\n\n今晚将实行强制宵禁，时间为下午6:00至次日上午6:00。凡在此期间被发现身处户外的居民，都将受到严厉处置。\n\n室井春子\n助理管理员\n片栗忍者一族		
+25003	IDS_INTEL_25003	intel	CRES.DLL	to2:2508	Ninja Clan Memo: Patrols@To all clan members:\n\nWe expect the spy to enter the village from the east, where most of the best tourist attractions are concentrated, but it's also possible she'll approach from the direction of the falls. Please report to your assigned posts promptly this evening. It is recommended you eat before your shift begins, as our food budget was used up by last month's attack on the Oshii clan headquarters.\n\nHaruko Muroi\nAssistant Administrator	忍者一族备忘录：巡逻@致全体族人：\n\n我们预计那个间谍会从村庄东侧进入，因为那里集中了大部分最受欢迎的旅游景点，不过她也可能从瀑布方向接近。今晚请准时前往各自负责的岗位。建议大家在轮班开始前先吃饭，因为我们的伙食预算已经被上个月对押井一族总部的袭击耗尽了。\n\n室井春子\n助理管理员		
+25004	IDS_INTEL_25004	intel	CRES.DLL	to2:2509	UNITY Dossier: Ninjas@Cate,\n\nWhile information on the ninja clan in Inotakimura is somewhat scarce, we have been able to ascertain the following details:\n\n- Ninjas are trained to lunge great distances for powerful strikes against their enemies.\n\n- They can use smoke bombs to vanish, often reappearing close to their targets for surprise attacks.\n\nI hope this information proves helpful. Take care of yourself.\n\nBruno Lawrie\nSenior Field Operative\nUNITY Special Operations Division	UNITY档案：忍者@凯特：\n\n尽管有关稻泷村忍者一族的情报相当有限，但我们仍然确认了以下几点：\n\n- 忍者能够向前突进很长一段距离，对敌人发动强力攻击。\n\n- 他们可以利用烟雾弹消失，并经常在目标附近重新现身，发动突袭。\n\n希望这些信息能对你有所帮助。保重。\n\n布鲁诺·劳里\n高级外勤特工\nUNITY特别行动部门		
+25005	IDS_INTEL_25005	intel	CRES.DLL	to2:2510	UNITY Memo: Bonus objectives@Agent Archer,\n\nSometimes you will come across opportunities for bonus assignments which you can complete for additional Skill Points. Keep your eyes open for intelligence items such as notes, briefcases, or letters.\n\nHere's a simple optional objective for practice: I've scattered six pages from the UNITY field manual throughout the general area. Collect them all before moving on.\n\nSanta,\nDirector of Gadgetry\nUNITY Toymaker Division	UNITY备忘录：奖励目标@阿彻特工：\n\n有时你会遇到可供完成的奖励任务，完成后可获得额外技能点。请注意搜集笔记、公文包或信件等情报物品。\n\n这里有个简单的可选目标，供你练习：我把UNITY外勤手册中的六页内容散落在这片区域各处。继续前进之前，请将它们全部收集起来。\n\n圣诞老人\n工具研发局局长\nUNITY玩具制造部门		
+25006	IDS_INTEL_25006	intel	CRES.DLL	to2:2511	UNITY Manual: Searching@SEARCHING\n\nEnemies often carry valuable items such as ammunition, armor, first aid, or important documents, so be sure to search them thoroughly by holding down the Action button until the progress bar disappears. You may want to move your victims into the shadows before searching them to avoid drawing unwanted attention.\n\nYou can also search filing cabinets and stacks of paper for hints and useful intelligence items. It is often by searching that you will find bonus objectives.	UNITY手册：搜查@搜查\n\n敌人经常携带弹药、护甲、急救用品或重要文件等有价值的物品，因此务必彻底搜查他们。持续按住“操作”键，直到进度条消失，即可拿走其携带的全部物品。为了避免引来不必要的注意，搜查前可以先把倒下的敌人搬到阴暗处。\n\n你也可以搜查文件柜和成堆的纸张，从中寻找提示与有用的情报物品。许多奖励目标都需要通过搜查才能发现。		
+25007	IDS_INTEL_25007	intel	CRES.DLL	to2:2512	UNITY Manual: Unconscious enemies@UNCONSCIOUS ENEMIES\n\nEnemies that are knocked unconscious, such as by a taser or sleeping gas, will eventually wake up. They may also be roused by their comrades.\n\nYou can disarm unconscious enemies by searching them, thereby eliminating them as a threat unless they obtain a replacement weapon.	UNITY手册：昏迷的敌人@昏迷的敌人\n\n被电击枪或催眠气体等手段击昏的敌人最终会醒来，也可能被同伴唤醒。\n\n搜查昏迷的敌人可以解除其武装。除非他们重新获得武器，否则将不再构成威胁。		
+25008	IDS_INTEL_25008	intel	CRES.DLL	to2:2517	UNITY Manual: Action button@ACTION BUTTON\n\nWhen you target an object or character you can interact with, text will appear at the center of the screen to indicate what will happen when you press the Action button (default: Right Mouse Button). If the text is grayed out, you cannot interact with the item until some condition is met. For example, you may have to unlock a door or acquire a necessary inventory item.\n\nThe Action button will reload your currently selected weapon (assuming it can be reloaded) if nothing is targeted.	UNITY手册：操作键@操作键\n\n当你瞄准可以互动的物体或角色时，屏幕中央会显示文字，说明按下“操作”键（默认：鼠标右键）后将发生什么。如果文字呈灰色，则表示必须先满足某项条件才能互动。例如，你可能需要先打开门锁，或取得必要的物品栏道具。\n\n若当前没有瞄准任何目标，按下“操作”键会为当前选中的武器装弹，前提是该武器可以装弹。		
+25009	IDS_INTEL_25009	intel	CRES.DLL	to2:2518	UNITY Manual: Hiding@HIDING\n\nWhenever you enter a potential hiding place, the Hiding Place icon will appear at the bottom of your screen. If you stand perfectly still, you will momentarily become hidden, at which point enemies won't see you until they're right upon you. You will stay hidden as long as you remain in the hiding place and don't move quickly or fire a weapon.\n\nIf you can't hide because an enemy knows where you are, the icon will be crossed out.	UNITY手册：隐藏@隐藏\n\n每当你进入一个可能的藏身处时，屏幕底部都会出现“藏身处”图标。只要完全静止不动，片刻后便会进入隐藏状态。此时，除非敌人几乎走到你面前，否则无法看见你。只要继续留在藏身处，不快速移动，也不开枪，就能保持隐藏状态。\n\n如果敌人已经知道你的位置，导致你无法隐藏，图标上会出现叉号。		
+25010	IDS_INTEL_25010	intel	CRES.DLL	to2:2519	UNITY Manual: Intelligence items@INTELLIGENCE ITEMS\n\nBe sure to search everywhere for important documents. Some may contain information vital to your current mission. Others may give you Skill Point rewards.\n\nDocuments you pick up can be viewed at any time during a mission by accessing the Intelligence screen (default hotkey: I).	UNITY手册：情报物品@情报物品\n\n务必仔细搜索各处的重要文件。其中一些可能包含当前任务所必需的情报，另一些则会提供技能点奖励。\n\n任务期间，你可以随时进入“情报”界面（默认快捷键：I），查看已经取得的文件。		
+25011	IDS_INTEL_25011	intel	CRES.DLL	to2:2520	UNITY Manual: Leaving an area 1@LEAVING AN AREA, PART 1\n\nWhen you see the Door icon, it means you are approaching the end of an area. Move forward to exit, but only if you're finished exploring.	UNITY手册：离开区域1@离开区域，第1部分\n\n看到“门”图标时，表示你正在接近该区域的出口。确认已经探索完毕后，继续向前即可离开。		
+25012	IDS_INTEL_25012	intel	CRES.DLL	to2:2521	UNITY Memo: Presents@Agent Archer,\n\nWhenever possible, I will arrange to leave useful equipment or ammunition for you in the field. Keep an eye out for foiled-wrapped presents like this one.\n\nThe coins you'll find in this package are worth more than their face value suggests, as you can throw them to distract enemies. You can even lure enemies away from their posts by tossing a coin around a corner or into an alley.\n\nSanta	UNITY备忘录：礼物@阿彻特工：\n\n条件允许时，我会设法在行动区域中为你留下有用的装备或弹药。请留意像这个一样用锡纸包装的礼物。\n\n这个包裹里的硬币远比面值更有用，因为你可以把它们扔出去吸引敌人的注意。把硬币投向拐角另一侧或小巷里，甚至可以把敌人从岗位上引开。\n\n圣诞老人		
+25013	IDS_INTEL_25013	intel	CRES.DLL	to2:2522	Reminder: Mission status@MISSION SCREEN\n\nConsult the Mission screen (default hotkey: Tab) for information on your current assignment. Here you will find your current objectives, which you must complete in order to accomplish your mission. Optional objectives (secondary tasks you can perform for bonus Skill Points) are also listed here, along with Parameters, which are general guidelines or rules of conduct. Violating parameters may result in forfeited Skill Point rewards or even mission failure.	提醒：任务状态@任务界面\n\n请查看“任务”界面（默认快捷键：Tab），了解当前任务的相关信息。这里会列出完成任务所必需的当前目标，也会显示可选目标，即完成后可获得额外技能点的次要任务，以及行动要求，也就是一般性的指导或行为准则。违反行动要求，可能导致无法获得技能点奖励，甚至造成任务失败。		
+25014	IDS_INTEL_25014	intel	CRES.DLL	to2:2523	Reminder: Equipment screen@EQUIPMENT SCREEN\n\nWhenever you acquire new weapons, gadgets, or ammunition, remember that you can consult the Equipment screen (default hotkey: M) at any time for information on their features and uses. This screen also lets you select equipment and ammunition or gadget functions while the game is paused.	提醒：装备界面@装备界面\n\n获得新武器、工具或弹药后，请记住，你可以随时进入“装备”界面（默认快捷键：M），查看它们的特点与用途。游戏暂停时，也可以在这里选择装备、弹药类型或工具功能。		
+25015	IDS_INTEL_25015	intel	CRES.DLL	to2:2524	Reminder: Skill points@SKILL POINTS\n\nYou will be awarded Skill Points for overcoming certain obstacles or accomplishing specific objectives. Access the Player screen (default hotkey: P) to spend these points to improve your abilities. Consider your playing style carefully before investing your points.	提醒：技能点@技能点\n\n克服某些障碍或完成特定目标后，你会获得技能点。进入“玩家”界面（默认快捷键：P），即可使用这些技能点提升能力。投入技能点前，请仔细考虑自己的游玩风格。		
+25016	IDS_INTEL_25016	intel	CRES.DLL	to2:2525	Reminder: Neutralizing enemies@NEUTRALIZING ENEMIES\n\nYou can dispatch enemies stealthily by using quiet weapons like the taser, crossbow, or a silenced pistol. If enemies are alerted to your presence, they will cry out when injured, attracting attention.	提醒：悄无声息地解决敌人@解决敌人\n\n你可以使用电击枪、十字弓或消音手枪等安静的武器，悄无声息地解决敌人。如果敌人已经发现你，他们受伤时会大声呼喊，引来其他人的注意。		
+25017	IDS_INTEL_25017	intel	CRES.DLL	to2:2526	Reminder: Moving bodies@MOVING BODIES\n\nEnemies will become alarmed if they see a fallen comrade, but you can use the Move Body key (default: G)to pick up incapacitated adversaries and drop them somewhere out of the way. You won't be able to run or use a weapon when carrying a body, so time your movements carefully.	提醒：搬运尸体@搬运尸体\n\n敌人看到倒下的同伴时会提高警惕，不过你可以按“搬运尸体”键（默认：G）抬起失去行动能力的敌人，再把他们放到不显眼的地方。搬运尸体时无法奔跑或使用武器，因此必须谨慎选择行动时机。		
+25018	IDS_INTEL_25018	intel	CRES.DLL	to2:2527	Reminder: Disturbances@DISTURBANCES\n\nEnemies can hear just about any sound you can, so learn to move carefully. You can Sneak (default: Left Shift) to move silently. Also, certain materials (such as grass, carpet, or snow) will muffle your footfalls, while other materials (such as metal or ceramic tile) amplify sound. \n\nAlso, bumping into wind chimes or knocking over a bottle can cause a disturbance, so watch your step.	提醒：骚动@骚动\n\n敌人几乎能听到你能听到的所有声音，因此要学会谨慎移动。你可以使用“潜行”（默认：左Shift键）悄无声息地移动。此外，草地、地毯或积雪等材质会减弱脚步声，而金属或瓷砖等材质则会放大声音。\n\n另外，碰响风铃或撞倒瓶子都会引起骚动，因此要留意脚下。		
+25019	IDS_INTEL_25019	intel	CRES.DLL	to2:2528	Reminder: Leaning@LEANING\n\nLean around corners (default: Q and E) to see what lies ahead. Don't peek too long or enemies may come to investigate.	提醒：探身观察@探身观察\n\n你可以从拐角处探身（默认：Q键和E键），观察前方情况。不过别探头太久，否则敌人可能会过来调查。		
+25020	IDS_INTEL_25020	intel	CRES.DLL	to2:2529	<INTELLIGENCE ITEMS C01S02>	<INTELLIGENCE ITEMS C01S02>		
+25021	IDS_INTEL_25021	intel	CRES.DLL	to2:2530	UNITY Manual: Compass@COMPASS\n\nIn addition to keeping you oriented within the environment, your compass can provide other useful information. The Objective icon will direct you to locations crucial to your mission. You may also occasionally see an X, which indicates waypoints or other important destinations.	UNITY手册：指南针@指南针\n\n除了帮助你在环境中辨别方向外，指南针还能提供其他有用信息。“目标”图标会指向任务中的关键地点。你有时还会看到一个X，表示路径点或其他重要目的地。		
+25022	IDS_INTEL_25022	intel	CRES.DLL	to2:2531	Ninja Clan Memo: Cate Archer@ATTENTION ALL CLAN MEMBERS\n\nBe on the lookout for UNITY agent Cate Archer. She is to be considered armed and extremely dangerous. Report any sightings to Takashi-san at once. \n\nHaruko Muroi\nAssistant Administrator	忍者一族备忘录：凯特·阿彻@全体族人注意\n\n请严密搜寻UNITY特工凯特·阿彻。应将她视为携带武器且极度危险的人物。发现其踪迹后，立即向隆先生报告。\n\n室井春子\n助理管理员		
+25023	IDS_INTEL_25023	intel	CRES.DLL	to2:2532	UNITY Manual: Difficulty@DIFFICULTY SETTINGS\n\nKeep in mind that you can adjust the difficulty of your mission at any time by bringing up the Options menu, selecting Game, and choosing the desired setting. Difficulty settings primarily affect how much damage enemies do to you, so if you find yourself becoming frustrated or not feeling challenged enough, try modifying the setting to suit your needs.	UNITY手册：难度@难度设置\n\n请记住，你可以随时打开“选项”菜单，选择“游戏”，再选择所需设置，调整任务难度。难度设置主要影响敌人对你造成的伤害。如果你感到过于沮丧，或者觉得挑战性不足，可以尝试修改难度，以符合自己的需要。		
+25024	IDS_INTEL_25024	intel	CRES.DLL	to2:2627	UNITY Manual: Saving@SAVING\n\nRemember to save your progress from time to time, either by using the Save Game option in the System menu or the Quicksave key (F6). Also, keep in mind that your progress is autosaved whenever you enter a new area, so you have the option of restarting the level if necessary.	UNITY手册：保存@保存\n\n请记得不时保存进度。你可以使用“系统”菜单中的“保存游戏”选项，或按快速保存键（F6）。此外，每当你进入新区域时，游戏都会自动保存进度，因此必要时可以选择重新开始当前关卡。		
+25025	IDS_INTEL_25025	intel	CRES.DLL	to2:2628	UNITY Manual: Distractions@DISTRACTIONS\n\nOne of the most effective means of slipping past enemy agents is to distract them. For example, you can toss a coin down a dark alley to lure guards away from their posts. If the threat of an intruder doesn't get their attention, the distinctive chime of loose change on pavement surely will. If you don't have a coin, you can always improvise with your crossbow. Just don't cause too much of a ruckus or you'll alarm your enemies.	UNITY手册：转移注意@转移注意\n\n转移敌人的注意，是从敌方特工身边溜过的最有效方式之一。例如，你可以把硬币扔进昏暗的小巷，将守卫从岗位上引开。即便闯入者的威胁无法吸引他们，零钱落在路面上的清脆声响也一定可以。如果手头没有硬币，也可以利用十字弓随机应变，不过不要闹出太大动静，否则会惊动敌人。		
+25026	IDS_INTEL_25026	intel	CRES.DLL	to2:2629	Ninja Clan Memo: Meeting moved@IMPORTANT! PLEASE READ!\n\nAt the Director's insistence, tonight's meeting has been moved to the main house. Please be sure to consult the revised guard post overview before reporting for duty to minimize confusion. If you will be patrolling an unfamiliar area, make sure to note the location of convenient restrooms.\n\nHaruko Muroi\nAssistant Administrator	忍者一族备忘录：会议地点变更@重要！请务必阅读！\n\n应局长的坚持，今晚的会议已改至主宅举行。为避免混乱，请在上岗前务必查看修订后的守卫岗位一览。如果你将在不熟悉的区域巡逻，请记下附近洗手间的位置。\n\n室井春子\n助理管理员		
+25027	IDS_INTEL_25027	intel	CRES.DLL	to2:2630	UNUSED			
+25028	IDS_INTEL_25028	intel	CRES.DLL	to2:2631	UNUSED			
+25029	IDS_INTEL_25029	intel	CRES.DLL	to2:2632	UNUSED			
+25030	IDS_INTEL_25030	intel	CRES.DLL	to2:2633	MAP: Estate@	地图：宅邸@		
+25031	IDS_INTEL_25031	intel	CRES.DLL	to2:2634	Note from Hatori-san: Instructions@Agent Archer,\n\nI've left you instructions for how and where to contact me. For security reasons, I've placed four encoded notes around the neighborhood, each of which contains a portion of the message. That way, if one of the notes is intercepted and decoded, my safety will not be compromised.\n\nI also left a present for you near a vending machine.\n\nIsamu Hatori	羽鸟先生的便条：联络说明@阿彻特工：\n\n我给你留下了与我取得联系的方式和地点。出于安全考虑，我在这一带放置了四张加密便条，每张都包含消息的一部分。这样一来，即使其中一张被截获并破解，我的安全也不会受到威胁。\n\n我还在一台自动售货机附近给你留了一份礼物。\n\n羽鸟勇		
+25032	IDS_INTEL_25032	intel	CRES.DLL	to2:2635	Note from Hatori-san: Rendezvous@I'll meet you at the sweet shop on the west side of the neighborhood. Look for the sign with the crane.	羽鸟先生的便条：会合地点@我会在这一带西侧的点心铺与你会合。留意带有仙鹤图案的招牌。		
+25033	IDS_INTEL_25033	intel	CRES.DLL	to2:2636	Note from Hatori-san: Red mailbox@There are three mailboxes in front of the sweet shop. You must arrange them in a specific sequence to signal me.\n\nThe red mailbox should be open.	羽鸟先生的便条：红色邮箱@点心铺前面有三个邮箱。你必须按特定状态排列它们，作为与我联络的信号。\n\n红色邮箱应保持打开。		
+25034	IDS_INTEL_25034	intel	CRES.DLL	to2:2637	Note from Hatori-san: Gray mailbox@There are three mailboxes in front of the sweet shop. You must arrange them in a specific sequence to signal me.\n\nThe gray mailbox should be closed.	羽鸟先生的便条：灰色邮箱@点心铺前面有三个邮箱。你必须按特定状态排列它们，作为与我联络的信号。\n\n灰色邮箱应保持关闭。		
+25035	IDS_INTEL_25035	intel	CRES.DLL	to2:2638	Note from Hatori-san: Blue mailbox@There are three mailboxes in front of the sweet shop. You must arrange them in a specific sequence to signal me.\n\nThe blue mailbox should be open.	羽鸟先生的便条：蓝色邮箱@点心铺前面有三个邮箱。你必须按特定状态排列它们，作为与我联络的信号。\n\n蓝色邮箱应保持打开。		
+25036	IDS_INTEL_25036	intel	CRES.DLL	to2:2639	Ninja Clan Memo: Complaints@To all clan members:\n\nIt has come to my attention that some of you are dissatisfied with our current assignment. I realize that the Director is not an especially pleasant person to work for, but remember that Isako-san owes him a debt of honor. Please put aside your personal grudges for the sake of our clan.\n\nIf you have trouble coping with your resentment, Obaba will be available for counseling as soon as she finishes up her latest batch of poison.\n\nMikiko Shena\nMorale Officer	忍者一族备忘录：不满情绪@致全体族人：\n\n我注意到，有些人对我们目前的任务心怀不满。我明白局长并不是个特别好相处的雇主，但请记住，伊沙子欠他一份救命之恩。为了我们一族，请暂且放下个人恩怨。\n\n如果你们难以排解心中的怨气，等祖母完成最新一批毒药后，可以找她接受开导。\n\n米纪子·舍纳\n士气官		
+25037	IDS_INTEL_25037	intel	CRES.DLL	to2:2640	Note: Briefcase delivery@Agent Archer\n\nPlease deliver this briefcase to Hatori-san at your earliest convenience. It contains information pertinent to his next assignment.\n\nSanta	便条：递送公文包@阿彻特工：\n\n请尽快将这个公文包交给羽鸟先生。里面装有与他下一项任务有关的情报。\n\n圣诞老人		
+25038	IDS_INTEL_25038	intel	CRES.DLL	to2:2641	UNUSED			
+25039	IDS_INTEL_25039	intel	CRES.DLL	to2:2642	Spy Manual@SPY TRAINING MANUAL	间谍手册@间谍训练手册		
+25040	IDS_INTEL_25040	intel	CRES.DLL	to2:2647	<INTELLIGENCE ITEMS C02S01>			
+25041	IDS_INTEL_25041	intel	CRES.DLL	to2:2648	Letter from Isako: Page 1@To: Hideko Sato\nFrom: Isako, Leader of the Katakuri Ninja Clan\n\nI am grateful for your concern, but I cannot accept your generous offer. As you know, I owe the Director a debt of honor. I could not possibly stand aside and let him be slain, even though his death would free me. My conscience could not abide such a betrayal.	伊沙子的来信：第1页@收件人：佐藤英子\n发件人：片栗忍者一族首领伊沙子\n\n感谢你的关心，但我无法接受你的好意。你也知道，我欠局长一份救命之恩。即便他的死能让我重获自由，我也不可能袖手旁观，任由他被杀。我的良心无法容忍这种背叛。		
+25042	IDS_INTEL_25042	intel	CRES.DLL	to2:2649	Letter from Isako: Page 2@Perhaps if you understand the circumstances of my obligation you will appreciate my reasoning. After my parents were murdered, I was found wandering the streets of Kyoto by an old woman. Her fragile health prevented her from caring for me, but she convinced her daughter, then the leader of the Sakuragaoka ninja clan, to take me in and train me.	伊沙子的来信：第2页@也许你了解我为何负有这份恩义后，就能理解我的选择。父母被杀后，我独自在京都街头流浪，后来被一位老妇人发现。她身体虚弱，无法照顾我，于是说服了自己的女儿——当时樱丘忍者一族的首领——收留我，并训练我成为忍者。		
+25043	IDS_INTEL_25043	intel	CRES.DLL	to2:2650	Letter from Isako: Page 3@When I turned 14, I was sent on my first assignment: to assassinate a greedy merchant who had been stealing girls from their families to use as prostitutes in his gambling dens. It was a simple task, but I was captured before I could kill him, having been betrayed by the very man who had commissioned the assassination. He had tricked us so that he could apprehend me and earn his master's favor.	伊沙子的来信：第3页@十四岁时，我接到了人生中的第一个任务：刺杀一名贪婪的商人。那人强抢少女，逼她们在自己的赌坊里卖淫。任务本来很简单，可我还没来得及杀掉他就被捕了，因为委托我们刺杀他的那个人背叛了我。他从一开始就在利用我们，目的是抓住我，讨好自己的主人。		
+25044	IDS_INTEL_25044	intel	CRES.DLL	to2:2651	Letter from Isako: Page 4@Before the merchant could have me put to death, his European friend intervened, asking that I be spared so that I might work for him. The merchant agreed, and the Director, for that's who it was, became my new master. So, you see, as much as it grieves me, I owe this man my life and must repay his generosity, however selfishly motivated it was. But I thank you most humbly for your consideration.\n\nIsako	伊沙子的来信：第4页@商人正准备处死我时，他的一位欧洲朋友出面干预，要求留下我的性命，让我为他效力。商人答应了，而那位欧洲人正是局长，从此他便成了我的新主人。所以你看，尽管这令我十分痛苦，我毕竟欠他一条命，必须报答他的救命之恩，哪怕他的善意完全出于自私的目的。不过，我仍由衷感谢你的关心。\n\n伊沙子		
+25045	IDS_INTEL_25045	intel	CRES.DLL	to2:2652	Spy Manual@SPY TRAINING MANUAL	间谍手册@间谍训练手册		
+25046	IDS_INTEL_25046	intel	CRES.DLL	to2:2653	Note from Hatori-san: Apologies@Agent Archer,\n\nDue to increased ninja activity, I can no longer remain in the area. Please make your way back to the bridge, where Yamata-san awaits your return.\n\nBe extremely careful. I have never seen the clan so determined.\n\nIsamu Hatori	羽鸟先生的便条：致歉@阿彻特工：\n\n由于忍者活动加剧，我已无法继续留在这一带。请返回桥边，山田先生正在那里等你。\n\n务必格外小心。我从未见过这一族如此坚决。\n\n羽鸟勇		
+25047	IDS_INTEL_25047	intel	CRES.DLL	to2:2654	UNITY Memo: Talking to people@Agent Archer\n\nAlways talk to people identified as friends to see if they have useful advice or information. You may have to address them several times to hear everything they have to say.\n\nSanta	UNITY备忘录：与人交谈@阿彻特工：\n\n见到被标记为友方的人物时，务必与其交谈，看看他们是否能提供有用的建议或情报。有时你需要与同一个人多次交谈，才能听完他想说的全部内容。\n\n圣诞老人		
+25048	IDS_INTEL_25048	intel	CRES.DLL	to2:2655	Letter: The Director@Dear Mr. Jones,\n\nI've gathered some information about this mysterious Englishman. According to local sources, he purchased the Fujioka estate more than ten years ago. He's been overheard to say that his reason for coming to Japan was its distance from England, although no one seems to know why that would be important to him. I will investigate further.\n\nIsamu Hatori	信件：局长@亲爱的琼斯先生：\n\n我搜集到了一些有关这名神秘英国人的情报。据当地消息，他在十多年前买下了藤冈宅邸。有人曾听他说，自己来到日本，是因为这里离英国很远，不过似乎没人知道这一点对他为何如此重要。我会继续调查。\n\n羽鸟勇		
+25049	IDS_INTEL_25049	intel	CRES.DLL	to2:2656	Letter: Isako's birthday@My dear Isako,\n\nI realize I have not always been the most ideal mentor and that you serve me more out of a sense of duty than any real allegiance. I can't say I particularly blame you. All the same, I hope you can understand how important you are to me.\n\nHonor and competence are rare enough among the arrogant, law abiding hypocrites I am sworn to terrorize. In our industry, they're all but non-existent.\n\nHappy birthday.\n\nThe Director	信件：伊沙子的生日@亲爱的伊沙子：\n\n我知道自己并不总是一位理想的导师，也明白你为我效力，更多是出于责任感，而不是真正的忠诚。我不能说这完全怪你。尽管如此，我仍希望你能明白，你对我有多么重要。\n\n在那些我发誓要让其胆战心惊、自命不凡又守法虚伪的人当中，荣誉与能力已经十分罕见；而在我们这一行，这两种品质更是几乎不存在。\n\n生日快乐。\n\n局长		
+25050	IDS_INTEL_25050	intel	CRES.DLL	to2:2657	Note: Isako and the Director@Honorable Assistant Administrator,\n\nLast night, I was on guard duty at the main house. As I was patrolling along the roof, I heard laughter through an open window. The Director was in the middle of explaining to his dinner guests the manipulative games he must play in order to placate his loyal ninja servant. He said that like a dog, Isako is easily swayed by occasional demonstrations of paternal warmth. You MUST tell her! The man is intolerable.\n\nMasayo	便条：伊沙子与局长@尊敬的助理管理员：\n\n昨晚，我在主宅值守。沿屋顶巡逻时，我从一扇打开的窗户里听见了笑声。当时，局长正在向赴宴的客人讲述，自己为了安抚那名忠心耿耿的忍者侍从，必须施展哪些操纵人心的手段。他说，伊沙子就像一条狗，只要偶尔对她表现出几分父亲般的温情，就很容易让她动摇。你一定要告诉她！这个男人实在令人无法忍受。\n\n雅代		
+25051	IDS_INTEL_25051	intel	CRES.DLL	to2:2658	Note: Chalk marks@Agent Archer,\n\nHatori-san informed us that he observed a ninja placing chalk marks in front of three buildings in this area. We presume these marks are signals for agents making dead drops of valuable items or information.\n\nPlease try to locate and erase these marks so that we can redirect delivery to sites of our choosing.\n\nSanta	便条：粉笔标记@阿彻特工：\n\n羽鸟先生告诉我们，他看到一名忍者在这一带三栋建筑前留下了粉笔标记。我们推测，这些标记是供特工投放贵重物品或情报时使用的秘密信号。\n\n请尽量找到并擦除这些标记，以便我们将投递地点引导到自己选择的位置。\n\n圣诞老人		
+25052	IDS_INTEL_25052	intel	CRES.DLL	to2:2659	Note: Patience@Masayo-san\n\nI understand and share your frustration, but we must be patient. Isako-san's sense of honor is very deep. Hearsay won't convince her to set it aside. I know this from experience. Someday he will betray himself to her. All I can do is make sure he always has plenty of sake on hand to keep his tongue loose.\n\nHaruko Muroi\nAssistant Administrator	便条：耐心@雅代小姐：\n\n我理解你的不满，也有同样的感受，但我们必须耐心等待。伊沙子的荣誉感根深蒂固，仅凭传闻无法让她放下这份恩义，这一点我深有体会。总有一天，他会亲自在她面前露出真面目。我能做的，就是确保他手边始终有足够的清酒，让他酒后失言。\n\n室井春子\n助理管理员		
+25053	IDS_INTEL_25053	intel	CRES.DLL	to2:2660	Note from Hatori-san: Caution@Agent Archer,\n\nWhen you reach the target area, be careful not to make too much noise! If you cause a disturbance, you'll lose your chance to photograph the Director. It would be a shame to miss out on the Skill Point reward by being reckless.\n\nIsamu Hatori	羽鸟先生的便条：小心行事@阿彻特工：\n\n到达目标区域后，千万不要发出太大声响！一旦引起骚动，你就会失去拍摄局长的机会。要是因为鲁莽行事而错过技能点奖励，那就太可惜了。\n\n羽鸟勇		
+25054	IDS_INTEL_25054	intel	CRES.DLL	to2:2661	UNITY Memo: Utility Launcher@Agent Archer,\n\nThe CT-180 Utility Launcher is one of our most versatile tools. Its default ammunition is a miniature Tracking Device that will mark a target's position on your compass. The dart is lightweight enough that enemies will not notice being hit by it. \n\nSanta	UNITY备忘录：多功能发射器@阿彻特工：\n\nCT-180 多功能发射器是我们用途最广泛的工具之一。其默认弹药是一枚微型追踪装置，可在指南针上标出目标的位置。飞镖非常轻，敌人甚至不会察觉自己被击中。\n\n圣诞老人		
+25055	IDS_INTEL_25055	intel	CRES.DLL	to2:2662	UNUSED			
+25056	IDS_INTEL_25056	intel	CRES.DLL	to2:2667	UNUSED			
+25057	IDS_INTEL_25057	intel	CRES.DLL	to2:2668	UNUSED			
+25058	IDS_INTEL_25058	intel	CRES.DLL	to2:2669	UNUSED			
+25059	IDS_INTEL_25059	intel	CRES.DLL	to2:2670	UNUSED			
+30000	IDS_REWARD_MSG_1	reward	CRES.DLL	to2:4437	<CHAPTER 1 REWARDS>			
+30001	IDS_REWARD_MSG_2	reward	CRES.DLL	to2:4438	You received %1!d! skill points for collecting intelligence.	收集情报，获得%1!d!点技能点。		
+30002	IDS_REWARD_MSG_3	reward	CRES.DLL	to2:4439	%1!d! skill points awarded for infiltrating the village.	潜入村庄，获得%1!d!点技能点。		
+30003	IDS_REWARD_MSG_4	reward	CRES.DLL	to2:4440	%1!d! skill points awarded for collecting six pages of the UNITY field manual.	收集UNITY外勤手册的六页内容，获得%1!d!点技能点。		
+30004	IDS_REWARD_MSG_5	reward	CRES.DLL	to2:4441	%1!d! skill points awarded for contacting Hatori-san.	与羽鸟先生取得联系，获得%1!d!点技能点。		
+30005	IDS_REWARD_MSG_6	reward	CRES.DLL	to2:4442	%1!d! skill points awarded for discovering the new location of the meeting.	查明会议的新地点，获得%1!d!点技能点。		
+30006	IDS_REWARD_MSG_7	reward	CRES.DLL	to2:4443	%1!d! skill points awarded for delivering the briefcase to Hatori-san.	将公文包交给羽鸟先生，获得%1!d!点技能点。		
+30007	IDS_REWARD_MSG_8	reward	CRES.DLL	to2:4444	%1!d! skill points awarded for photographing Hatori-san.	拍摄羽鸟先生，获得%1!d!点技能点。		
+30008	IDS_REWARD_MSG_9	reward	CRES.DLL	to2:4445	%1!d! skill points awarded for not letting ninjas sound alarms.	未让忍者拉响警报，获得%1!d!点技能点。		
+30009	IDS_REWARD_MSG_10	reward	CRES.DLL	to2:4446	%1!d! skill points awarded for studying the Spy Training Manual!	研读《间谍训练手册》，获得%1!d!点技能点！		
+33460	IDS_DIALOGUE_33460	dialogue	CRES.DLL	serversnd:2338;to2:6771	Don't shoot the bloody bird.	别朝这只该死的鸟开枪。		
+33461	IDS_DIALOGUE_33461	dialogue	CRES.DLL	serversnd:2339;to2:6772	Please don't shoot the bird.	请不要朝这只鸟开枪。		
+33462	IDS_DIALOGUE_33462	dialogue	CRES.DLL	serversnd:2340;to2:6773	Oh, target practice with the bird. Very, very funny.	哦，拿这只鸟练枪法是吧？真是太、太好笑了。		
+33463	IDS_DIALOGUE_33463	dialogue	CRES.DLL	serversnd:2341;to2:6774	Shooting the bird is a waste of money. This is an expensive bird!	朝这只鸟开枪纯属浪费钱，它可是很贵的！		
+33464	IDS_DIALOGUE_33464	dialogue	CRES.DLL	serversnd:2342;to2:6775	I and the bird are here to help you. Don't shoot us!	我和这只鸟是来帮你的，别朝我们开枪！		
+33465	IDS_DIALOGUE_33465	dialogue	CRES.DLL	serversnd:2343;to2:6776	Oh, so glad you could find it in your heart to shoot the bloody bird.	哦，真高兴你终于狠下心，朝这只该死的鸟开枪了。		
