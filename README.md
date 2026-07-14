@@ -1,4 +1,4 @@
-# NOLF2_CN — 《无人永生 2》简体中文汉化
+﻿# NOLF2_CN — 《无人永生 2》简体中文汉化
 
 > No One Lives Forever 2: A Spy in H.A.R.M.'s Way (2002) 的社区简体中文汉化。
 > 基于社区现代化补丁 **Modernizer 2** 构建；已完整通关测试，除少量漏译外可稳定游玩。
@@ -54,8 +54,7 @@ _work/tools/
     make_cn_release.py          组装集成发布包（Modernizer 核心 + 汉化 → zip）
     extract_*.py                从游戏 CRES.DLL 抽取文本、生成翻译工作表
 _work/translation/
-    chapter01_priority.tsv      第一章优先译文表
-    remaining_after_chapter01.tsv  其余全部译文表（english → zh）
+    nolf2_cn_strings.tsv        全部译文（english → zh），已按游戏内 id 顺序排列
 chinese_note.md                 完整开发日志（务必先读）
 NOLF2_汉化_发布声明.md          发布声明
 ```
